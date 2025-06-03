@@ -2,7 +2,8 @@
 
 A web application that provides accurate property price estimates for homes in Morocco, leveraging machine learning models and the Bank Al-Maghrib real estate price index (IPAI).
 
-![Morocco Property Value Estimator](https://via.placeholder.com/800x400?text=Morocco+Property+Value+Estimator)
+![image](https://github.com/user-attachments/assets/47f48209-c2ce-44dd-b3a8-e7b773526ed2)
+
 
 ## Overview
 
