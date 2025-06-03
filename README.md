@@ -131,5 +131,3 @@ The application uses the Bank Al-Maghrib real estate price index (IPAI) from T4 
 © 2025 Youssef Mouchou | All rights reserved.
 
 ---
-
-*This project is for educational and informational purposes only. Property valuations are estimates and should not be considered as official appraisals.*
