@@ -1,0 +1,1481 @@
+city,neighborhood,apartment_price_sqm,villa_price_sqm,ipai_apartment,ipai_villa,size_sqm,bedrooms,bathrooms,property_age,floor_level,has_parking,has_garden,has_pool,total_apartment_price,total_villa_price
+casablanca,Anfa,19114.0,26457.0,127.8,125.9,95,2,2,7,2,False,False,False,1815830.0,2513415.0
+casablanca,El Maarif,15969.0,18434.0,124.18,122.24,194,2,2,6,0,False,False,False,3097986.0,3576196.0
+casablanca,Sidi Belyout,15807.0,16058.0,124.18,122.24,83,3,1,19,6,False,True,False,1311981.0,1332814.0
+casablanca,Hay-Hassani,13646.0,17710.0,124.18,122.24,144,2,2,22,1,False,False,False,1965024.0,2550240.0
+casablanca,Aîn-Chock,13507.0,15012.0,124.18,122.24,163,1,2,27,9,False,False,False,2201641.0,2446956.0
+casablanca,Mers-Sultan,13171.0,12378.0,124.18,122.24,136,3,1,1,9,False,False,False,1791256.0,1683408.0
+casablanca,Assoukhour Assawda,12411.0,10750.0,124.18,122.24,64,1,1,2,7,False,False,False,794304.0,688000.0
+casablanca,Aîn-Sebaâ,10966.0,10786.0,124.18,122.24,129,2,2,23,6,False,False,False,1414614.0,1391394.0
+casablanca,Hay Mohammadi,10885.0,,124.18,122.24,83,2,2,3,0,False,False,False,903455.0,
+casablanca,Al-Fida,10116.0,,124.18,122.24,85,1,1,21,7,False,True,False,859860.0,
+casablanca,Ain Diab,30706.0,18458.0,126.4,124.7,99,2,1,20,1,False,False,False,3039894.0,1827342.0
+casablanca,Casablanca Finance City,25283.0,,124.18,122.24,118,3,2,9,7,False,False,False,2983394.0,
+casablanca,Derb Abdellah,24321.0,,124.18,122.24,70,1,1,2,3,False,False,False,1702470.0,
+casablanca,Gauthier,22267.0,26801.0,124.2,122.1,81,1,1,6,1,True,False,False,1803627.0,2170881.0
+casablanca,Racine,19534.0,16145.0,125.6,123.4,195,1,1,9,1,False,False,False,3809130.0,3148275.0
+casablanca,Marina,19411.0,,124.18,122.24,199,3,1,12,5,False,False,True,3862789.0,
+casablanca,Oasis,19301.0,18764.0,124.18,122.24,87,1,2,19,1,False,False,False,1679187.0,1632468.0
+casablanca,El Manar - El Hank,19233.0,,124.18,122.24,67,3,1,4,3,False,False,False,1288611.0,
+casablanca,Massira Khadra,18865.0,,124.18,122.24,54,1,1,6,5,False,False,False,1018710.0,
+casablanca,Ferme Bretonne,18683.0,27128.0,124.18,122.24,65,3,1,20,3,False,False,False,1214395.0,1763320.0
+casablanca,Anfa,19114.0,26457.0,127.8,125.9,78,3,1,3,3,False,False,False,1490892.0,2063646.0
+casablanca,El Maarif,15969.0,18434.0,124.18,122.24,71,1,1,6,4,False,False,False,1133799.0,1308814.0
+casablanca,Sidi Belyout,15807.0,16058.0,124.18,122.24,114,1,2,25,1,False,False,False,1801998.0,1830612.0
+casablanca,Hay-Hassani,13646.0,17710.0,124.18,122.24,186,2,1,22,8,True,False,False,2538156.0,3294060.0
+casablanca,Aîn-Chock,13507.0,15012.0,124.18,122.24,195,2,1,15,2,False,False,False,2633865.0,2927340.0
+casablanca,Mers-Sultan,13171.0,12378.0,124.18,122.24,168,2,2,24,9,False,False,False,2212728.0,2079504.0
+casablanca,Assoukhour Assawda,12411.0,10750.0,124.18,122.24,152,2,2,22,1,False,False,False,1886472.0,1634000.0
+casablanca,Aîn-Sebaâ,10966.0,10786.0,124.18,122.24,99,2,1,0,6,False,False,False,1085634.0,1067814.0
+casablanca,Hay Mohammadi,10885.0,,124.18,122.24,128,2,1,11,5,False,False,False,1393280.0,
+casablanca,Al-Fida,10116.0,,124.18,122.24,174,3,1,23,7,False,False,False,1760184.0,
+casablanca,Ain Diab,30706.0,18458.0,126.4,124.7,180,2,1,0,4,False,False,False,5527080.0,3322440.0
+casablanca,Casablanca Finance City,25283.0,,124.18,122.24,91,3,2,22,6,False,True,False,2300753.0,
+casablanca,Derb Abdellah,24321.0,,124.18,122.24,183,2,2,26,0,False,False,False,4450743.0,
+casablanca,Gauthier,22267.0,26801.0,124.2,122.1,67,3,2,28,9,False,False,False,1491889.0,1795667.0
+casablanca,Racine,19534.0,16145.0,125.6,123.4,145,2,1,28,9,True,False,False,2832430.0,2341025.0
+casablanca,Marina,19411.0,,124.18,122.24,50,2,1,1,0,False,False,False,970550.0,
+casablanca,Oasis,19301.0,18764.0,124.18,122.24,138,1,2,6,3,False,False,False,2663538.0,2589432.0
+casablanca,El Manar - El Hank,19233.0,,124.18,122.24,95,1,1,15,2,False,False,False,1827135.0,
+casablanca,Massira Khadra,18865.0,,124.18,122.24,158,1,1,5,7,True,False,False,2980670.0,
+casablanca,Ferme Bretonne,18683.0,27128.0,124.18,122.24,63,2,1,24,1,True,False,False,1177029.0,1709064.0
+casablanca,Anfa,19114.0,26457.0,127.8,125.9,61,1,2,11,8,False,True,False,1165954.0,1613877.0
+casablanca,El Maarif,15969.0,18434.0,124.18,122.24,90,3,2,6,3,False,True,False,1437210.0,1659060.0
+casablanca,Sidi Belyout,15807.0,16058.0,124.18,122.24,92,1,2,4,6,True,False,False,1454244.0,1477336.0
+casablanca,Hay-Hassani,13646.0,17710.0,124.18,122.24,122,2,1,11,5,False,False,False,1664812.0,2160620.0
+casablanca,Aîn-Chock,13507.0,15012.0,124.18,122.24,54,1,2,12,8,False,True,False,729378.0,810648.0
+casablanca,Mers-Sultan,13171.0,12378.0,124.18,122.24,141,2,2,2,6,False,False,False,1857111.0,1745298.0
+casablanca,Assoukhour Assawda,12411.0,10750.0,124.18,122.24,157,3,2,6,1,False,False,False,1948527.0,1687750.0
+casablanca,Aîn-Sebaâ,10966.0,10786.0,124.18,122.24,97,2,1,19,2,False,False,False,1063702.0,1046242.0
+casablanca,Hay Mohammadi,10885.0,,124.18,122.24,190,2,1,0,7,False,False,False,2068150.0,
+casablanca,Al-Fida,10116.0,,124.18,122.24,61,1,1,22,0,True,False,True,617076.0,
+casablanca,Ain Diab,30706.0,18458.0,126.4,124.7,132,1,1,6,9,False,False,False,4053192.0,2436456.0
+casablanca,Casablanca Finance City,25283.0,,124.18,122.24,55,2,1,7,7,False,False,False,1390565.0,
+casablanca,Derb Abdellah,24321.0,,124.18,122.24,75,1,2,23,0,False,False,False,1824075.0,
+casablanca,Gauthier,22267.0,26801.0,124.2,122.1,163,3,2,7,2,False,False,False,3629521.0,4368563.0
+casablanca,Racine,19534.0,16145.0,125.6,123.4,85,1,2,20,4,False,False,False,1660390.0,1372325.0
+casablanca,Marina,19411.0,,124.18,122.24,151,2,1,28,4,False,True,False,2931061.0,
+casablanca,Oasis,19301.0,18764.0,124.18,122.24,162,3,2,0,7,False,False,False,3126762.0,3039768.0
+casablanca,El Manar - El Hank,19233.0,,124.18,122.24,166,1,1,9,4,False,False,False,3192678.0,
+casablanca,Massira Khadra,18865.0,,124.18,122.24,171,3,2,15,9,False,True,False,3225915.0,
+casablanca,Ferme Bretonne,18683.0,27128.0,124.18,122.24,120,3,2,23,0,True,True,False,2241960.0,3255360.0
+casablanca,Anfa,19114.0,26457.0,127.8,125.9,87,1,1,14,2,False,False,False,1662918.0,2301759.0
+casablanca,El Maarif,15969.0,18434.0,124.18,122.24,147,3,1,2,9,False,False,False,2347443.0,2709798.0
+casablanca,Sidi Belyout,15807.0,16058.0,124.18,122.24,172,2,2,26,2,False,False,False,2718804.0,2761976.0
+casablanca,Hay-Hassani,13646.0,17710.0,124.18,122.24,144,1,2,0,7,False,False,False,1965024.0,2550240.0
+casablanca,Aîn-Chock,13507.0,15012.0,124.18,122.24,191,2,1,26,9,True,False,False,2579837.0,2867292.0
+casablanca,Mers-Sultan,13171.0,12378.0,124.18,122.24,143,1,1,23,3,False,False,True,1883453.0,1770054.0
+casablanca,Assoukhour Assawda,12411.0,10750.0,124.18,122.24,94,2,1,10,6,False,False,False,1166634.0,1010500.0
+casablanca,Aîn-Sebaâ,10966.0,10786.0,124.18,122.24,187,3,1,12,1,False,False,False,2050642.0,2016982.0
+casablanca,Hay Mohammadi,10885.0,,124.18,122.24,117,2,1,26,0,False,False,True,1273545.0,
+casablanca,Al-Fida,10116.0,,124.18,122.24,143,3,2,1,9,False,False,False,1446588.0,
+casablanca,Anfa,19114.0,26457.0,127.8,125.9,50,3,1,16,7,False,False,False,955700.0,1322850.0
+casablanca,El Maarif,15969.0,18434.0,124.18,122.24,167,3,2,13,5,True,False,False,2666823.0,3078478.0
+casablanca,Sidi Belyout,15807.0,16058.0,124.18,122.24,131,1,2,8,0,False,False,False,2070717.0,2103598.0
+casablanca,Hay-Hassani,13646.0,17710.0,124.18,122.24,124,1,2,25,1,True,False,False,1692104.0,2196040.0
+casablanca,Aîn-Chock,13507.0,15012.0,124.18,122.24,185,1,2,27,9,False,False,False,2498795.0,2777220.0
+casablanca,Mers-Sultan,13171.0,12378.0,124.18,122.24,52,3,1,0,5,False,False,False,684892.0,643656.0
+casablanca,Assoukhour Assawda,12411.0,10750.0,124.18,122.24,178,1,2,7,2,False,False,False,2209158.0,1913500.0
+casablanca,Aîn-Sebaâ,10966.0,10786.0,124.18,122.24,85,1,1,11,7,False,False,False,932110.0,916810.0
+casablanca,Hay Mohammadi,10885.0,,124.18,122.24,85,1,2,20,0,False,False,False,925225.0,
+casablanca,Al-Fida,10116.0,,124.18,122.24,178,3,1,25,1,False,False,True,1800648.0,
+casablanca,Ain Diab,30706.0,18458.0,126.4,124.7,119,1,2,10,6,False,False,False,3654014.0,2196502.0
+casablanca,Casablanca Finance City,25283.0,,124.18,122.24,130,1,1,12,3,False,True,False,3286790.0,
+casablanca,Derb Abdellah,24321.0,,124.18,122.24,167,2,2,11,7,False,False,False,4061607.0,
+casablanca,Gauthier,22267.0,26801.0,124.2,122.1,111,1,1,28,9,False,False,False,2471637.0,2974911.0
+casablanca,Racine,19534.0,16145.0,125.6,123.4,83,3,2,7,9,False,True,False,1621322.0,1340035.0
+casablanca,Marina,19411.0,,124.18,122.24,128,3,2,3,5,False,False,False,2484608.0,
+casablanca,Oasis,19301.0,18764.0,124.18,122.24,196,1,1,23,1,True,False,False,3782996.0,3677744.0
+casablanca,El Manar - El Hank,19233.0,,124.18,122.24,59,3,1,21,5,False,False,False,1134747.0,
+casablanca,Massira Khadra,18865.0,,124.18,122.24,143,2,2,7,0,False,False,False,2697695.0,
+casablanca,Ferme Bretonne,18683.0,27128.0,124.18,122.24,146,1,2,25,4,False,False,False,2727718.0,3960688.0
+casablanca,Ain Diab,30706.0,18458.0,126.4,124.7,159,3,1,24,8,False,False,False,4882254.0,2934822.0
+casablanca,Casablanca Finance City,25283.0,,124.18,122.24,66,3,2,4,7,False,False,False,1668678.0,
+casablanca,Derb Abdellah,24321.0,,124.18,122.24,142,1,2,14,2,False,False,False,3453582.0,
+casablanca,Gauthier,22267.0,26801.0,124.2,122.1,135,1,1,2,0,False,False,False,3006045.0,3618135.0
+casablanca,Racine,19534.0,16145.0,125.6,123.4,159,3,1,8,4,False,True,False,3105906.0,2567055.0
+casablanca,Marina,19411.0,,124.18,122.24,127,1,2,16,6,False,False,False,2465197.0,
+casablanca,Oasis,19301.0,18764.0,124.18,122.24,86,3,2,28,9,False,False,False,1659886.0,1613704.0
+casablanca,El Manar - El Hank,19233.0,,124.18,122.24,91,2,2,14,1,False,False,False,1750203.0,
+casablanca,Massira Khadra,18865.0,,124.18,122.24,198,3,1,13,4,False,False,False,3735270.0,
+casablanca,Ferme Bretonne,18683.0,27128.0,124.18,122.24,180,1,2,29,3,False,False,False,3362940.0,4883040.0
+rabat,Agdal Riyad,15944.0,15244.0,118.23,116.6,143,2,2,20,7,False,False,False,2279992.0,2179892.0
+rabat,Souissi,12440.0,7905.0,118.23,116.6,166,3,1,20,4,False,False,False,2065040.0,1312230.0
+rabat,Hassan,12406.0,18473.0,117.5,115.9,196,3,2,5,5,False,False,False,2431576.0,3620708.0
+rabat,El Youssoufia,11650.0,12215.0,118.23,116.6,184,1,1,26,8,False,False,False,2143600.0,2247560.0
+rabat,Yacoub El Mansour,10953.0,14585.0,118.23,116.6,114,2,1,26,4,True,False,False,1248642.0,1662690.0
+rabat,Souissi,22461.0,9319.0,118.23,116.6,180,2,1,22,8,False,False,False,4042980.0,1677420.0
+rabat,Haut Agdal,21235.0,14902.0,118.23,116.6,187,2,2,7,4,False,False,False,3970945.0,2786674.0
+rabat,Riyad,18608.0,10950.0,118.23,116.6,179,1,1,26,0,False,False,False,3330832.0,1960050.0
+rabat,Hay Riad,17863.0,,119.7,118.1,124,2,2,6,8,False,False,False,2215012.0,
+rabat,Akkari,16189.0,,118.23,116.6,116,1,1,9,1,False,False,False,1877924.0,
+rabat,Agdal,15888.0,,118.9,117.2,69,2,1,17,4,True,False,False,1096272.0,
+rabat,Quartier Administratif,15162.0,12541.0,118.23,116.6,77,2,2,26,9,False,False,False,1167474.0,965657.0
+rabat,Yacoub El Mansour,14887.0,,118.23,116.6,59,2,2,29,2,False,False,False,878333.0,
+rabat,Hassan - Centre Ville,14763.0,,118.23,116.6,111,1,2,8,7,False,False,False,1638693.0,
+rabat,Aviation - Mabella,14369.0,8501.0,118.23,116.6,150,3,1,22,3,True,False,False,2155350.0,1275150.0
+rabat,Agdal Riyad,15944.0,15244.0,118.23,116.6,119,3,2,6,5,False,False,False,1897336.0,1814036.0
+rabat,Souissi,12440.0,7905.0,118.23,116.6,103,2,2,6,2,False,False,False,1281320.0,814215.0
+rabat,Hassan,12406.0,18473.0,117.5,115.9,166,3,2,16,9,False,False,False,2059396.0,3066518.0
+rabat,El Youssoufia,11650.0,12215.0,118.23,116.6,166,3,1,26,7,False,True,False,1933900.0,2027690.0
+rabat,Yacoub El Mansour,10953.0,14585.0,118.23,116.6,88,3,1,28,1,False,False,False,963864.0,1283480.0
+rabat,Souissi,22461.0,9319.0,118.23,116.6,89,1,2,6,6,True,False,False,1999029.0,829391.0
+rabat,Haut Agdal,21235.0,14902.0,118.23,116.6,101,2,2,23,9,False,True,False,2144735.0,1505102.0
+rabat,Riyad,18608.0,10950.0,118.23,116.6,68,3,1,21,2,False,False,False,1265344.0,744600.0
+rabat,Hay Riad,17863.0,,119.7,118.1,120,2,2,16,8,True,False,False,2143560.0,
+rabat,Akkari,16189.0,,118.23,116.6,96,1,2,27,8,False,False,False,1554144.0,
+rabat,Agdal,15888.0,,118.9,117.2,90,1,1,3,1,True,False,False,1429920.0,
+rabat,Quartier Administratif,15162.0,12541.0,118.23,116.6,162,1,2,12,5,False,False,False,2456244.0,2031642.0
+rabat,Yacoub El Mansour,14887.0,,118.23,116.6,65,1,1,10,0,False,False,False,967655.0,
+rabat,Hassan - Centre Ville,14763.0,,118.23,116.6,173,2,1,3,2,True,False,False,2553999.0,
+rabat,Aviation - Mabella,14369.0,8501.0,118.23,116.6,198,1,2,14,8,False,False,False,2845062.0,1683198.0
+rabat,Agdal Riyad,15944.0,15244.0,118.23,116.6,189,1,2,17,8,False,False,False,3013416.0,2881116.0
+rabat,Souissi,12440.0,7905.0,118.23,116.6,189,2,2,3,9,False,False,True,2351160.0,1494045.0
+rabat,Hassan,12406.0,18473.0,117.5,115.9,101,2,2,22,0,False,False,False,1253006.0,1865773.0
+rabat,El Youssoufia,11650.0,12215.0,118.23,116.6,189,3,1,18,0,False,False,False,2201850.0,2308635.0
+rabat,Yacoub El Mansour,10953.0,14585.0,118.23,116.6,163,1,2,25,5,False,False,False,1785339.0,2377355.0
+rabat,Souissi,22461.0,9319.0,118.23,116.6,100,3,2,3,4,False,True,False,2246100.0,931900.0
+rabat,Haut Agdal,21235.0,14902.0,118.23,116.6,58,3,2,9,7,False,False,False,1231630.0,864316.0
+rabat,Riyad,18608.0,10950.0,118.23,116.6,101,1,2,15,0,False,False,True,1879408.0,1105950.0
+rabat,Hay Riad,17863.0,,119.7,118.1,140,1,1,2,8,True,False,False,2500820.0,
+rabat,Akkari,16189.0,,118.23,116.6,53,2,1,24,5,False,False,False,858017.0,
+rabat,Agdal,15888.0,,118.9,117.2,192,1,2,20,4,False,False,False,3050496.0,
+rabat,Quartier Administratif,15162.0,12541.0,118.23,116.6,177,2,1,23,7,True,False,False,2683674.0,2219757.0
+rabat,Yacoub El Mansour,14887.0,,118.23,116.6,104,2,1,17,2,False,True,False,1548248.0,
+rabat,Hassan - Centre Ville,14763.0,,118.23,116.6,81,1,2,29,1,False,False,False,1195803.0,
+rabat,Aviation - Mabella,14369.0,8501.0,118.23,116.6,138,2,2,0,3,False,False,False,1982922.0,1173138.0
+rabat,Agdal Riyad,15944.0,15244.0,118.23,116.6,150,1,2,23,5,True,False,False,2391600.0,2286600.0
+rabat,Souissi,12440.0,7905.0,118.23,116.6,129,1,2,21,2,False,False,False,1604760.0,1019745.0
+rabat,Hassan,12406.0,18473.0,117.5,115.9,73,3,1,29,4,False,False,False,905638.0,1348529.0
+rabat,El Youssoufia,11650.0,12215.0,118.23,116.6,87,3,2,4,7,False,False,False,1013550.0,1062705.0
+rabat,Yacoub El Mansour,10953.0,14585.0,118.23,116.6,60,1,1,11,4,False,False,False,657180.0,875100.0
+rabat,Agdal Riyad,15944.0,15244.0,118.23,116.6,56,3,1,27,5,False,False,True,892864.0,853664.0
+rabat,Souissi,12440.0,7905.0,118.23,116.6,119,3,1,15,1,False,False,False,1480360.0,940695.0
+rabat,Hassan,12406.0,18473.0,117.5,115.9,105,2,1,1,1,False,False,False,1302630.0,1939665.0
+rabat,El Youssoufia,11650.0,12215.0,118.23,116.6,195,1,1,11,3,False,False,False,2271750.0,2381925.0
+rabat,Yacoub El Mansour,10953.0,14585.0,118.23,116.6,199,1,1,11,8,False,False,False,2179647.0,2902415.0
+rabat,Souissi,22461.0,9319.0,118.23,116.6,164,1,2,22,8,False,False,False,3683604.0,1528316.0
+rabat,Haut Agdal,21235.0,14902.0,118.23,116.6,196,2,1,21,1,True,False,False,4162060.0,2920792.0
+rabat,Riyad,18608.0,10950.0,118.23,116.6,127,2,1,8,9,False,False,False,2363216.0,1390650.0
+rabat,Hay Riad,17863.0,,119.7,118.1,136,1,1,4,7,True,False,False,2429368.0,
+rabat,Akkari,16189.0,,118.23,116.6,146,1,1,17,8,False,False,False,2363594.0,
+rabat,Agdal,15888.0,,118.9,117.2,158,2,1,3,4,False,False,True,2510304.0,
+rabat,Quartier Administratif,15162.0,12541.0,118.23,116.6,158,3,2,15,7,False,False,False,2395596.0,1981478.0
+rabat,Yacoub El Mansour,14887.0,,118.23,116.6,50,2,1,9,2,False,False,False,744350.0,
+rabat,Hassan - Centre Ville,14763.0,,118.23,116.6,59,1,1,27,3,False,False,False,871017.0,
+rabat,Aviation - Mabella,14369.0,8501.0,118.23,116.6,99,3,1,9,8,True,False,False,1422531.0,841599.0
+rabat,Souissi,22461.0,9319.0,118.23,116.6,183,1,1,26,5,True,False,False,4110363.0,1705377.0
+rabat,Haut Agdal,21235.0,14902.0,118.23,116.6,54,1,1,17,6,False,False,False,1146690.0,804708.0
+rabat,Riyad,18608.0,10950.0,118.23,116.6,172,3,2,7,8,False,False,False,3200576.0,1883400.0
+rabat,Hay Riad,17863.0,,119.7,118.1,133,1,1,20,1,False,False,False,2375779.0,
+rabat,Akkari,16189.0,,118.23,116.6,184,1,2,12,5,False,False,False,2978776.0,
+rabat,Agdal,15888.0,,118.9,117.2,67,2,1,9,0,False,False,False,1064496.0,
+rabat,Quartier Administratif,15162.0,12541.0,118.23,116.6,188,1,1,5,6,True,False,False,2850456.0,2357708.0
+rabat,Yacoub El Mansour,14887.0,,118.23,116.6,85,3,2,20,8,False,False,False,1265395.0,
+rabat,Hassan - Centre Ville,14763.0,,118.23,116.6,90,3,1,23,5,False,False,False,1328670.0,
+rabat,Aviation - Mabella,14369.0,8501.0,118.23,116.6,77,1,2,1,8,False,False,False,1106413.0,654577.0
+fes,Agdal,7573.0,8683.0,107.4,106.2,129,3,2,26,4,False,False,False,976917.0,1120107.0
+fes,Saiss,7512.0,6503.0,107.4,106.2,106,1,1,29,1,False,False,False,796272.0,689318.0
+fes,El Mariniyine,6715.0,,107.4,106.2,147,1,1,23,3,False,False,False,987105.0,
+fes,Zouagha,6184.0,8624.0,107.4,106.2,151,2,1,16,3,False,False,False,933784.0,1302224.0
+fes,Oulad Tayeb,5551.0,,107.4,106.2,109,3,2,12,1,False,False,False,605059.0,
+fes,Fes City Center,8049.0,,107.4,106.2,180,3,1,16,5,False,False,True,1448820.0,
+fes,Hay Moulay El Kamel,7712.0,,107.4,106.2,100,3,2,23,5,True,False,False,771200.0,
+fes,Bourmana,7539.0,6107.0,107.4,106.2,136,2,1,13,0,False,False,False,1025304.0,830552.0
+fes,Mourabitine,7180.0,,107.4,106.2,117,3,2,17,0,False,False,False,840060.0,
+fes,Riad,6911.0,9012.0,107.4,106.2,174,3,2,2,2,False,False,False,1202514.0,1568088.0
+fes,Nouvelle Ville,6871.0,9370.0,107.4,106.2,75,2,1,0,1,False,False,True,515325.0,702750.0
+fes,Hay Jdid,6404.0,,107.4,106.2,85,2,2,18,3,False,False,False,544340.0,
+fes,Oued Fes,6341.0,,107.4,106.2,168,3,1,17,9,False,False,False,1065288.0,
+fes,Hay Al Azhar,6230.0,,107.4,106.2,124,2,2,25,5,False,False,False,772520.0,
+fes,Hay Massira,6216.0,,107.4,106.2,193,1,1,5,8,False,False,False,1199688.0,
+fes,Agdal,7573.0,8683.0,107.4,106.2,148,2,2,5,8,True,False,False,1120804.0,1285084.0
+fes,Saiss,7512.0,6503.0,107.4,106.2,128,3,1,23,2,False,False,False,961536.0,832384.0
+fes,El Mariniyine,6715.0,,107.4,106.2,191,1,1,16,5,False,False,False,1282565.0,
+fes,Zouagha,6184.0,8624.0,107.4,106.2,94,1,2,24,0,False,False,False,581296.0,810656.0
+fes,Oulad Tayeb,5551.0,,107.4,106.2,151,3,1,13,1,True,False,False,838201.0,
+fes,Fes City Center,8049.0,,107.4,106.2,104,2,2,17,0,False,False,True,837096.0,
+fes,Hay Moulay El Kamel,7712.0,,107.4,106.2,184,3,2,28,9,False,False,False,1419008.0,
+fes,Bourmana,7539.0,6107.0,107.4,106.2,157,3,2,14,7,False,False,False,1183623.0,958799.0
+fes,Mourabitine,7180.0,,107.4,106.2,118,3,1,28,3,False,False,False,847240.0,
+fes,Riad,6911.0,9012.0,107.4,106.2,60,3,1,13,7,False,False,False,414660.0,540720.0
+fes,Nouvelle Ville,6871.0,9370.0,107.4,106.2,120,1,2,17,3,True,False,True,824520.0,1124400.0
+fes,Hay Jdid,6404.0,,107.4,106.2,140,2,1,3,2,False,False,False,896560.0,
+fes,Oued Fes,6341.0,,107.4,106.2,178,2,1,15,5,False,False,False,1128698.0,
+fes,Hay Al Azhar,6230.0,,107.4,106.2,130,1,1,2,4,False,False,True,809900.0,
+fes,Hay Massira,6216.0,,107.4,106.2,179,3,2,7,0,False,False,False,1112664.0,
+fes,Agdal,7573.0,8683.0,107.4,106.2,169,2,2,12,1,False,False,False,1279837.0,1467427.0
+fes,Saiss,7512.0,6503.0,107.4,106.2,111,2,1,18,6,False,False,False,833832.0,721833.0
+fes,El Mariniyine,6715.0,,107.4,106.2,106,2,1,26,7,False,False,False,711790.0,
+fes,Zouagha,6184.0,8624.0,107.4,106.2,63,2,2,14,5,False,False,False,389592.0,543312.0
+fes,Oulad Tayeb,5551.0,,107.4,106.2,174,2,1,3,8,False,False,False,965874.0,
+fes,Fes City Center,8049.0,,107.4,106.2,140,1,2,8,4,False,False,False,1126860.0,
+fes,Hay Moulay El Kamel,7712.0,,107.4,106.2,122,3,2,13,6,False,False,False,940864.0,
+fes,Bourmana,7539.0,6107.0,107.4,106.2,86,2,2,6,2,False,False,False,648354.0,525202.0
+fes,Mourabitine,7180.0,,107.4,106.2,93,1,2,19,6,False,True,False,667740.0,
+fes,Riad,6911.0,9012.0,107.4,106.2,102,1,2,21,9,False,False,False,704922.0,919224.0
+fes,Nouvelle Ville,6871.0,9370.0,107.4,106.2,102,3,1,20,3,True,False,False,700842.0,955740.0
+fes,Hay Jdid,6404.0,,107.4,106.2,182,3,1,23,3,False,False,False,1165528.0,
+fes,Oued Fes,6341.0,,107.4,106.2,171,1,2,9,0,False,False,True,1084311.0,
+fes,Hay Al Azhar,6230.0,,107.4,106.2,50,1,2,5,0,False,False,False,311500.0,
+fes,Hay Massira,6216.0,,107.4,106.2,110,1,1,4,9,False,False,False,683760.0,
+fes,Agdal,7573.0,8683.0,107.4,106.2,126,2,2,14,4,False,False,False,954198.0,1094058.0
+fes,Saiss,7512.0,6503.0,107.4,106.2,145,2,2,0,4,False,False,False,1089240.0,942935.0
+fes,El Mariniyine,6715.0,,107.4,106.2,192,1,1,6,7,False,False,False,1289280.0,
+fes,Zouagha,6184.0,8624.0,107.4,106.2,138,2,1,2,0,False,False,True,853392.0,1190112.0
+fes,Oulad Tayeb,5551.0,,107.4,106.2,73,3,1,8,8,False,False,False,405223.0,
+fes,Agdal,7573.0,8683.0,107.4,106.2,55,3,2,8,2,False,False,True,416515.0,477565.0
+fes,Saiss,7512.0,6503.0,107.4,106.2,178,3,2,4,9,False,False,False,1337136.0,1157534.0
+fes,El Mariniyine,6715.0,,107.4,106.2,142,3,1,22,0,False,False,True,953530.0,
+fes,Zouagha,6184.0,8624.0,107.4,106.2,112,3,2,3,2,False,True,False,692608.0,965888.0
+fes,Oulad Tayeb,5551.0,,107.4,106.2,106,2,2,4,0,False,False,False,588406.0,
+fes,Fes City Center,8049.0,,107.4,106.2,193,3,1,6,0,False,False,False,1553457.0,
+fes,Hay Moulay El Kamel,7712.0,,107.4,106.2,144,3,2,15,3,False,False,False,1110528.0,
+fes,Bourmana,7539.0,6107.0,107.4,106.2,68,1,2,25,8,False,False,False,512652.0,415276.0
+fes,Mourabitine,7180.0,,107.4,106.2,58,1,1,29,9,False,False,False,416440.0,
+fes,Riad,6911.0,9012.0,107.4,106.2,67,2,1,13,8,False,False,False,463037.0,603804.0
+fes,Nouvelle Ville,6871.0,9370.0,107.4,106.2,150,3,2,22,6,False,True,False,1030650.0,1405500.0
+fes,Hay Jdid,6404.0,,107.4,106.2,92,2,2,23,9,False,False,False,589168.0,
+fes,Oued Fes,6341.0,,107.4,106.2,195,2,1,23,7,True,False,False,1236495.0,
+fes,Hay Al Azhar,6230.0,,107.4,106.2,103,1,2,28,5,True,False,False,641690.0,
+fes,Hay Massira,6216.0,,107.4,106.2,113,2,2,29,0,False,False,False,702408.0,
+fes,Fes City Center,8049.0,,107.4,106.2,128,2,1,1,8,False,False,False,1030272.0,
+fes,Hay Moulay El Kamel,7712.0,,107.4,106.2,61,2,2,1,5,True,False,False,470432.0,
+fes,Bourmana,7539.0,6107.0,107.4,106.2,69,1,2,4,7,False,False,False,520191.0,421383.0
+fes,Mourabitine,7180.0,,107.4,106.2,113,2,2,13,4,False,False,False,811340.0,
+fes,Riad,6911.0,9012.0,107.4,106.2,88,1,1,5,8,False,False,False,608168.0,793056.0
+fes,Nouvelle Ville,6871.0,9370.0,107.4,106.2,128,2,2,20,8,False,False,False,879488.0,1199360.0
+fes,Hay Jdid,6404.0,,107.4,106.2,138,2,1,28,9,False,False,False,883752.0,
+fes,Oued Fes,6341.0,,107.4,106.2,164,3,1,8,2,True,False,False,1039924.0,
+fes,Hay Al Azhar,6230.0,,107.4,106.2,104,3,2,13,3,False,False,False,647920.0,
+fes,Hay Massira,6216.0,,107.4,106.2,91,2,2,1,2,False,False,False,565656.0,
+marrakech,Méchouar-Kasba,14666.0,8101.0,114.43,112.93,77,3,1,2,5,False,False,False,1129282.0,623777.0
+marrakech,Ouahat Sidi Brahim,11247.0,,114.43,112.93,90,2,1,23,8,False,True,False,1012230.0,
+marrakech,Gueliz,10508.0,10862.0,114.8,113.2,73,2,2,14,6,False,False,False,767084.0,792926.0
+marrakech,Marrakech-Médina,9573.0,,114.43,112.93,93,2,2,2,3,False,False,False,890289.0,
+marrakech,Alouidane,9484.0,14259.0,114.43,112.93,161,2,1,20,5,False,False,False,1526924.0,2295699.0
+marrakech,Annakhil,9182.0,8038.0,114.43,112.93,53,2,2,29,2,False,False,False,486646.0,426014.0
+marrakech,Ménara,9137.0,10249.0,114.43,112.93,180,3,1,19,1,False,False,False,1644660.0,1844820.0
+marrakech,Harbil,7720.0,5547.0,114.43,112.93,118,3,1,5,1,False,False,False,910960.0,654546.0
+marrakech,Tassoultante,6872.0,10779.0,114.43,112.93,139,1,1,4,3,False,False,False,955208.0,1498281.0
+marrakech,Saada,6130.0,8228.0,114.43,112.93,113,3,2,14,0,False,False,False,692690.0,929764.0
+marrakech,Hivernage,17464.0,11090.0,115.6,114.1,102,3,1,12,7,True,False,False,1781328.0,1131180.0
+marrakech,Tassoultante,14340.0,9986.0,114.43,112.93,106,2,1,4,8,False,False,True,1520040.0,1058516.0
+marrakech,Agdal,13853.0,,114.43,112.93,182,3,2,12,4,False,False,False,2521246.0,
+marrakech,Masmoudi,13136.0,8341.0,114.43,112.93,105,1,2,8,2,False,False,False,1379280.0,875805.0
+marrakech,Guéliz,12620.0,16539.0,114.43,112.93,162,1,1,22,4,False,True,False,2044440.0,2679318.0
+marrakech,Camp Al Ghoul,11982.0,13468.0,114.43,112.93,152,3,2,17,6,False,False,False,1821264.0,2047136.0
+marrakech,Oliva,11323.0,,114.43,112.93,149,2,2,18,8,False,True,False,1687127.0,
+marrakech,Sidi Bou Amar,11245.0,,114.43,112.93,196,1,1,8,1,True,False,False,2204020.0,
+marrakech,Majorelle,11224.0,,114.43,112.93,143,3,2,28,3,True,False,False,1605032.0,
+marrakech,Samlalia,10854.0,12630.0,114.43,112.93,67,2,1,8,6,True,False,False,727218.0,846210.0
+marrakech,Méchouar-Kasba,14666.0,8101.0,114.43,112.93,163,3,1,7,2,False,False,False,2390558.0,1320463.0
+marrakech,Ouahat Sidi Brahim,11247.0,,114.43,112.93,58,3,2,28,6,True,False,False,652326.0,
+marrakech,Gueliz,10508.0,10862.0,114.8,113.2,68,2,2,22,4,False,False,False,714544.0,738616.0
+marrakech,Marrakech-Médina,9573.0,,114.43,112.93,55,3,1,8,2,True,False,False,526515.0,
+marrakech,Alouidane,9484.0,14259.0,114.43,112.93,82,1,2,23,6,True,False,False,777688.0,1169238.0
+marrakech,Annakhil,9182.0,8038.0,114.43,112.93,53,1,2,20,7,False,False,True,486646.0,426014.0
+marrakech,Ménara,9137.0,10249.0,114.43,112.93,191,3,1,9,9,False,False,False,1745167.0,1957559.0
+marrakech,Harbil,7720.0,5547.0,114.43,112.93,136,2,1,1,1,False,True,False,1049920.0,754392.0
+marrakech,Tassoultante,6872.0,10779.0,114.43,112.93,177,3,1,29,4,False,False,False,1216344.0,1907883.0
+marrakech,Saada,6130.0,8228.0,114.43,112.93,52,1,2,5,6,False,True,False,318760.0,427856.0
+marrakech,Hivernage,17464.0,11090.0,115.6,114.1,138,2,2,2,2,False,True,False,2410032.0,1530420.0
+marrakech,Tassoultante,14340.0,9986.0,114.43,112.93,121,1,1,21,0,False,False,False,1735140.0,1208306.0
+marrakech,Agdal,13853.0,,114.43,112.93,100,1,1,25,6,False,False,False,1385300.0,
+marrakech,Masmoudi,13136.0,8341.0,114.43,112.93,156,3,1,8,4,False,True,False,2049216.0,1301196.0
+marrakech,Guéliz,12620.0,16539.0,114.43,112.93,89,1,1,17,5,False,False,False,1123180.0,1471971.0
+marrakech,Camp Al Ghoul,11982.0,13468.0,114.43,112.93,78,2,2,10,8,False,False,False,934596.0,1050504.0
+marrakech,Oliva,11323.0,,114.43,112.93,125,2,2,1,1,False,False,False,1415375.0,
+marrakech,Sidi Bou Amar,11245.0,,114.43,112.93,184,1,1,15,9,False,False,False,2069080.0,
+marrakech,Majorelle,11224.0,,114.43,112.93,179,2,1,26,6,False,False,False,2009096.0,
+marrakech,Samlalia,10854.0,12630.0,114.43,112.93,103,1,1,25,3,False,False,False,1117962.0,1300890.0
+marrakech,Méchouar-Kasba,14666.0,8101.0,114.43,112.93,104,2,1,15,1,True,False,False,1525264.0,842504.0
+marrakech,Ouahat Sidi Brahim,11247.0,,114.43,112.93,108,1,1,14,9,False,False,False,1214676.0,
+marrakech,Gueliz,10508.0,10862.0,114.8,113.2,112,2,1,5,3,False,False,False,1176896.0,1216544.0
+marrakech,Marrakech-Médina,9573.0,,114.43,112.93,164,2,2,2,1,False,False,True,1569972.0,
+marrakech,Alouidane,9484.0,14259.0,114.43,112.93,74,1,2,20,5,True,False,False,701816.0,1055166.0
+marrakech,Annakhil,9182.0,8038.0,114.43,112.93,139,2,2,11,7,False,False,False,1276298.0,1117282.0
+marrakech,Ménara,9137.0,10249.0,114.43,112.93,177,2,2,19,6,False,False,True,1617249.0,1814073.0
+marrakech,Harbil,7720.0,5547.0,114.43,112.93,184,2,1,3,3,False,False,False,1420480.0,1020648.0
+marrakech,Tassoultante,6872.0,10779.0,114.43,112.93,180,3,1,10,3,False,False,False,1236960.0,1940220.0
+marrakech,Saada,6130.0,8228.0,114.43,112.93,79,1,1,5,8,False,False,False,484270.0,650012.0
+marrakech,Hivernage,17464.0,11090.0,115.6,114.1,67,1,2,28,5,False,False,False,1170088.0,743030.0
+marrakech,Tassoultante,14340.0,9986.0,114.43,112.93,75,1,1,21,1,False,False,False,1075500.0,748950.0
+marrakech,Agdal,13853.0,,114.43,112.93,167,1,2,20,2,False,False,False,2313451.0,
+marrakech,Masmoudi,13136.0,8341.0,114.43,112.93,86,3,1,26,9,True,True,False,1129696.0,717326.0
+marrakech,Guéliz,12620.0,16539.0,114.43,112.93,110,3,1,21,7,False,False,False,1388200.0,1819290.0
+marrakech,Camp Al Ghoul,11982.0,13468.0,114.43,112.93,118,2,2,22,1,False,False,False,1413876.0,1589224.0
+marrakech,Oliva,11323.0,,114.43,112.93,99,1,2,8,8,False,False,False,1120977.0,
+marrakech,Sidi Bou Amar,11245.0,,114.43,112.93,160,3,2,28,5,True,False,False,1799200.0,
+marrakech,Majorelle,11224.0,,114.43,112.93,146,1,1,23,3,False,False,False,1638704.0,
+marrakech,Samlalia,10854.0,12630.0,114.43,112.93,63,3,2,2,2,False,False,False,683802.0,795690.0
+marrakech,Méchouar-Kasba,14666.0,8101.0,114.43,112.93,175,2,2,12,6,True,False,False,2566550.0,1417675.0
+marrakech,Ouahat Sidi Brahim,11247.0,,114.43,112.93,152,2,1,13,3,False,True,False,1709544.0,
+marrakech,Gueliz,10508.0,10862.0,114.8,113.2,81,1,1,14,4,True,False,False,851148.0,879822.0
+marrakech,Marrakech-Médina,9573.0,,114.43,112.93,120,3,2,9,7,False,False,False,1148760.0,
+marrakech,Alouidane,9484.0,14259.0,114.43,112.93,179,2,1,7,2,False,False,False,1697636.0,2552361.0
+marrakech,Annakhil,9182.0,8038.0,114.43,112.93,125,3,2,4,5,False,False,False,1147750.0,1004750.0
+marrakech,Ménara,9137.0,10249.0,114.43,112.93,122,2,1,6,0,False,False,False,1114714.0,1250378.0
+marrakech,Harbil,7720.0,5547.0,114.43,112.93,70,2,1,19,3,False,False,False,540400.0,388290.0
+marrakech,Tassoultante,6872.0,10779.0,114.43,112.93,146,3,2,7,6,False,False,False,1003312.0,1573734.0
+marrakech,Saada,6130.0,8228.0,114.43,112.93,197,3,1,27,8,True,False,True,1207610.0,1620916.0
+marrakech,Méchouar-Kasba,14666.0,8101.0,114.43,112.93,79,1,1,25,3,False,True,False,1158614.0,639979.0
+marrakech,Ouahat Sidi Brahim,11247.0,,114.43,112.93,125,3,1,13,5,False,False,False,1405875.0,
+marrakech,Gueliz,10508.0,10862.0,114.8,113.2,94,3,1,3,3,False,False,False,987752.0,1021028.0
+marrakech,Marrakech-Médina,9573.0,,114.43,112.93,176,1,2,26,3,True,False,False,1684848.0,
+marrakech,Alouidane,9484.0,14259.0,114.43,112.93,119,2,2,18,2,False,False,False,1128596.0,1696821.0
+marrakech,Annakhil,9182.0,8038.0,114.43,112.93,171,2,2,8,9,False,True,True,1570122.0,1374498.0
+marrakech,Ménara,9137.0,10249.0,114.43,112.93,152,3,2,27,9,False,False,False,1388824.0,1557848.0
+marrakech,Harbil,7720.0,5547.0,114.43,112.93,115,3,2,11,3,False,False,False,887800.0,637905.0
+marrakech,Tassoultante,6872.0,10779.0,114.43,112.93,184,3,1,1,2,False,False,False,1264448.0,1983336.0
+marrakech,Saada,6130.0,8228.0,114.43,112.93,157,1,2,4,2,True,True,False,962410.0,1291796.0
+marrakech,Hivernage,17464.0,11090.0,115.6,114.1,183,1,1,26,6,False,True,False,3195912.0,2029470.0
+marrakech,Tassoultante,14340.0,9986.0,114.43,112.93,146,3,1,3,8,True,False,False,2093640.0,1457956.0
+marrakech,Agdal,13853.0,,114.43,112.93,72,1,2,11,3,False,False,False,997416.0,
+marrakech,Masmoudi,13136.0,8341.0,114.43,112.93,195,2,2,17,2,False,False,False,2561520.0,1626495.0
+marrakech,Guéliz,12620.0,16539.0,114.43,112.93,106,1,1,3,9,False,False,False,1337720.0,1753134.0
+marrakech,Camp Al Ghoul,11982.0,13468.0,114.43,112.93,107,2,2,7,9,False,False,False,1282074.0,1441076.0
+marrakech,Oliva,11323.0,,114.43,112.93,174,1,2,2,9,True,False,False,1970202.0,
+marrakech,Sidi Bou Amar,11245.0,,114.43,112.93,195,3,2,28,0,False,False,False,2192775.0,
+marrakech,Majorelle,11224.0,,114.43,112.93,188,2,2,3,7,False,True,False,2110112.0,
+marrakech,Samlalia,10854.0,12630.0,114.43,112.93,159,1,1,8,0,False,False,False,1725786.0,2008170.0
+marrakech,Hivernage,17464.0,11090.0,115.6,114.1,193,3,1,2,8,False,False,False,3370552.0,2140370.0
+marrakech,Tassoultante,14340.0,9986.0,114.43,112.93,89,1,2,2,1,False,True,False,1276260.0,888754.0
+marrakech,Agdal,13853.0,,114.43,112.93,148,3,1,17,1,False,False,False,2050244.0,
+marrakech,Masmoudi,13136.0,8341.0,114.43,112.93,199,3,1,15,0,False,False,False,2614064.0,1659859.0
+marrakech,Guéliz,12620.0,16539.0,114.43,112.93,137,3,2,29,1,False,False,False,1728940.0,2265843.0
+marrakech,Camp Al Ghoul,11982.0,13468.0,114.43,112.93,107,2,1,4,0,False,False,False,1282074.0,1441076.0
+marrakech,Oliva,11323.0,,114.43,112.93,81,2,2,3,0,False,False,False,917163.0,
+marrakech,Sidi Bou Amar,11245.0,,114.43,112.93,140,3,2,4,2,False,False,False,1574300.0,
+marrakech,Majorelle,11224.0,,114.43,112.93,191,2,1,6,7,False,False,False,2143784.0,
+marrakech,Samlalia,10854.0,12630.0,114.43,112.93,199,2,1,15,0,False,False,False,2159946.0,2513370.0
+agadir,Aourir,10042.0,7167.0,107.4,106.2,130,3,1,3,1,False,False,False,1305460.0,931710.0
+agadir,Tamri,10009.0,13598.0,107.4,106.2,196,3,1,0,9,False,False,False,1961764.0,2665208.0
+agadir,Taghazout,8325.0,,107.4,106.2,174,3,2,1,6,False,False,False,1448550.0,
+agadir,Drargua,7059.0,8592.0,107.4,106.2,69,3,2,10,3,False,False,False,487071.0,592848.0
+agadir,Agadir,6857.0,10538.0,107.4,106.2,180,2,1,23,3,True,True,False,1234260.0,1896840.0
+agadir,Aqesri,5754.0,,107.4,106.2,198,3,2,10,0,False,False,False,1139292.0,
+agadir,Imsouane,,10237.0,107.4,106.2,426,3,4,15,0,True,True,False,,4360962.0
+agadir,Secteur Touristique,20906.0,,107.4,106.2,71,3,2,20,8,False,False,False,1484326.0,
+agadir,Founti,18640.0,16219.0,107.4,106.2,67,1,2,22,9,False,True,False,1248880.0,1086673.0
+agadir,Talborjt,12691.0,7182.0,107.4,106.2,92,2,1,5,3,False,False,False,1167572.0,660744.0
+agadir,Ville Nouvelle,12539.0,,107.4,106.2,119,3,2,29,8,False,True,False,1492141.0,
+agadir,Guéliz,12523.0,,107.4,106.2,173,2,2,10,8,False,False,False,2166479.0,
+agadir,Haut Founty,11311.0,13645.0,107.4,106.2,151,3,1,5,0,True,False,False,1707961.0,2060395.0
+agadir,Hay Massira,11151.0,,107.4,106.2,148,1,2,17,8,False,False,False,1650348.0,
+agadir,Haut Anza,10647.0,,107.4,106.2,137,3,2,28,6,False,False,False,1458639.0,
+agadir,Taddart,10529.0,11734.0,107.4,106.2,90,1,2,29,7,True,False,False,947610.0,1056060.0
+agadir,Hay Najah,10387.0,10933.0,107.4,106.2,102,1,2,8,5,False,False,False,1059474.0,1115166.0
+agadir,Aourir,10042.0,7167.0,107.4,106.2,63,1,2,27,0,False,False,True,632646.0,451521.0
+agadir,Tamri,10009.0,13598.0,107.4,106.2,142,1,2,19,9,True,False,False,1421278.0,1930916.0
+agadir,Taghazout,8325.0,,107.4,106.2,74,1,2,28,5,False,False,False,616050.0,
+agadir,Drargua,7059.0,8592.0,107.4,106.2,193,3,1,20,8,True,False,False,1362387.0,1658256.0
+agadir,Agadir,6857.0,10538.0,107.4,106.2,168,3,2,10,8,False,False,False,1151976.0,1770384.0
+agadir,Aqesri,5754.0,,107.4,106.2,110,2,1,5,9,False,False,False,632940.0,
+agadir,Imsouane,,10237.0,107.4,106.2,456,4,3,23,0,True,True,False,,4668072.0
+agadir,Secteur Touristique,20906.0,,107.4,106.2,102,3,1,10,2,False,False,False,2132412.0,
+agadir,Founti,18640.0,16219.0,107.4,106.2,132,2,1,14,2,False,False,False,2460480.0,2140908.0
+agadir,Talborjt,12691.0,7182.0,107.4,106.2,97,1,2,0,5,False,False,False,1231027.0,696654.0
+agadir,Ville Nouvelle,12539.0,,107.4,106.2,79,3,1,11,5,False,True,False,990581.0,
+agadir,Guéliz,12523.0,,107.4,106.2,157,2,2,22,4,True,False,False,1966111.0,
+agadir,Haut Founty,11311.0,13645.0,107.4,106.2,167,1,2,2,4,False,False,False,1888937.0,2278715.0
+agadir,Hay Massira,11151.0,,107.4,106.2,103,1,2,10,9,False,False,False,1148553.0,
+agadir,Haut Anza,10647.0,,107.4,106.2,101,1,1,22,6,False,False,False,1075347.0,
+agadir,Taddart,10529.0,11734.0,107.4,106.2,100,2,1,28,2,False,False,False,1052900.0,1173400.0
+agadir,Hay Najah,10387.0,10933.0,107.4,106.2,89,2,2,7,1,True,False,False,924443.0,973037.0
+agadir,Aourir,10042.0,7167.0,107.4,106.2,199,1,1,19,4,False,False,False,1998358.0,1426233.0
+agadir,Tamri,10009.0,13598.0,107.4,106.2,82,1,2,7,3,False,False,False,820738.0,1115036.0
+agadir,Taghazout,8325.0,,107.4,106.2,69,3,2,4,5,False,False,False,574425.0,
+agadir,Drargua,7059.0,8592.0,107.4,106.2,109,3,2,23,1,False,False,False,769431.0,936528.0
+agadir,Agadir,6857.0,10538.0,107.4,106.2,71,1,2,8,8,True,False,False,486847.0,748198.0
+agadir,Aqesri,5754.0,,107.4,106.2,51,1,1,14,0,False,False,False,293454.0,
+agadir,Imsouane,,10237.0,107.4,106.2,397,6,2,20,0,True,True,False,,4064089.0
+agadir,Secteur Touristique,20906.0,,107.4,106.2,79,2,1,17,4,False,False,False,1651574.0,
+agadir,Founti,18640.0,16219.0,107.4,106.2,51,3,1,1,8,False,False,False,950640.0,827169.0
+agadir,Talborjt,12691.0,7182.0,107.4,106.2,126,3,2,12,3,False,False,False,1599066.0,904932.0
+agadir,Ville Nouvelle,12539.0,,107.4,106.2,170,1,2,2,8,False,True,False,2131630.0,
+agadir,Guéliz,12523.0,,107.4,106.2,76,1,1,5,9,True,False,False,951748.0,
+agadir,Haut Founty,11311.0,13645.0,107.4,106.2,185,3,2,9,2,False,False,False,2092535.0,2524325.0
+agadir,Hay Massira,11151.0,,107.4,106.2,117,2,2,23,4,False,False,True,1304667.0,
+agadir,Haut Anza,10647.0,,107.4,106.2,128,2,2,13,0,False,False,False,1362816.0,
+agadir,Taddart,10529.0,11734.0,107.4,106.2,63,1,1,5,7,False,True,False,663327.0,739242.0
+agadir,Hay Najah,10387.0,10933.0,107.4,106.2,98,1,1,12,1,False,False,False,1017926.0,1071434.0
+agadir,Aourir,10042.0,7167.0,107.4,106.2,144,2,2,27,6,False,False,False,1446048.0,1032048.0
+agadir,Tamri,10009.0,13598.0,107.4,106.2,73,3,2,25,9,False,False,False,730657.0,992654.0
+agadir,Taghazout,8325.0,,107.4,106.2,83,2,1,9,4,True,False,False,690975.0,
+agadir,Drargua,7059.0,8592.0,107.4,106.2,145,3,2,13,3,False,False,False,1023555.0,1245840.0
+agadir,Agadir,6857.0,10538.0,107.4,106.2,176,1,1,11,2,False,False,False,1206832.0,1854688.0
+agadir,Aqesri,5754.0,,107.4,106.2,76,3,1,28,9,False,False,False,437304.0,
+agadir,Imsouane,,10237.0,107.4,106.2,339,3,4,28,0,True,True,False,,3470343.0
+agadir,Aourir,10042.0,7167.0,107.4,106.2,101,2,2,19,7,False,False,False,1014242.0,723867.0
+agadir,Tamri,10009.0,13598.0,107.4,106.2,151,1,2,27,6,True,False,False,1511359.0,2053298.0
+agadir,Taghazout,8325.0,,107.4,106.2,115,2,1,15,0,False,False,False,957375.0,
+agadir,Drargua,7059.0,8592.0,107.4,106.2,153,2,2,10,8,False,False,False,1080027.0,1314576.0
+agadir,Agadir,6857.0,10538.0,107.4,106.2,123,2,1,16,2,False,False,False,843411.0,1296174.0
+agadir,Aqesri,5754.0,,107.4,106.2,159,3,2,27,4,False,False,False,914886.0,
+agadir,Imsouane,,10237.0,107.4,106.2,192,3,4,23,0,False,True,True,,1965504.0
+agadir,Secteur Touristique,20906.0,,107.4,106.2,138,1,1,5,0,False,False,False,2885028.0,
+agadir,Founti,18640.0,16219.0,107.4,106.2,138,2,2,18,4,False,False,False,2572320.0,2238222.0
+agadir,Talborjt,12691.0,7182.0,107.4,106.2,132,3,2,9,7,False,False,False,1675212.0,948024.0
+agadir,Ville Nouvelle,12539.0,,107.4,106.2,124,3,2,8,5,False,False,False,1554836.0,
+agadir,Guéliz,12523.0,,107.4,106.2,146,3,1,5,4,False,False,False,1828358.0,
+agadir,Haut Founty,11311.0,13645.0,107.4,106.2,108,1,2,4,9,False,False,False,1221588.0,1473660.0
+agadir,Hay Massira,11151.0,,107.4,106.2,145,1,1,0,2,False,False,False,1616895.0,
+agadir,Haut Anza,10647.0,,107.4,106.2,88,1,1,28,1,False,False,False,936936.0,
+agadir,Taddart,10529.0,11734.0,107.4,106.2,196,1,2,14,1,True,True,False,2063684.0,2299864.0
+agadir,Hay Najah,10387.0,10933.0,107.4,106.2,74,3,1,3,6,False,False,False,768638.0,809042.0
+agadir,Secteur Touristique,20906.0,,107.4,106.2,65,1,1,0,6,False,False,False,1358890.0,
+agadir,Founti,18640.0,16219.0,107.4,106.2,161,1,2,3,1,False,False,False,3001040.0,2611259.0
+agadir,Talborjt,12691.0,7182.0,107.4,106.2,160,2,1,0,5,True,False,False,2030560.0,1149120.0
+agadir,Ville Nouvelle,12539.0,,107.4,106.2,100,1,1,27,1,False,False,False,1253900.0,
+agadir,Guéliz,12523.0,,107.4,106.2,185,2,1,12,5,True,False,False,2316755.0,
+agadir,Haut Founty,11311.0,13645.0,107.4,106.2,110,3,1,25,0,True,False,False,1244210.0,1500950.0
+agadir,Hay Massira,11151.0,,107.4,106.2,170,2,1,19,5,False,False,False,1895670.0,
+agadir,Haut Anza,10647.0,,107.4,106.2,176,1,1,3,4,True,False,False,1873872.0,
+agadir,Taddart,10529.0,11734.0,107.4,106.2,91,1,2,2,5,False,False,False,958139.0,1067794.0
+agadir,Hay Najah,10387.0,10933.0,107.4,106.2,154,2,2,14,5,False,False,False,1599598.0,1683682.0
+tanger,Charf-Mghogha,10676.0,8476.0,112.67,111.27,84,3,1,0,4,False,False,False,896784.0,711984.0
+tanger,Charf-Souani,8536.0,,112.67,111.27,175,1,1,16,9,True,False,False,1493800.0,
+tanger,Assilah,8042.0,,112.67,111.27,120,3,1,9,5,False,False,False,965040.0,
+tanger,Aquouass Briech,7995.0,,112.67,111.27,178,3,2,22,8,True,True,False,1423110.0,
+tanger,Tanger-Médina,7989.0,12850.0,112.67,111.27,113,2,2,2,3,False,False,False,902757.0,1452050.0
+tanger,HJAR ENNHAL,6714.0,13274.0,112.67,111.27,134,3,1,4,5,False,False,False,899676.0,1778716.0
+tanger,Bni Makada,6692.0,,112.67,111.27,88,1,2,27,8,False,False,False,588896.0,
+tanger,Casabarata,17104.0,13392.0,112.67,111.27,71,3,2,3,3,False,False,False,1214384.0,950832.0
+tanger,Mghogha,14530.0,,112.67,111.27,152,3,1,27,7,True,False,False,2208560.0,
+tanger,Quartier de la plage,13844.0,,112.67,111.27,102,1,1,3,1,True,False,False,1412088.0,
+tanger,Malabata,13305.0,,113.5,112.1,168,2,1,1,6,True,False,False,2235240.0,
+tanger,Boulevard Mohammed V,13301.0,,112.67,111.27,77,3,1,26,6,False,False,False,1024177.0,
+tanger,Iberie,13187.0,,112.67,111.27,150,3,1,17,2,False,False,False,1978050.0,
+tanger,Castilla,11652.0,7616.0,112.67,111.27,103,3,1,29,4,True,False,False,1200156.0,784448.0
+tanger,Sania,11375.0,,112.67,111.27,51,2,1,15,9,False,False,False,580125.0,
+tanger,Administratif,11136.0,,112.67,111.27,70,3,1,23,9,False,False,False,779520.0,
+tanger,Rmilat,10991.0,22251.0,112.67,111.27,170,2,1,28,1,True,False,False,1868470.0,3782670.0
+tanger,Charf-Mghogha,10676.0,8476.0,112.67,111.27,192,3,2,24,1,False,False,False,2049792.0,1627392.0
+tanger,Charf-Souani,8536.0,,112.67,111.27,105,2,1,3,3,False,False,False,896280.0,
+tanger,Assilah,8042.0,,112.67,111.27,126,1,2,2,1,True,False,False,1013292.0,
+tanger,Aquouass Briech,7995.0,,112.67,111.27,150,1,1,9,4,True,False,False,1199250.0,
+tanger,Tanger-Médina,7989.0,12850.0,112.67,111.27,164,3,1,27,1,True,False,False,1310196.0,2107400.0
+tanger,HJAR ENNHAL,6714.0,13274.0,112.67,111.27,165,3,1,2,4,False,False,False,1107810.0,2190210.0
+tanger,Bni Makada,6692.0,,112.67,111.27,125,2,1,20,4,False,False,False,836500.0,
+tanger,Casabarata,17104.0,13392.0,112.67,111.27,126,3,1,1,8,False,True,False,2155104.0,1687392.0
+tanger,Mghogha,14530.0,,112.67,111.27,93,3,2,29,4,False,False,False,1351290.0,
+tanger,Quartier de la plage,13844.0,,112.67,111.27,78,3,2,18,6,False,False,False,1079832.0,
+tanger,Malabata,13305.0,,113.5,112.1,150,1,1,27,7,False,True,False,1995750.0,
+tanger,Boulevard Mohammed V,13301.0,,112.67,111.27,79,2,1,12,4,False,False,False,1050779.0,
+tanger,Iberie,13187.0,,112.67,111.27,52,1,2,20,8,False,False,False,685724.0,
+tanger,Castilla,11652.0,7616.0,112.67,111.27,194,3,2,11,5,True,False,False,2260488.0,1477504.0
+tanger,Sania,11375.0,,112.67,111.27,181,3,2,11,4,False,False,False,2058875.0,
+tanger,Administratif,11136.0,,112.67,111.27,110,1,2,4,4,False,False,True,1224960.0,
+tanger,Rmilat,10991.0,22251.0,112.67,111.27,70,3,1,16,0,False,False,True,769370.0,1557570.0
+tanger,Charf-Mghogha,10676.0,8476.0,112.67,111.27,54,2,2,23,4,False,False,False,576504.0,457704.0
+tanger,Charf-Souani,8536.0,,112.67,111.27,125,3,2,10,0,False,False,False,1067000.0,
+tanger,Assilah,8042.0,,112.67,111.27,134,3,1,2,2,True,False,False,1077628.0,
+tanger,Aquouass Briech,7995.0,,112.67,111.27,114,2,2,2,1,False,False,False,911430.0,
+tanger,Tanger-Médina,7989.0,12850.0,112.67,111.27,199,2,1,15,1,False,False,False,1589811.0,2557150.0
+tanger,HJAR ENNHAL,6714.0,13274.0,112.67,111.27,87,1,2,15,0,False,False,False,584118.0,1154838.0
+tanger,Bni Makada,6692.0,,112.67,111.27,101,2,2,24,6,False,False,False,675892.0,
+tanger,Casabarata,17104.0,13392.0,112.67,111.27,60,2,1,27,2,False,False,False,1026240.0,803520.0
+tanger,Mghogha,14530.0,,112.67,111.27,122,1,1,13,0,False,False,False,1772660.0,
+tanger,Quartier de la plage,13844.0,,112.67,111.27,67,3,2,6,5,False,False,False,927548.0,
+tanger,Malabata,13305.0,,113.5,112.1,98,3,1,0,3,False,False,False,1303890.0,
+tanger,Boulevard Mohammed V,13301.0,,112.67,111.27,162,3,2,28,7,True,False,False,2154762.0,
+tanger,Iberie,13187.0,,112.67,111.27,91,2,1,24,7,False,False,True,1200017.0,
+tanger,Castilla,11652.0,7616.0,112.67,111.27,130,3,2,3,6,False,False,False,1514760.0,990080.0
+tanger,Sania,11375.0,,112.67,111.27,106,1,1,28,8,False,False,False,1205750.0,
+tanger,Administratif,11136.0,,112.67,111.27,125,1,1,11,6,False,False,False,1392000.0,
+tanger,Rmilat,10991.0,22251.0,112.67,111.27,170,3,1,23,5,False,False,False,1868470.0,3782670.0
+tanger,Charf-Mghogha,10676.0,8476.0,112.67,111.27,52,3,2,25,2,True,True,False,555152.0,440752.0
+tanger,Charf-Souani,8536.0,,112.67,111.27,81,3,1,11,2,True,True,False,691416.0,
+tanger,Assilah,8042.0,,112.67,111.27,106,3,2,11,5,False,False,False,852452.0,
+tanger,Aquouass Briech,7995.0,,112.67,111.27,149,1,2,11,1,False,False,False,1191255.0,
+tanger,Tanger-Médina,7989.0,12850.0,112.67,111.27,115,2,1,6,2,False,False,False,918735.0,1477750.0
+tanger,HJAR ENNHAL,6714.0,13274.0,112.67,111.27,103,2,2,5,5,False,False,False,691542.0,1367222.0
+tanger,Bni Makada,6692.0,,112.67,111.27,130,1,1,4,5,False,False,False,869960.0,
+tanger,Charf-Mghogha,10676.0,8476.0,112.67,111.27,68,2,1,9,3,False,False,False,725968.0,576368.0
+tanger,Charf-Souani,8536.0,,112.67,111.27,196,1,2,7,8,True,False,False,1673056.0,
+tanger,Assilah,8042.0,,112.67,111.27,96,1,2,0,3,False,False,False,772032.0,
+tanger,Aquouass Briech,7995.0,,112.67,111.27,144,2,2,1,5,False,False,False,1151280.0,
+tanger,Tanger-Médina,7989.0,12850.0,112.67,111.27,51,3,2,27,7,False,True,False,407439.0,655350.0
+tanger,HJAR ENNHAL,6714.0,13274.0,112.67,111.27,101,2,1,26,0,False,False,False,678114.0,1340674.0
+tanger,Bni Makada,6692.0,,112.67,111.27,184,3,2,18,9,False,False,False,1231328.0,
+tanger,Casabarata,17104.0,13392.0,112.67,111.27,150,3,2,25,9,False,False,False,2565600.0,2008800.0
+tanger,Mghogha,14530.0,,112.67,111.27,94,3,2,7,1,False,False,False,1365820.0,
+tanger,Quartier de la plage,13844.0,,112.67,111.27,159,1,1,18,0,False,False,False,2201196.0,
+tanger,Malabata,13305.0,,113.5,112.1,147,2,1,9,4,False,False,False,1955835.0,
+tanger,Boulevard Mohammed V,13301.0,,112.67,111.27,76,3,2,23,0,False,False,False,1010876.0,
+tanger,Iberie,13187.0,,112.67,111.27,150,1,1,15,7,True,False,False,1978050.0,
+tanger,Castilla,11652.0,7616.0,112.67,111.27,107,3,2,7,1,False,False,False,1246764.0,814912.0
+tanger,Sania,11375.0,,112.67,111.27,124,1,2,23,8,True,False,False,1410500.0,
+tanger,Administratif,11136.0,,112.67,111.27,62,2,1,29,0,False,False,False,690432.0,
+tanger,Rmilat,10991.0,22251.0,112.67,111.27,103,1,1,22,7,False,False,False,1132073.0,2291853.0
+tanger,Casabarata,17104.0,13392.0,112.67,111.27,184,3,1,0,3,False,False,False,3147136.0,2464128.0
+tanger,Mghogha,14530.0,,112.67,111.27,136,2,2,16,0,False,False,False,1976080.0,
+tanger,Quartier de la plage,13844.0,,112.67,111.27,110,3,1,17,6,False,False,False,1522840.0,
+tanger,Malabata,13305.0,,113.5,112.1,106,1,1,6,1,True,False,False,1410330.0,
+tanger,Boulevard Mohammed V,13301.0,,112.67,111.27,121,2,2,27,5,False,True,False,1609421.0,
+tanger,Iberie,13187.0,,112.67,111.27,152,1,2,26,0,True,False,False,2004424.0,
+tanger,Castilla,11652.0,7616.0,112.67,111.27,74,2,1,13,7,False,False,False,862248.0,563584.0
+tanger,Sania,11375.0,,112.67,111.27,81,1,1,7,5,False,False,False,921375.0,
+tanger,Administratif,11136.0,,112.67,111.27,58,1,2,18,2,True,False,False,645888.0,
+tanger,Rmilat,10991.0,22251.0,112.67,111.27,81,3,1,14,8,False,True,False,890271.0,1802331.0
+meknes,MRhassiyine,10089.0,,107.4,106.2,110,3,1,2,8,False,True,False,1109790.0,
+meknes,Ain Karma- Oued Rommane,9643.0,,107.4,106.2,54,1,1,15,3,False,False,False,520722.0,
+meknes,Sidi Abdallah Al Khayat,9022.0,,107.4,106.2,66,1,1,18,0,False,False,False,595452.0,
+meknes,Dkhissa,6865.0,,107.4,106.2,69,2,2,0,1,False,False,False,473685.0,
+meknes,Meknès,6327.0,7274.0,107.4,106.2,105,2,2,19,6,False,False,False,664335.0,763770.0
+meknes,Boufakrane,6047.0,,107.4,106.2,69,1,2,0,7,True,False,False,417243.0,
+meknes,Ouislane,5756.0,,107.4,106.2,72,1,1,4,4,False,False,False,414432.0,
+meknes,Majjate,5726.0,8780.0,107.4,106.2,164,3,1,8,8,False,False,False,939064.0,1439920.0
+meknes,Ait Ouallal,5578.0,,107.4,106.2,165,1,1,2,4,False,False,True,920370.0,
+meknes,Toulal,5483.0,7169.0,107.4,106.2,138,2,1,14,1,False,False,False,756654.0,989322.0
+meknes,Zahwa,7282.0,,107.4,106.2,120,3,1,26,3,False,False,False,873840.0,
+meknes,El Menzeh,7234.0,8362.0,107.4,106.2,142,3,2,28,8,True,False,False,1027228.0,1187404.0
+meknes,Avenue des F.A.R,7150.0,,107.4,106.2,68,3,2,19,1,False,False,False,486200.0,
+meknes,Résidence Reda,7001.0,,107.4,106.2,159,3,1,2,9,False,False,True,1113159.0,
+meknes,Hamria,6835.0,,107.4,106.2,155,3,2,22,4,False,False,False,1059425.0,
+meknes,Bel Air,6744.0,,107.4,106.2,65,1,1,4,3,False,False,True,438360.0,
+meknes,Essaadiyine,6647.0,,107.4,106.2,145,2,1,19,0,False,False,False,963815.0,
+meknes,El Bassatine,6480.0,,107.4,106.2,180,1,2,26,3,False,False,False,1166400.0,
+meknes,Al Wifaq,6296.0,,107.4,106.2,140,3,2,2,8,True,False,False,881440.0,
+meknes,Lotissement Saramito,6089.0,,107.4,106.2,174,1,2,6,2,False,False,False,1059486.0,
+meknes,MRhassiyine,10089.0,,107.4,106.2,125,3,1,20,0,False,False,False,1261125.0,
+meknes,Ain Karma- Oued Rommane,9643.0,,107.4,106.2,160,2,2,4,0,False,True,False,1542880.0,
+meknes,Sidi Abdallah Al Khayat,9022.0,,107.4,106.2,54,2,1,5,8,False,False,False,487188.0,
+meknes,Dkhissa,6865.0,,107.4,106.2,116,3,2,0,2,False,False,False,796340.0,
+meknes,Meknès,6327.0,7274.0,107.4,106.2,145,2,2,9,6,False,False,False,917415.0,1054730.0
+meknes,Boufakrane,6047.0,,107.4,106.2,191,2,2,6,0,True,False,False,1154977.0,
+meknes,Ouislane,5756.0,,107.4,106.2,74,2,2,27,7,True,False,False,425944.0,
+meknes,Majjate,5726.0,8780.0,107.4,106.2,190,3,2,24,7,False,False,False,1087940.0,1668200.0
+meknes,Ait Ouallal,5578.0,,107.4,106.2,178,3,2,0,7,True,True,False,992884.0,
+meknes,Toulal,5483.0,7169.0,107.4,106.2,161,1,2,5,5,True,False,False,882763.0,1154209.0
+meknes,Zahwa,7282.0,,107.4,106.2,123,3,2,0,8,False,False,False,895686.0,
+meknes,El Menzeh,7234.0,8362.0,107.4,106.2,163,1,2,6,1,True,False,False,1179142.0,1363006.0
+meknes,Avenue des F.A.R,7150.0,,107.4,106.2,75,2,2,11,6,False,False,False,536250.0,
+meknes,Résidence Reda,7001.0,,107.4,106.2,60,2,1,3,4,False,False,False,420060.0,
+meknes,Hamria,6835.0,,107.4,106.2,162,2,2,17,7,False,False,False,1107270.0,
+meknes,Bel Air,6744.0,,107.4,106.2,114,1,1,28,5,False,False,True,768816.0,
+meknes,Essaadiyine,6647.0,,107.4,106.2,75,1,2,3,6,False,False,False,498525.0,
+meknes,El Bassatine,6480.0,,107.4,106.2,79,3,2,3,1,False,False,False,511920.0,
+meknes,Al Wifaq,6296.0,,107.4,106.2,86,3,2,29,1,False,False,False,541456.0,
+meknes,Lotissement Saramito,6089.0,,107.4,106.2,187,2,2,29,0,False,False,False,1138643.0,
+meknes,MRhassiyine,10089.0,,107.4,106.2,144,2,2,21,5,True,False,False,1452816.0,
+meknes,Ain Karma- Oued Rommane,9643.0,,107.4,106.2,121,3,2,4,6,False,True,False,1166803.0,
+meknes,Sidi Abdallah Al Khayat,9022.0,,107.4,106.2,108,1,1,17,1,False,False,False,974376.0,
+meknes,Dkhissa,6865.0,,107.4,106.2,86,2,1,2,8,False,False,False,590390.0,
+meknes,Meknès,6327.0,7274.0,107.4,106.2,143,3,2,29,6,False,False,False,904761.0,1040182.0
+meknes,Boufakrane,6047.0,,107.4,106.2,191,2,1,17,9,True,False,False,1154977.0,
+meknes,Ouislane,5756.0,,107.4,106.2,194,1,2,15,5,False,False,False,1116664.0,
+meknes,Majjate,5726.0,8780.0,107.4,106.2,121,1,2,18,4,False,False,False,692846.0,1062380.0
+meknes,Ait Ouallal,5578.0,,107.4,106.2,104,1,2,18,6,False,False,False,580112.0,
+meknes,Toulal,5483.0,7169.0,107.4,106.2,82,1,1,4,6,False,False,False,449606.0,587858.0
+meknes,Zahwa,7282.0,,107.4,106.2,138,1,2,5,4,True,False,False,1004916.0,
+meknes,El Menzeh,7234.0,8362.0,107.4,106.2,51,3,2,29,1,False,False,False,368934.0,426462.0
+meknes,Avenue des F.A.R,7150.0,,107.4,106.2,102,2,2,19,4,False,False,False,729300.0,
+meknes,Résidence Reda,7001.0,,107.4,106.2,150,3,1,7,8,False,False,False,1050150.0,
+meknes,Hamria,6835.0,,107.4,106.2,135,3,1,8,6,False,False,False,922725.0,
+meknes,Bel Air,6744.0,,107.4,106.2,54,3,1,19,3,False,False,False,364176.0,
+meknes,Essaadiyine,6647.0,,107.4,106.2,124,3,1,29,1,True,False,False,824228.0,
+meknes,El Bassatine,6480.0,,107.4,106.2,50,3,1,24,6,True,False,False,324000.0,
+meknes,Al Wifaq,6296.0,,107.4,106.2,197,1,1,1,9,True,False,False,1240312.0,
+meknes,Lotissement Saramito,6089.0,,107.4,106.2,128,3,2,26,2,True,False,False,779392.0,
+meknes,MRhassiyine,10089.0,,107.4,106.2,152,2,2,20,8,False,False,False,1533528.0,
+meknes,Ain Karma- Oued Rommane,9643.0,,107.4,106.2,72,1,2,26,5,False,False,False,694296.0,
+meknes,Sidi Abdallah Al Khayat,9022.0,,107.4,106.2,77,2,2,10,5,False,False,False,694694.0,
+meknes,Dkhissa,6865.0,,107.4,106.2,56,1,1,9,5,True,False,False,384440.0,
+meknes,Meknès,6327.0,7274.0,107.4,106.2,189,2,2,17,9,False,False,False,1195803.0,1374786.0
+meknes,Boufakrane,6047.0,,107.4,106.2,82,3,2,16,8,False,True,False,495854.0,
+meknes,Ouislane,5756.0,,107.4,106.2,138,2,2,11,3,False,False,False,794328.0,
+meknes,Majjate,5726.0,8780.0,107.4,106.2,188,2,2,3,8,False,False,False,1076488.0,1650640.0
+meknes,Ait Ouallal,5578.0,,107.4,106.2,162,2,2,24,5,False,False,False,903636.0,
+meknes,Toulal,5483.0,7169.0,107.4,106.2,62,3,2,15,5,False,False,False,339946.0,444478.0
+meknes,MRhassiyine,10089.0,,107.4,106.2,125,1,2,4,0,False,False,False,1261125.0,
+meknes,Ain Karma- Oued Rommane,9643.0,,107.4,106.2,76,1,1,28,4,False,False,False,732868.0,
+meknes,Sidi Abdallah Al Khayat,9022.0,,107.4,106.2,132,1,2,26,9,True,False,True,1190904.0,
+meknes,Dkhissa,6865.0,,107.4,106.2,140,2,2,0,3,False,False,False,961100.0,
+meknes,Meknès,6327.0,7274.0,107.4,106.2,106,2,1,7,7,True,False,False,670662.0,771044.0
+meknes,Boufakrane,6047.0,,107.4,106.2,158,1,2,24,6,False,False,False,955426.0,
+meknes,Ouislane,5756.0,,107.4,106.2,165,1,1,15,2,True,False,False,949740.0,
+meknes,Majjate,5726.0,8780.0,107.4,106.2,172,3,1,9,3,True,False,False,984872.0,1510160.0
+meknes,Ait Ouallal,5578.0,,107.4,106.2,71,3,2,5,4,False,False,False,396038.0,
+meknes,Toulal,5483.0,7169.0,107.4,106.2,160,3,1,27,0,False,False,False,877280.0,1147040.0
+meknes,Zahwa,7282.0,,107.4,106.2,65,2,1,6,1,False,False,False,473330.0,
+meknes,El Menzeh,7234.0,8362.0,107.4,106.2,51,1,1,4,0,False,True,False,368934.0,426462.0
+meknes,Avenue des F.A.R,7150.0,,107.4,106.2,173,1,1,18,9,False,False,False,1236950.0,
+meknes,Résidence Reda,7001.0,,107.4,106.2,64,3,1,15,1,False,False,False,448064.0,
+meknes,Hamria,6835.0,,107.4,106.2,63,3,1,1,7,False,False,False,430605.0,
+meknes,Bel Air,6744.0,,107.4,106.2,192,3,2,18,6,False,False,False,1294848.0,
+meknes,Essaadiyine,6647.0,,107.4,106.2,114,2,1,12,2,True,False,False,757758.0,
+meknes,El Bassatine,6480.0,,107.4,106.2,136,2,1,5,7,False,False,False,881280.0,
+meknes,Al Wifaq,6296.0,,107.4,106.2,54,2,2,4,7,True,False,False,339984.0,
+meknes,Lotissement Saramito,6089.0,,107.4,106.2,91,3,2,7,0,False,False,False,554099.0,
+meknes,Zahwa,7282.0,,107.4,106.2,174,1,1,17,0,False,False,False,1267068.0,
+meknes,El Menzeh,7234.0,8362.0,107.4,106.2,127,3,2,18,8,False,False,False,918718.0,1061974.0
+meknes,Avenue des F.A.R,7150.0,,107.4,106.2,152,3,2,23,9,False,False,False,1086800.0,
+meknes,Résidence Reda,7001.0,,107.4,106.2,118,2,1,18,0,True,False,False,826118.0,
+meknes,Hamria,6835.0,,107.4,106.2,138,2,2,14,3,True,True,False,943230.0,
+meknes,Bel Air,6744.0,,107.4,106.2,135,3,2,11,8,False,False,False,910440.0,
+meknes,Essaadiyine,6647.0,,107.4,106.2,134,1,1,14,7,False,False,False,890698.0,
+meknes,El Bassatine,6480.0,,107.4,106.2,61,1,1,20,7,True,False,False,395280.0,
+meknes,Al Wifaq,6296.0,,107.4,106.2,103,1,2,14,8,False,False,False,648488.0,
+meknes,Lotissement Saramito,6089.0,,107.4,106.2,184,3,1,11,7,False,False,False,1120376.0,
+oujda,Casablanca,12503.0,16457.0,107.4,106.2,99,1,2,15,0,False,False,False,1237797.0,1629243.0
+oujda,Rabat,12392.0,13065.0,107.4,106.2,182,3,1,10,1,False,False,False,2255344.0,2377830.0
+oujda,Nouaceur,9257.0,11904.0,107.4,106.2,162,2,1,10,7,False,False,False,1499634.0,1928448.0
+oujda,Skhirate- Témara,9003.0,10990.0,107.4,106.2,104,3,2,1,4,True,True,False,936312.0,1142960.0
+oujda,Marrakech,8885.0,10138.0,107.4,106.2,63,2,2,22,6,False,False,False,559755.0,638694.0
+oujda,Benslimane,8537.0,10684.0,107.4,106.2,156,3,1,29,1,False,False,False,1331772.0,1666704.0
+oujda,Salé,8209.0,10351.0,107.4,106.2,87,3,2,3,0,False,False,False,714183.0,900537.0
+oujda,Tanger-Assilah,8028.0,11762.0,107.4,106.2,165,2,1,11,5,True,True,False,1324620.0,1940730.0
+oujda,Agadir,7935.0,10092.0,107.4,106.2,177,2,2,27,6,False,False,False,1404495.0,1786284.0
+oujda,Tétouan,7742.0,9831.0,107.4,106.2,103,3,2,11,8,False,False,False,797426.0,1012593.0
+oujda,Casablanca,12503.0,16457.0,107.4,106.2,52,1,1,8,2,False,False,False,650156.0,855764.0
+oujda,Rabat,12392.0,13065.0,107.4,106.2,100,1,2,11,6,False,False,False,1239200.0,1306500.0
+oujda,Nouaceur,9257.0,11904.0,107.4,106.2,126,3,2,25,4,False,False,False,1166382.0,1499904.0
+oujda,Skhirate- Témara,9003.0,10990.0,107.4,106.2,115,1,2,26,6,False,True,False,1035345.0,1263850.0
+oujda,Marrakech,8885.0,10138.0,107.4,106.2,57,1,1,6,8,True,False,False,506445.0,577866.0
+oujda,Benslimane,8537.0,10684.0,107.4,106.2,149,2,2,21,8,False,False,False,1272013.0,1591916.0
+oujda,Salé,8209.0,10351.0,107.4,106.2,72,1,1,20,9,True,False,False,591048.0,745272.0
+oujda,Tanger-Assilah,8028.0,11762.0,107.4,106.2,139,3,2,18,5,False,False,False,1115892.0,1634918.0
+oujda,Agadir,7935.0,10092.0,107.4,106.2,58,1,2,10,1,False,False,False,460230.0,585336.0
+oujda,Tétouan,7742.0,9831.0,107.4,106.2,163,3,2,13,1,False,False,False,1261946.0,1602453.0
+oujda,Casablanca,12503.0,16457.0,107.4,106.2,70,2,2,25,5,False,False,False,875210.0,1151990.0
+oujda,Rabat,12392.0,13065.0,107.4,106.2,175,2,1,6,0,False,False,False,2168600.0,2286375.0
+oujda,Nouaceur,9257.0,11904.0,107.4,106.2,170,2,1,28,8,False,False,False,1573690.0,2023680.0
+oujda,Skhirate- Témara,9003.0,10990.0,107.4,106.2,150,3,2,19,4,False,False,False,1350450.0,1648500.0
+oujda,Marrakech,8885.0,10138.0,107.4,106.2,91,2,1,6,9,False,False,False,808535.0,922558.0
+oujda,Benslimane,8537.0,10684.0,107.4,106.2,194,1,1,7,8,False,False,False,1656178.0,2072696.0
+oujda,Salé,8209.0,10351.0,107.4,106.2,182,1,1,11,9,True,False,True,1494038.0,1883882.0
+oujda,Tanger-Assilah,8028.0,11762.0,107.4,106.2,154,2,1,2,0,False,False,False,1236312.0,1811348.0
+oujda,Agadir,7935.0,10092.0,107.4,106.2,149,2,1,29,5,True,False,False,1182315.0,1503708.0
+oujda,Tétouan,7742.0,9831.0,107.4,106.2,110,1,1,7,0,False,False,False,851620.0,1081410.0
+oujda,Casablanca,12503.0,16457.0,107.4,106.2,175,1,1,3,6,False,True,False,2188025.0,2879975.0
+oujda,Rabat,12392.0,13065.0,107.4,106.2,147,3,1,20,3,False,False,False,1821624.0,1920555.0
+oujda,Nouaceur,9257.0,11904.0,107.4,106.2,179,3,2,29,7,True,False,False,1657003.0,2130816.0
+oujda,Skhirate- Témara,9003.0,10990.0,107.4,106.2,69,1,1,18,9,False,False,False,621207.0,758310.0
+oujda,Marrakech,8885.0,10138.0,107.4,106.2,194,3,1,22,0,False,False,False,1723690.0,1966772.0
+oujda,Benslimane,8537.0,10684.0,107.4,106.2,143,1,1,16,5,False,False,False,1220791.0,1527812.0
+oujda,Salé,8209.0,10351.0,107.4,106.2,74,3,1,8,1,True,False,False,607466.0,765974.0
+oujda,Tanger-Assilah,8028.0,11762.0,107.4,106.2,149,3,1,24,6,False,False,False,1196172.0,1752538.0
+oujda,Agadir,7935.0,10092.0,107.4,106.2,85,3,1,7,7,False,False,False,674475.0,857820.0
+oujda,Tétouan,7742.0,9831.0,107.4,106.2,100,1,2,17,6,False,False,False,774200.0,983100.0
+oujda,Casablanca,12503.0,16457.0,107.4,106.2,107,2,2,25,8,True,False,False,1337821.0,1760899.0
+oujda,Rabat,12392.0,13065.0,107.4,106.2,56,3,1,26,2,True,False,False,693952.0,731640.0
+oujda,Nouaceur,9257.0,11904.0,107.4,106.2,78,3,2,9,8,False,False,False,722046.0,928512.0
+oujda,Skhirate- Témara,9003.0,10990.0,107.4,106.2,57,2,2,24,8,True,False,False,513171.0,626430.0
+oujda,Marrakech,8885.0,10138.0,107.4,106.2,104,3,2,14,0,False,False,False,924040.0,1054352.0
+oujda,Benslimane,8537.0,10684.0,107.4,106.2,83,3,1,8,5,False,False,False,708571.0,886772.0
+oujda,Salé,8209.0,10351.0,107.4,106.2,199,3,2,21,1,False,False,False,1633591.0,2059849.0
+oujda,Tanger-Assilah,8028.0,11762.0,107.4,106.2,171,3,2,23,9,False,True,False,1372788.0,2011302.0
+oujda,Agadir,7935.0,10092.0,107.4,106.2,116,3,2,24,7,False,False,False,920460.0,1170672.0
+oujda,Tétouan,7742.0,9831.0,107.4,106.2,74,3,2,9,2,False,False,False,572908.0,727494.0
+kenitra,Moulay Bousselham,8524.0,6178.0,107.4,106.2,99,1,1,7,1,False,False,False,843876.0,611622.0
+kenitra,Sidi Mohamed Ben Mansour,7394.0,,107.4,106.2,52,1,1,0,7,False,False,False,384488.0,
+kenitra,Souk Tlet El Gharb,7352.0,,107.4,106.2,98,2,2,10,5,False,False,False,720496.0,
+kenitra,Beni Malek,6934.0,6482.0,107.4,106.2,52,1,1,7,2,False,False,True,360568.0,337064.0
+kenitra,Kénitra,6734.0,10771.0,107.4,106.2,116,1,1,1,5,False,False,False,781144.0,1249436.0
+kenitra,Oued El Makhazine,6721.0,,107.4,106.2,87,1,1,23,2,False,True,False,584727.0,
+kenitra,Mehdya,5737.0,8474.0,107.4,106.2,116,1,1,27,1,False,True,True,665492.0,982984.0
+kenitra,Souk El Arbaa,5101.0,,107.4,106.2,147,2,2,19,2,True,False,False,749847.0,
+kenitra,Bir Rami Est,8418.0,6758.0,107.4,106.2,106,1,2,9,2,True,False,True,892308.0,716348.0
+kenitra,Lotissement Nouveau,8311.0,,107.4,106.2,76,1,1,13,1,False,False,False,631636.0,
+kenitra,Maamora,8248.0,5860.0,107.4,106.2,85,3,1,17,5,False,False,False,701080.0,498100.0
+kenitra,Mimosa,8046.0,,107.4,106.2,75,3,2,1,3,False,False,True,603450.0,
+kenitra,Moutanabi,8018.0,,107.4,106.2,53,1,1,28,3,False,True,False,424954.0,
+kenitra,Ville Haute,7803.0,13437.0,107.4,106.2,150,3,2,22,4,False,False,False,1170450.0,2015550.0
+kenitra,Mehdia,7237.0,7555.0,107.4,106.2,91,2,1,25,8,False,False,False,658567.0,687505.0
+kenitra,El Hadadda,6931.0,7569.0,107.4,106.2,59,2,2,13,7,False,False,False,408929.0,446571.0
+kenitra,Kasbah Mehdia,6790.0,7600.0,107.4,106.2,50,2,2,1,2,False,False,False,339500.0,380000.0
+kenitra,Ismalia,6784.0,,107.4,106.2,120,1,2,28,9,False,False,False,814080.0,
+kenitra,Moulay Bousselham,8524.0,6178.0,107.4,106.2,166,1,1,6,7,False,False,False,1414984.0,1025548.0
+kenitra,Sidi Mohamed Ben Mansour,7394.0,,107.4,106.2,199,3,2,0,9,False,False,False,1471406.0,
+kenitra,Souk Tlet El Gharb,7352.0,,107.4,106.2,92,1,2,24,1,False,False,False,676384.0,
+kenitra,Beni Malek,6934.0,6482.0,107.4,106.2,198,2,2,4,6,False,True,False,1372932.0,1283436.0
+kenitra,Kénitra,6734.0,10771.0,107.4,106.2,98,2,1,25,4,False,False,False,659932.0,1055558.0
+kenitra,Oued El Makhazine,6721.0,,107.4,106.2,65,1,1,14,7,False,False,False,436865.0,
+kenitra,Mehdya,5737.0,8474.0,107.4,106.2,111,1,2,7,7,False,False,False,636807.0,940614.0
+kenitra,Souk El Arbaa,5101.0,,107.4,106.2,123,1,2,1,0,False,False,False,627423.0,
+kenitra,Bir Rami Est,8418.0,6758.0,107.4,106.2,167,3,1,8,5,True,False,False,1405806.0,1128586.0
+kenitra,Lotissement Nouveau,8311.0,,107.4,106.2,190,2,2,3,8,True,False,False,1579090.0,
+kenitra,Maamora,8248.0,5860.0,107.4,106.2,123,2,2,25,5,False,False,False,1014504.0,720780.0
+kenitra,Mimosa,8046.0,,107.4,106.2,122,2,2,4,1,False,False,False,981612.0,
+kenitra,Moutanabi,8018.0,,107.4,106.2,87,3,2,14,4,True,False,False,697566.0,
+kenitra,Ville Haute,7803.0,13437.0,107.4,106.2,197,1,2,23,9,False,False,False,1537191.0,2647089.0
+kenitra,Mehdia,7237.0,7555.0,107.4,106.2,159,3,2,29,6,False,False,False,1150683.0,1201245.0
+kenitra,El Hadadda,6931.0,7569.0,107.4,106.2,132,1,1,4,1,False,False,False,914892.0,999108.0
+kenitra,Kasbah Mehdia,6790.0,7600.0,107.4,106.2,128,1,2,7,4,False,False,False,869120.0,972800.0
+kenitra,Ismalia,6784.0,,107.4,106.2,118,1,1,11,9,True,False,False,800512.0,
+kenitra,Moulay Bousselham,8524.0,6178.0,107.4,106.2,148,1,1,14,0,False,False,False,1261552.0,914344.0
+kenitra,Sidi Mohamed Ben Mansour,7394.0,,107.4,106.2,63,3,1,11,3,False,False,False,465822.0,
+kenitra,Souk Tlet El Gharb,7352.0,,107.4,106.2,54,2,1,2,2,False,False,False,397008.0,
+kenitra,Beni Malek,6934.0,6482.0,107.4,106.2,65,1,1,13,2,False,False,False,450710.0,421330.0
+kenitra,Kénitra,6734.0,10771.0,107.4,106.2,123,1,1,12,9,False,False,False,828282.0,1324833.0
+kenitra,Oued El Makhazine,6721.0,,107.4,106.2,71,3,1,29,7,False,False,False,477191.0,
+kenitra,Mehdya,5737.0,8474.0,107.4,106.2,83,3,2,17,7,False,False,True,476171.0,703342.0
+kenitra,Souk El Arbaa,5101.0,,107.4,106.2,129,1,2,10,8,True,False,False,658029.0,
+kenitra,Bir Rami Est,8418.0,6758.0,107.4,106.2,145,3,1,10,6,False,False,False,1220610.0,979910.0
+kenitra,Lotissement Nouveau,8311.0,,107.4,106.2,68,1,1,21,4,False,False,True,565148.0,
+kenitra,Maamora,8248.0,5860.0,107.4,106.2,65,1,2,0,4,False,False,False,536120.0,380900.0
+kenitra,Mimosa,8046.0,,107.4,106.2,154,3,2,24,6,False,False,False,1239084.0,
+kenitra,Moutanabi,8018.0,,107.4,106.2,74,1,2,4,0,True,False,False,593332.0,
+kenitra,Ville Haute,7803.0,13437.0,107.4,106.2,76,1,1,24,6,False,False,False,593028.0,1021212.0
+kenitra,Mehdia,7237.0,7555.0,107.4,106.2,69,1,2,17,9,False,False,False,499353.0,521295.0
+kenitra,El Hadadda,6931.0,7569.0,107.4,106.2,179,2,2,15,7,False,False,False,1240649.0,1354851.0
+kenitra,Kasbah Mehdia,6790.0,7600.0,107.4,106.2,66,2,1,24,8,True,False,False,448140.0,501600.0
+kenitra,Ismalia,6784.0,,107.4,106.2,190,2,2,15,0,False,False,False,1288960.0,
+kenitra,Moulay Bousselham,8524.0,6178.0,107.4,106.2,145,2,1,26,2,False,False,False,1235980.0,895810.0
+kenitra,Sidi Mohamed Ben Mansour,7394.0,,107.4,106.2,189,1,1,22,1,True,False,False,1397466.0,
+kenitra,Souk Tlet El Gharb,7352.0,,107.4,106.2,68,2,1,0,0,False,False,False,499936.0,
+kenitra,Beni Malek,6934.0,6482.0,107.4,106.2,164,1,2,16,3,False,False,False,1137176.0,1063048.0
+kenitra,Kénitra,6734.0,10771.0,107.4,106.2,171,3,2,3,5,False,False,False,1151514.0,1841841.0
+kenitra,Oued El Makhazine,6721.0,,107.4,106.2,66,1,1,13,6,True,False,False,443586.0,
+kenitra,Mehdya,5737.0,8474.0,107.4,106.2,151,2,2,28,0,False,False,False,866287.0,1279574.0
+kenitra,Souk El Arbaa,5101.0,,107.4,106.2,126,3,2,28,5,True,False,False,642726.0,
+kenitra,Moulay Bousselham,8524.0,6178.0,107.4,106.2,179,1,1,13,7,False,False,True,1525796.0,1105862.0
+kenitra,Sidi Mohamed Ben Mansour,7394.0,,107.4,106.2,120,2,1,19,0,False,False,False,887280.0,
+kenitra,Souk Tlet El Gharb,7352.0,,107.4,106.2,50,1,2,7,8,False,True,False,367600.0,
+kenitra,Beni Malek,6934.0,6482.0,107.4,106.2,174,3,2,6,4,False,False,False,1206516.0,1127868.0
+kenitra,Kénitra,6734.0,10771.0,107.4,106.2,84,2,2,8,6,True,False,False,565656.0,904764.0
+kenitra,Oued El Makhazine,6721.0,,107.4,106.2,73,2,1,22,7,False,False,False,490633.0,
+kenitra,Mehdya,5737.0,8474.0,107.4,106.2,80,2,2,25,8,False,False,False,458960.0,677920.0
+kenitra,Souk El Arbaa,5101.0,,107.4,106.2,191,2,2,17,4,False,False,False,974291.0,
+kenitra,Bir Rami Est,8418.0,6758.0,107.4,106.2,112,3,1,24,2,False,False,False,942816.0,756896.0
+kenitra,Lotissement Nouveau,8311.0,,107.4,106.2,190,2,2,0,6,False,False,False,1579090.0,
+kenitra,Maamora,8248.0,5860.0,107.4,106.2,131,1,1,15,7,False,False,False,1080488.0,767660.0
+kenitra,Mimosa,8046.0,,107.4,106.2,165,1,1,20,5,False,False,False,1327590.0,
+kenitra,Moutanabi,8018.0,,107.4,106.2,186,3,2,20,9,False,False,False,1491348.0,
+kenitra,Ville Haute,7803.0,13437.0,107.4,106.2,150,3,1,26,2,False,False,False,1170450.0,2015550.0
+kenitra,Mehdia,7237.0,7555.0,107.4,106.2,141,2,1,13,7,False,False,False,1020417.0,1065255.0
+kenitra,El Hadadda,6931.0,7569.0,107.4,106.2,93,1,2,23,5,False,False,False,644583.0,703917.0
+kenitra,Kasbah Mehdia,6790.0,7600.0,107.4,106.2,149,1,2,26,5,False,False,False,1011710.0,1132400.0
+kenitra,Ismalia,6784.0,,107.4,106.2,121,2,2,27,3,True,False,False,820864.0,
+kenitra,Bir Rami Est,8418.0,6758.0,107.4,106.2,137,3,2,20,8,False,False,False,1153266.0,925846.0
+kenitra,Lotissement Nouveau,8311.0,,107.4,106.2,133,3,2,29,9,False,False,False,1105363.0,
+kenitra,Maamora,8248.0,5860.0,107.4,106.2,175,1,1,8,0,True,False,False,1443400.0,1025500.0
+kenitra,Mimosa,8046.0,,107.4,106.2,186,3,1,19,2,True,False,False,1496556.0,
+kenitra,Moutanabi,8018.0,,107.4,106.2,198,1,2,0,0,False,False,False,1587564.0,
+kenitra,Ville Haute,7803.0,13437.0,107.4,106.2,116,3,2,27,3,False,False,False,905148.0,1558692.0
+kenitra,Mehdia,7237.0,7555.0,107.4,106.2,199,1,1,22,0,True,False,False,1440163.0,1503445.0
+kenitra,El Hadadda,6931.0,7569.0,107.4,106.2,93,2,1,14,3,True,False,False,644583.0,703917.0
+kenitra,Kasbah Mehdia,6790.0,7600.0,107.4,106.2,86,1,1,22,6,False,False,False,583940.0,653600.0
+kenitra,Ismalia,6784.0,,107.4,106.2,181,3,1,29,7,False,False,False,1227904.0,
+tetouan,Souk Kdim,11375.0,,107.4,106.2,122,2,1,19,6,False,True,False,1387750.0,
+tetouan,Mallalienne,10921.0,8485.0,107.4,106.2,144,3,2,21,1,False,False,False,1572624.0,1221840.0
+tetouan,Saddina,9141.0,,107.4,106.2,50,2,2,24,7,False,False,False,457050.0,
+tetouan,Tétouan,8389.0,10216.0,107.4,106.2,87,3,2,25,1,False,False,False,729843.0,888792.0
+tetouan,Oued Laou,7785.0,,107.4,106.2,138,1,2,15,7,False,False,False,1074330.0,
+tetouan,Zaouiat Sidi Kacem,7474.0,,107.4,106.2,197,3,2,22,5,False,False,False,1472378.0,
+tetouan,Dar Bni Karrich,6192.0,,107.4,106.2,132,2,1,7,8,False,False,False,817344.0,
+tetouan,Azla,5961.0,,107.4,106.2,199,3,2,28,3,False,False,False,1186239.0,
+tetouan,Sahtryine,5555.0,,107.4,106.2,150,2,1,2,5,False,False,False,833250.0,
+tetouan,Hay Hamama,9436.0,,107.4,106.2,86,2,2,6,5,True,False,False,811496.0,
+tetouan,Wilaya,8448.0,,107.4,106.2,76,1,1,20,1,False,False,False,642048.0,
+tetouan,Tétouan,8212.0,,107.4,106.2,197,2,1,25,1,False,False,False,1617764.0,
+tetouan,Touilaa,8069.0,,107.4,106.2,165,1,1,26,1,True,False,False,1331385.0,
+tetouan,Mahannech,7454.0,,107.4,106.2,121,1,1,0,7,False,False,False,901934.0,
+tetouan,Oued Martil,6808.0,,107.4,106.2,95,2,1,13,3,False,False,False,646760.0,
+tetouan,Hay Boussafou,6346.0,,107.4,106.2,169,3,2,12,5,False,True,False,1072474.0,
+tetouan,Coelma,6244.0,10517.0,107.4,106.2,89,1,1,9,4,False,False,False,555716.0,936013.0
+tetouan,Souani,6180.0,,107.4,106.2,139,2,2,25,7,False,False,False,859020.0,
+tetouan,Nsasim Nakata,5550.0,,107.4,106.2,95,3,1,7,2,False,False,False,527250.0,
+tetouan,Souk Kdim,11375.0,,107.4,106.2,73,1,2,1,1,True,False,False,830375.0,
+tetouan,Mallalienne,10921.0,8485.0,107.4,106.2,158,2,2,22,9,False,False,False,1725518.0,1340630.0
+tetouan,Saddina,9141.0,,107.4,106.2,117,2,2,14,4,False,False,False,1069497.0,
+tetouan,Tétouan,8389.0,10216.0,107.4,106.2,92,1,1,7,5,False,True,False,771788.0,939872.0
+tetouan,Oued Laou,7785.0,,107.4,106.2,113,1,1,2,2,False,False,False,879705.0,
+tetouan,Zaouiat Sidi Kacem,7474.0,,107.4,106.2,138,3,2,23,0,False,False,False,1031412.0,
+tetouan,Dar Bni Karrich,6192.0,,107.4,106.2,176,2,1,27,4,True,False,False,1089792.0,
+tetouan,Azla,5961.0,,107.4,106.2,199,2,1,13,1,False,False,True,1186239.0,
+tetouan,Sahtryine,5555.0,,107.4,106.2,122,2,2,13,7,True,False,False,677710.0,
+tetouan,Hay Hamama,9436.0,,107.4,106.2,64,3,1,1,5,False,False,False,603904.0,
+tetouan,Wilaya,8448.0,,107.4,106.2,165,3,1,11,5,False,False,False,1393920.0,
+tetouan,Tétouan,8212.0,,107.4,106.2,178,3,2,5,6,False,False,False,1461736.0,
+tetouan,Touilaa,8069.0,,107.4,106.2,115,2,1,17,9,False,False,False,927935.0,
+tetouan,Mahannech,7454.0,,107.4,106.2,112,2,1,16,8,False,False,False,834848.0,
+tetouan,Oued Martil,6808.0,,107.4,106.2,191,2,1,14,7,False,False,False,1300328.0,
+tetouan,Hay Boussafou,6346.0,,107.4,106.2,97,2,2,18,3,False,False,False,615562.0,
+tetouan,Coelma,6244.0,10517.0,107.4,106.2,97,3,2,12,3,True,False,True,605668.0,1020149.0
+tetouan,Souani,6180.0,,107.4,106.2,95,3,1,12,0,False,False,False,587100.0,
+tetouan,Nsasim Nakata,5550.0,,107.4,106.2,175,1,2,12,8,False,False,False,971250.0,
+tetouan,Souk Kdim,11375.0,,107.4,106.2,177,2,1,10,5,False,False,False,2013375.0,
+tetouan,Mallalienne,10921.0,8485.0,107.4,106.2,98,2,1,19,8,True,True,False,1070258.0,831530.0
+tetouan,Saddina,9141.0,,107.4,106.2,56,3,2,17,6,False,False,False,511896.0,
+tetouan,Tétouan,8389.0,10216.0,107.4,106.2,182,2,1,19,6,False,False,False,1526798.0,1859312.0
+tetouan,Oued Laou,7785.0,,107.4,106.2,62,2,1,15,3,False,False,False,482670.0,
+tetouan,Zaouiat Sidi Kacem,7474.0,,107.4,106.2,182,1,1,14,9,False,True,False,1360268.0,
+tetouan,Dar Bni Karrich,6192.0,,107.4,106.2,174,3,2,21,3,False,False,False,1077408.0,
+tetouan,Azla,5961.0,,107.4,106.2,95,3,2,21,5,False,False,False,566295.0,
+tetouan,Sahtryine,5555.0,,107.4,106.2,169,3,1,5,6,False,False,False,938795.0,
+tetouan,Hay Hamama,9436.0,,107.4,106.2,137,2,1,17,6,False,True,False,1292732.0,
+tetouan,Wilaya,8448.0,,107.4,106.2,90,1,1,17,7,False,False,False,760320.0,
+tetouan,Tétouan,8212.0,,107.4,106.2,141,3,1,10,0,True,False,False,1157892.0,
+tetouan,Touilaa,8069.0,,107.4,106.2,144,3,2,6,9,False,False,False,1161936.0,
+tetouan,Mahannech,7454.0,,107.4,106.2,50,3,2,3,8,False,False,False,372700.0,
+tetouan,Oued Martil,6808.0,,107.4,106.2,116,1,2,13,5,False,False,False,789728.0,
+tetouan,Hay Boussafou,6346.0,,107.4,106.2,135,3,2,27,5,False,False,False,856710.0,
+tetouan,Coelma,6244.0,10517.0,107.4,106.2,163,2,2,11,4,True,True,False,1017772.0,1714271.0
+tetouan,Souani,6180.0,,107.4,106.2,58,1,1,5,7,False,False,False,358440.0,
+tetouan,Nsasim Nakata,5550.0,,107.4,106.2,122,1,2,4,1,False,False,False,677100.0,
+tetouan,Souk Kdim,11375.0,,107.4,106.2,83,2,2,24,2,False,False,False,944125.0,
+tetouan,Mallalienne,10921.0,8485.0,107.4,106.2,188,2,2,16,4,False,True,False,2053148.0,1595180.0
+tetouan,Saddina,9141.0,,107.4,106.2,68,1,1,11,5,False,False,False,621588.0,
+tetouan,Tétouan,8389.0,10216.0,107.4,106.2,171,3,1,24,2,False,False,False,1434519.0,1746936.0
+tetouan,Oued Laou,7785.0,,107.4,106.2,113,2,1,11,6,False,False,False,879705.0,
+tetouan,Zaouiat Sidi Kacem,7474.0,,107.4,106.2,191,3,1,5,0,False,False,False,1427534.0,
+tetouan,Dar Bni Karrich,6192.0,,107.4,106.2,162,1,2,9,1,False,False,False,1003104.0,
+tetouan,Azla,5961.0,,107.4,106.2,66,2,2,21,2,False,False,False,393426.0,
+tetouan,Sahtryine,5555.0,,107.4,106.2,107,3,2,18,1,False,False,False,594385.0,
+tetouan,Souk Kdim,11375.0,,107.4,106.2,54,1,2,13,2,False,False,False,614250.0,
+tetouan,Mallalienne,10921.0,8485.0,107.4,106.2,67,3,1,10,8,False,False,False,731707.0,568495.0
+tetouan,Saddina,9141.0,,107.4,106.2,150,1,1,4,2,False,False,False,1371150.0,
+tetouan,Tétouan,8389.0,10216.0,107.4,106.2,73,2,2,1,2,False,False,True,612397.0,745768.0
+tetouan,Oued Laou,7785.0,,107.4,106.2,167,1,1,20,4,False,False,False,1300095.0,
+tetouan,Zaouiat Sidi Kacem,7474.0,,107.4,106.2,135,1,2,21,5,True,False,False,1008990.0,
+tetouan,Dar Bni Karrich,6192.0,,107.4,106.2,97,2,2,14,3,True,False,False,600624.0,
+tetouan,Azla,5961.0,,107.4,106.2,124,1,2,20,7,False,False,False,739164.0,
+tetouan,Sahtryine,5555.0,,107.4,106.2,55,1,2,12,9,False,True,False,305525.0,
+tetouan,Hay Hamama,9436.0,,107.4,106.2,84,2,2,9,9,True,False,False,792624.0,
+tetouan,Wilaya,8448.0,,107.4,106.2,190,1,2,16,2,True,False,False,1605120.0,
+tetouan,Tétouan,8212.0,,107.4,106.2,183,1,1,28,9,True,False,False,1502796.0,
+tetouan,Touilaa,8069.0,,107.4,106.2,101,3,1,22,8,False,False,False,814969.0,
+tetouan,Mahannech,7454.0,,107.4,106.2,79,2,1,22,6,False,False,False,588866.0,
+tetouan,Oued Martil,6808.0,,107.4,106.2,156,3,1,27,1,True,False,False,1062048.0,
+tetouan,Hay Boussafou,6346.0,,107.4,106.2,104,2,2,8,5,False,False,True,659984.0,
+tetouan,Coelma,6244.0,10517.0,107.4,106.2,97,2,2,25,8,False,False,False,605668.0,1020149.0
+tetouan,Souani,6180.0,,107.4,106.2,128,3,1,1,1,False,False,False,791040.0,
+tetouan,Nsasim Nakata,5550.0,,107.4,106.2,112,2,1,16,5,False,False,False,621600.0,
+tetouan,Hay Hamama,9436.0,,107.4,106.2,177,1,1,4,6,True,False,False,1670172.0,
+tetouan,Wilaya,8448.0,,107.4,106.2,101,1,1,3,6,False,False,False,853248.0,
+tetouan,Tétouan,8212.0,,107.4,106.2,52,3,2,9,6,False,False,False,427024.0,
+tetouan,Touilaa,8069.0,,107.4,106.2,66,2,2,27,7,False,False,False,532554.0,
+tetouan,Mahannech,7454.0,,107.4,106.2,52,1,1,27,0,False,False,False,387608.0,
+tetouan,Oued Martil,6808.0,,107.4,106.2,97,1,2,9,3,False,True,False,660376.0,
+tetouan,Hay Boussafou,6346.0,,107.4,106.2,106,1,2,5,4,False,False,False,672676.0,
+tetouan,Coelma,6244.0,10517.0,107.4,106.2,198,3,1,18,0,False,False,True,1236312.0,2082366.0
+tetouan,Souani,6180.0,,107.4,106.2,173,1,1,19,7,False,False,False,1069140.0,
+tetouan,Nsasim Nakata,5550.0,,107.4,106.2,104,2,2,7,8,False,True,False,577200.0,
+mohammedia,Casablanca,12503.0,16457.0,107.4,106.2,197,1,2,4,5,False,False,False,2463091.0,3242029.0
+mohammedia,Rabat,12392.0,13065.0,107.4,106.2,130,1,1,14,6,False,False,False,1610960.0,1698450.0
+mohammedia,Nouaceur,9257.0,11904.0,107.4,106.2,168,2,2,28,7,False,False,False,1555176.0,1999872.0
+mohammedia,Skhirate- Témara,9003.0,10990.0,107.4,106.2,108,1,2,11,4,True,False,False,972324.0,1186920.0
+mohammedia,Marrakech,8885.0,10138.0,107.4,106.2,139,3,1,10,8,True,False,False,1235015.0,1409182.0
+mohammedia,Benslimane,8537.0,10684.0,107.4,106.2,68,1,1,27,5,False,False,False,580516.0,726512.0
+mohammedia,Salé,8209.0,10351.0,107.4,106.2,52,1,2,21,1,False,False,False,426868.0,538252.0
+mohammedia,Tanger-Assilah,8028.0,11762.0,107.4,106.2,77,2,2,21,2,True,False,False,618156.0,905674.0
+mohammedia,Agadir,7935.0,10092.0,107.4,106.2,165,1,2,3,6,False,True,False,1309275.0,1665180.0
+mohammedia,Tétouan,7742.0,9831.0,107.4,106.2,99,2,1,17,9,False,False,False,766458.0,973269.0
+mohammedia,Casablanca,12503.0,16457.0,107.4,106.2,108,2,2,25,9,False,False,False,1350324.0,1777356.0
+mohammedia,Rabat,12392.0,13065.0,107.4,106.2,153,2,2,0,1,False,False,False,1895976.0,1998945.0
+mohammedia,Nouaceur,9257.0,11904.0,107.4,106.2,163,3,2,7,1,False,False,False,1508891.0,1940352.0
+mohammedia,Skhirate- Témara,9003.0,10990.0,107.4,106.2,63,3,2,9,4,False,False,False,567189.0,692370.0
+mohammedia,Marrakech,8885.0,10138.0,107.4,106.2,50,3,2,8,8,False,False,False,444250.0,506900.0
+mohammedia,Benslimane,8537.0,10684.0,107.4,106.2,190,2,2,5,7,False,False,False,1622030.0,2029960.0
+mohammedia,Salé,8209.0,10351.0,107.4,106.2,131,2,2,27,4,False,False,False,1075379.0,1355981.0
+mohammedia,Tanger-Assilah,8028.0,11762.0,107.4,106.2,58,1,2,24,6,False,False,False,465624.0,682196.0
+mohammedia,Agadir,7935.0,10092.0,107.4,106.2,122,2,1,20,2,False,False,False,968070.0,1231224.0
+mohammedia,Tétouan,7742.0,9831.0,107.4,106.2,151,3,1,2,5,True,False,False,1169042.0,1484481.0
+mohammedia,Casablanca,12503.0,16457.0,107.4,106.2,150,3,2,24,4,False,False,False,1875450.0,2468550.0
+mohammedia,Rabat,12392.0,13065.0,107.4,106.2,108,2,2,29,6,False,False,False,1338336.0,1411020.0
+mohammedia,Nouaceur,9257.0,11904.0,107.4,106.2,178,2,1,22,8,False,False,False,1647746.0,2118912.0
+mohammedia,Skhirate- Témara,9003.0,10990.0,107.4,106.2,80,1,1,17,2,False,True,False,720240.0,879200.0
+mohammedia,Marrakech,8885.0,10138.0,107.4,106.2,105,1,1,26,9,False,False,False,932925.0,1064490.0
+mohammedia,Benslimane,8537.0,10684.0,107.4,106.2,134,3,1,5,6,False,False,False,1143958.0,1431656.0
+mohammedia,Salé,8209.0,10351.0,107.4,106.2,124,2,2,6,7,True,True,True,1017916.0,1283524.0
+mohammedia,Tanger-Assilah,8028.0,11762.0,107.4,106.2,199,3,1,1,9,True,False,False,1597572.0,2340638.0
+mohammedia,Agadir,7935.0,10092.0,107.4,106.2,65,1,2,26,6,False,False,False,515775.0,655980.0
+mohammedia,Tétouan,7742.0,9831.0,107.4,106.2,140,3,2,15,5,False,False,False,1083880.0,1376340.0
+mohammedia,Casablanca,12503.0,16457.0,107.4,106.2,50,2,2,2,6,False,False,False,625150.0,822850.0
+mohammedia,Rabat,12392.0,13065.0,107.4,106.2,114,3,1,1,8,True,False,False,1412688.0,1489410.0
+mohammedia,Nouaceur,9257.0,11904.0,107.4,106.2,146,2,2,26,5,False,False,True,1351522.0,1737984.0
+mohammedia,Skhirate- Témara,9003.0,10990.0,107.4,106.2,107,1,2,14,4,False,False,True,963321.0,1175930.0
+mohammedia,Marrakech,8885.0,10138.0,107.4,106.2,198,2,1,21,6,False,False,False,1759230.0,2007324.0
+mohammedia,Benslimane,8537.0,10684.0,107.4,106.2,129,3,1,6,4,False,False,False,1101273.0,1378236.0
+mohammedia,Salé,8209.0,10351.0,107.4,106.2,133,1,1,2,0,False,False,False,1091797.0,1376683.0
+mohammedia,Tanger-Assilah,8028.0,11762.0,107.4,106.2,123,3,1,15,0,False,False,False,987444.0,1446726.0
+mohammedia,Agadir,7935.0,10092.0,107.4,106.2,162,1,2,20,7,False,False,False,1285470.0,1634904.0
+mohammedia,Tétouan,7742.0,9831.0,107.4,106.2,65,2,2,9,4,False,False,False,503230.0,639015.0
+mohammedia,Casablanca,12503.0,16457.0,107.4,106.2,192,3,1,9,9,False,False,False,2400576.0,3159744.0
+mohammedia,Rabat,12392.0,13065.0,107.4,106.2,83,2,2,28,9,True,False,False,1028536.0,1084395.0
+mohammedia,Nouaceur,9257.0,11904.0,107.4,106.2,109,2,1,19,7,False,False,False,1009013.0,1297536.0
+mohammedia,Skhirate- Témara,9003.0,10990.0,107.4,106.2,147,1,2,4,4,False,False,True,1323441.0,1615530.0
+mohammedia,Marrakech,8885.0,10138.0,107.4,106.2,187,1,2,28,1,False,False,False,1661495.0,1895806.0
+mohammedia,Benslimane,8537.0,10684.0,107.4,106.2,167,1,1,17,9,True,True,False,1425679.0,1784228.0
+mohammedia,Salé,8209.0,10351.0,107.4,106.2,143,1,2,29,7,True,True,False,1173887.0,1480193.0
+mohammedia,Tanger-Assilah,8028.0,11762.0,107.4,106.2,67,3,2,22,3,False,False,False,537876.0,788054.0
+mohammedia,Agadir,7935.0,10092.0,107.4,106.2,159,1,1,16,0,False,False,False,1261665.0,1604628.0
+mohammedia,Tétouan,7742.0,9831.0,107.4,106.2,123,2,2,3,3,False,False,False,952266.0,1209213.0
+el-jadida,Lamharza Essahel,7953.0,7775.0,107.4,106.2,123,1,2,28,1,False,False,False,978219.0,956325.0
+el-jadida,El Jadida,7101.0,9461.0,107.4,106.2,147,3,2,7,7,False,True,False,1043847.0,1390767.0
+el-jadida,Chaibate,6975.0,7424.0,107.4,106.2,113,3,1,3,6,False,False,False,788175.0,838912.0
+el-jadida,Zaouiat Lakouacem,6377.0,,107.4,106.2,192,2,1,13,3,True,False,False,1224384.0,
+el-jadida,Lbir Jdid,6374.0,,107.4,106.2,93,3,2,28,1,False,False,False,592782.0,
+el-jadida,Azemmour,5953.0,,107.4,106.2,177,1,2,0,3,False,False,False,1053681.0,
+el-jadida,Chtouka,5569.0,,107.4,106.2,175,2,1,11,1,False,True,False,974575.0,
+el-jadida,My Abdellah,5370.0,6355.0,107.4,106.2,70,1,2,21,0,False,False,False,375900.0,444850.0
+el-jadida,Dreamland Sahel,14079.0,,107.4,106.2,50,3,2,8,6,False,False,False,703950.0,
+el-jadida,Résidence Olablanca,11227.0,,107.4,106.2,178,2,2,6,2,False,False,False,1998406.0,
+el-jadida,Al Boustane,8437.0,,107.4,106.2,131,1,2,17,5,False,False,False,1105247.0,
+el-jadida,Haouzia 1,8233.0,,107.4,106.2,167,1,1,4,5,False,False,False,1374911.0,
+el-jadida,My Abdellah,8152.0,5390.0,107.4,106.2,180,2,2,26,8,True,True,False,1467360.0,970200.0
+el-jadida,Centre Ville,8137.0,10536.0,107.4,106.2,77,2,1,24,4,False,False,False,626549.0,811272.0
+el-jadida,Hay Riad,7583.0,,107.4,106.2,67,1,2,20,3,False,False,False,508061.0,
+el-jadida,Derb Lahouna,7321.0,,107.4,106.2,150,2,1,5,8,False,False,False,1098150.0,
+el-jadida,Narjiss,7142.0,,107.4,106.2,160,3,2,25,5,False,True,False,1142720.0,
+el-jadida,Hay Essalam,6887.0,,107.4,106.2,132,1,2,26,5,False,False,False,909084.0,
+el-jadida,Lamharza Essahel,7953.0,7775.0,107.4,106.2,80,2,2,22,4,False,False,False,636240.0,622000.0
+el-jadida,El Jadida,7101.0,9461.0,107.4,106.2,106,1,1,26,8,False,False,True,752706.0,1002866.0
+el-jadida,Chaibate,6975.0,7424.0,107.4,106.2,71,3,2,10,0,False,False,False,495225.0,527104.0
+el-jadida,Zaouiat Lakouacem,6377.0,,107.4,106.2,95,1,2,21,1,True,False,True,605815.0,
+el-jadida,Lbir Jdid,6374.0,,107.4,106.2,169,3,2,7,7,False,False,False,1077206.0,
+el-jadida,Azemmour,5953.0,,107.4,106.2,116,1,1,19,2,True,False,True,690548.0,
+el-jadida,Chtouka,5569.0,,107.4,106.2,178,1,2,16,1,False,False,False,991282.0,
+el-jadida,My Abdellah,5370.0,6355.0,107.4,106.2,51,3,1,12,2,True,True,False,273870.0,324105.0
+el-jadida,Dreamland Sahel,14079.0,,107.4,106.2,146,2,2,28,5,False,False,False,2055534.0,
+el-jadida,Résidence Olablanca,11227.0,,107.4,106.2,135,3,2,5,6,False,False,False,1515645.0,
+el-jadida,Al Boustane,8437.0,,107.4,106.2,170,1,2,6,1,False,False,False,1434290.0,
+el-jadida,Haouzia 1,8233.0,,107.4,106.2,97,2,2,17,3,False,False,False,798601.0,
+el-jadida,My Abdellah,8152.0,5390.0,107.4,106.2,101,2,2,20,8,False,False,False,823352.0,544390.0
+el-jadida,Centre Ville,8137.0,10536.0,107.4,106.2,171,2,1,23,7,False,False,False,1391427.0,1801656.0
+el-jadida,Hay Riad,7583.0,,107.4,106.2,146,3,2,16,1,True,False,False,1107118.0,
+el-jadida,Derb Lahouna,7321.0,,107.4,106.2,64,3,2,1,8,False,False,False,468544.0,
+el-jadida,Narjiss,7142.0,,107.4,106.2,114,1,1,13,2,False,False,False,814188.0,
+el-jadida,Hay Essalam,6887.0,,107.4,106.2,152,1,1,2,6,False,False,False,1046824.0,
+el-jadida,Lamharza Essahel,7953.0,7775.0,107.4,106.2,59,2,2,25,3,False,False,False,469227.0,458725.0
+el-jadida,El Jadida,7101.0,9461.0,107.4,106.2,145,1,1,25,9,False,False,False,1029645.0,1371845.0
+el-jadida,Chaibate,6975.0,7424.0,107.4,106.2,181,2,1,18,9,False,True,False,1262475.0,1343744.0
+el-jadida,Zaouiat Lakouacem,6377.0,,107.4,106.2,176,1,1,21,8,False,False,False,1122352.0,
+el-jadida,Lbir Jdid,6374.0,,107.4,106.2,150,2,2,19,0,False,False,False,956100.0,
+el-jadida,Azemmour,5953.0,,107.4,106.2,153,3,1,8,6,False,False,False,910809.0,
+el-jadida,Chtouka,5569.0,,107.4,106.2,192,2,1,11,1,False,False,False,1069248.0,
+el-jadida,My Abdellah,5370.0,6355.0,107.4,106.2,105,3,1,11,3,True,False,False,563850.0,667275.0
+el-jadida,Dreamland Sahel,14079.0,,107.4,106.2,90,2,2,10,8,False,False,False,1267110.0,
+el-jadida,Résidence Olablanca,11227.0,,107.4,106.2,188,2,1,20,3,False,False,False,2110676.0,
+el-jadida,Al Boustane,8437.0,,107.4,106.2,167,2,1,22,1,False,False,False,1408979.0,
+el-jadida,Haouzia 1,8233.0,,107.4,106.2,135,1,2,19,2,False,True,False,1111455.0,
+el-jadida,My Abdellah,8152.0,5390.0,107.4,106.2,189,1,1,10,3,False,True,False,1540728.0,1018710.0
+el-jadida,Centre Ville,8137.0,10536.0,107.4,106.2,85,2,2,3,0,False,False,False,691645.0,895560.0
+el-jadida,Hay Riad,7583.0,,107.4,106.2,109,2,1,11,9,False,False,False,826547.0,
+el-jadida,Derb Lahouna,7321.0,,107.4,106.2,151,3,1,15,8,False,False,False,1105471.0,
+el-jadida,Narjiss,7142.0,,107.4,106.2,166,3,1,20,9,True,False,False,1185572.0,
+el-jadida,Hay Essalam,6887.0,,107.4,106.2,72,1,1,26,9,True,False,False,495864.0,
+el-jadida,Lamharza Essahel,7953.0,7775.0,107.4,106.2,68,2,2,2,7,False,False,False,540804.0,528700.0
+el-jadida,El Jadida,7101.0,9461.0,107.4,106.2,54,3,1,13,7,False,False,False,383454.0,510894.0
+el-jadida,Chaibate,6975.0,7424.0,107.4,106.2,91,2,2,23,0,False,False,False,634725.0,675584.0
+el-jadida,Zaouiat Lakouacem,6377.0,,107.4,106.2,87,1,2,27,7,False,False,False,554799.0,
+el-jadida,Lbir Jdid,6374.0,,107.4,106.2,64,2,1,9,1,False,False,False,407936.0,
+el-jadida,Azemmour,5953.0,,107.4,106.2,115,2,2,13,3,True,False,False,684595.0,
+el-jadida,Chtouka,5569.0,,107.4,106.2,86,2,2,13,9,False,False,False,478934.0,
+el-jadida,My Abdellah,5370.0,6355.0,107.4,106.2,160,3,2,6,4,False,False,False,859200.0,1016800.0
+el-jadida,Lamharza Essahel,7953.0,7775.0,107.4,106.2,97,2,1,15,8,False,False,False,771441.0,754175.0
+el-jadida,El Jadida,7101.0,9461.0,107.4,106.2,58,3,1,6,0,False,False,False,411858.0,548738.0
+el-jadida,Chaibate,6975.0,7424.0,107.4,106.2,149,2,2,25,2,True,False,False,1039275.0,1106176.0
+el-jadida,Zaouiat Lakouacem,6377.0,,107.4,106.2,107,2,2,23,2,False,False,False,682339.0,
+el-jadida,Lbir Jdid,6374.0,,107.4,106.2,126,1,2,3,4,True,False,False,803124.0,
+el-jadida,Azemmour,5953.0,,107.4,106.2,140,3,2,11,5,False,False,False,833420.0,
+el-jadida,Chtouka,5569.0,,107.4,106.2,64,3,2,23,6,False,False,False,356416.0,
+el-jadida,My Abdellah,5370.0,6355.0,107.4,106.2,162,1,2,13,0,True,False,False,869940.0,1029510.0
+el-jadida,Dreamland Sahel,14079.0,,107.4,106.2,188,1,1,8,0,False,False,False,2646852.0,
+el-jadida,Résidence Olablanca,11227.0,,107.4,106.2,145,3,1,13,0,False,False,False,1627915.0,
+el-jadida,Al Boustane,8437.0,,107.4,106.2,96,3,1,9,6,False,False,False,809952.0,
+el-jadida,Haouzia 1,8233.0,,107.4,106.2,145,2,2,11,3,False,False,False,1193785.0,
+el-jadida,My Abdellah,8152.0,5390.0,107.4,106.2,121,2,2,11,8,True,False,False,986392.0,652190.0
+el-jadida,Centre Ville,8137.0,10536.0,107.4,106.2,116,1,2,10,5,False,False,False,943892.0,1222176.0
+el-jadida,Hay Riad,7583.0,,107.4,106.2,168,3,1,17,2,False,False,True,1273944.0,
+el-jadida,Derb Lahouna,7321.0,,107.4,106.2,73,3,2,14,8,False,False,False,534433.0,
+el-jadida,Narjiss,7142.0,,107.4,106.2,134,1,1,17,1,False,False,False,957028.0,
+el-jadida,Hay Essalam,6887.0,,107.4,106.2,99,2,2,23,0,False,False,False,681813.0,
+el-jadida,Dreamland Sahel,14079.0,,107.4,106.2,70,3,1,12,6,True,True,False,985530.0,
+el-jadida,Résidence Olablanca,11227.0,,107.4,106.2,153,3,1,10,0,False,False,False,1717731.0,
+el-jadida,Al Boustane,8437.0,,107.4,106.2,79,2,2,29,3,False,False,False,666523.0,
+el-jadida,Haouzia 1,8233.0,,107.4,106.2,161,1,1,12,4,False,False,False,1325513.0,
+el-jadida,My Abdellah,8152.0,5390.0,107.4,106.2,55,3,2,17,2,False,False,False,448360.0,296450.0
+el-jadida,Centre Ville,8137.0,10536.0,107.4,106.2,77,3,1,12,1,True,False,False,626549.0,811272.0
+el-jadida,Hay Riad,7583.0,,107.4,106.2,173,3,2,25,0,False,False,False,1311859.0,
+el-jadida,Derb Lahouna,7321.0,,107.4,106.2,167,2,2,15,3,False,False,False,1222607.0,
+el-jadida,Narjiss,7142.0,,107.4,106.2,160,1,1,8,0,False,False,False,1142720.0,
+el-jadida,Hay Essalam,6887.0,,107.4,106.2,138,3,2,7,4,False,False,False,950406.0,
+sale,Bab Lamrissa,10667.0,11252.0,107.4,106.2,163,3,1,23,5,False,False,False,1738721.0,1834076.0
+sale,Hssaine,10443.0,11121.0,107.4,106.2,166,3,1,13,5,False,False,False,1733538.0,1846086.0
+sale,Tabriquet,9945.0,,107.4,106.2,82,2,1,10,7,False,True,False,815490.0,
+sale,Bettana,8876.0,10460.0,107.4,106.2,63,2,1,27,5,False,False,False,559188.0,658980.0
+sale,Shoul,7682.0,,107.4,106.2,111,1,2,19,8,False,True,False,852702.0,
+sale,Layayda,7476.0,,107.4,106.2,101,1,2,28,6,False,False,False,755076.0,
+sale,Ameur,6205.0,6997.0,107.4,106.2,119,2,2,3,1,False,True,False,738395.0,832643.0
+sale,Sidi Bouknadel,5293.0,,107.4,106.2,148,2,1,18,5,False,False,False,783364.0,
+sale,Plage des nations,16427.0,,107.4,106.2,93,3,1,26,6,False,False,False,1527711.0,
+sale,Salé El Jadiia,9345.0,11461.0,107.4,106.2,51,1,2,5,2,False,False,False,476595.0,584511.0
+sale,Hssaine,9122.0,,107.4,106.2,137,3,1,16,4,False,False,True,1249714.0,
+sale,Al Mouahidine.,8910.0,,107.4,106.2,82,2,2,15,4,False,True,False,730620.0,
+sale,Said hajji,8730.0,9758.0,107.4,106.2,154,2,2,12,2,False,False,False,1344420.0,1502732.0
+sale,Btana,8705.0,11259.0,107.4,106.2,59,3,2,26,8,False,False,False,513595.0,664281.0
+sale,Hay Salam,8668.0,,107.4,106.2,188,2,1,10,3,False,False,False,1629584.0,
+sale,Assonboula,8489.0,,107.4,106.2,184,3,1,12,3,False,False,False,1561976.0,
+sale,Karia,8485.0,,107.4,106.2,193,1,1,21,2,False,False,False,1637605.0,
+sale,Bab lakhmiss,8370.0,9701.0,107.4,106.2,153,3,2,12,6,False,False,False,1280610.0,1484253.0
+sale,Bab Lamrissa,10667.0,11252.0,107.4,106.2,110,1,1,25,1,False,False,False,1173370.0,1237720.0
+sale,Hssaine,10443.0,11121.0,107.4,106.2,90,2,2,7,6,False,False,False,939870.0,1000890.0
+sale,Tabriquet,9945.0,,107.4,106.2,165,1,1,12,6,False,False,False,1640925.0,
+sale,Bettana,8876.0,10460.0,107.4,106.2,95,1,2,7,7,False,False,False,843220.0,993700.0
+sale,Shoul,7682.0,,107.4,106.2,143,3,1,4,9,False,False,False,1098526.0,
+sale,Layayda,7476.0,,107.4,106.2,87,1,1,18,2,False,False,False,650412.0,
+sale,Ameur,6205.0,6997.0,107.4,106.2,170,3,2,13,7,True,False,False,1054850.0,1189490.0
+sale,Sidi Bouknadel,5293.0,,107.4,106.2,119,3,1,22,8,False,False,False,629867.0,
+sale,Plage des nations,16427.0,,107.4,106.2,146,3,2,6,1,False,True,False,2398342.0,
+sale,Salé El Jadiia,9345.0,11461.0,107.4,106.2,153,1,2,14,8,False,True,False,1429785.0,1753533.0
+sale,Hssaine,9122.0,,107.4,106.2,130,1,2,14,7,False,False,False,1185860.0,
+sale,Al Mouahidine.,8910.0,,107.4,106.2,115,2,1,14,1,False,False,False,1024650.0,
+sale,Said hajji,8730.0,9758.0,107.4,106.2,119,2,2,18,4,False,False,False,1038870.0,1161202.0
+sale,Btana,8705.0,11259.0,107.4,106.2,161,2,2,28,4,False,False,False,1401505.0,1812699.0
+sale,Hay Salam,8668.0,,107.4,106.2,142,2,1,14,7,False,False,False,1230856.0,
+sale,Assonboula,8489.0,,107.4,106.2,159,1,1,11,5,False,False,False,1349751.0,
+sale,Karia,8485.0,,107.4,106.2,57,2,1,20,3,False,False,False,483645.0,
+sale,Bab lakhmiss,8370.0,9701.0,107.4,106.2,58,2,1,14,3,False,False,False,485460.0,562658.0
+sale,Bab Lamrissa,10667.0,11252.0,107.4,106.2,78,3,2,28,2,True,False,False,832026.0,877656.0
+sale,Hssaine,10443.0,11121.0,107.4,106.2,183,3,1,29,7,False,True,False,1911069.0,2035143.0
+sale,Tabriquet,9945.0,,107.4,106.2,161,3,1,25,5,False,False,False,1601145.0,
+sale,Bettana,8876.0,10460.0,107.4,106.2,177,2,2,21,6,False,False,False,1571052.0,1851420.0
+sale,Shoul,7682.0,,107.4,106.2,114,1,1,28,8,False,False,False,875748.0,
+sale,Layayda,7476.0,,107.4,106.2,108,2,1,15,0,False,False,False,807408.0,
+sale,Ameur,6205.0,6997.0,107.4,106.2,117,3,1,1,6,False,False,False,725985.0,818649.0
+sale,Sidi Bouknadel,5293.0,,107.4,106.2,192,2,2,23,1,False,False,False,1016256.0,
+sale,Plage des nations,16427.0,,107.4,106.2,153,2,1,6,9,True,False,False,2513331.0,
+sale,Salé El Jadiia,9345.0,11461.0,107.4,106.2,177,2,1,22,0,True,False,False,1654065.0,2028597.0
+sale,Hssaine,9122.0,,107.4,106.2,56,1,1,18,1,False,False,False,510832.0,
+sale,Al Mouahidine.,8910.0,,107.4,106.2,184,1,1,4,8,True,False,False,1639440.0,
+sale,Said hajji,8730.0,9758.0,107.4,106.2,134,3,2,28,7,False,False,False,1169820.0,1307572.0
+sale,Btana,8705.0,11259.0,107.4,106.2,122,3,2,0,7,False,False,False,1062010.0,1373598.0
+sale,Hay Salam,8668.0,,107.4,106.2,57,3,1,22,9,False,False,True,494076.0,
+sale,Assonboula,8489.0,,107.4,106.2,103,2,1,3,3,False,False,False,874367.0,
+sale,Karia,8485.0,,107.4,106.2,149,3,1,6,1,False,True,False,1264265.0,
+sale,Bab lakhmiss,8370.0,9701.0,107.4,106.2,138,1,1,8,7,False,False,False,1155060.0,1338738.0
+sale,Bab Lamrissa,10667.0,11252.0,107.4,106.2,66,1,1,7,3,False,False,False,704022.0,742632.0
+sale,Hssaine,10443.0,11121.0,107.4,106.2,114,2,2,10,1,False,False,False,1190502.0,1267794.0
+sale,Tabriquet,9945.0,,107.4,106.2,131,2,1,12,2,True,False,False,1302795.0,
+sale,Bettana,8876.0,10460.0,107.4,106.2,178,1,2,10,4,False,False,False,1579928.0,1861880.0
+sale,Shoul,7682.0,,107.4,106.2,196,2,1,19,6,False,False,False,1505672.0,
+sale,Layayda,7476.0,,107.4,106.2,59,3,2,2,4,True,False,False,441084.0,
+sale,Ameur,6205.0,6997.0,107.4,106.2,140,2,1,9,0,True,False,False,868700.0,979580.0
+sale,Sidi Bouknadel,5293.0,,107.4,106.2,95,1,2,26,6,False,False,False,502835.0,
+sale,Bab Lamrissa,10667.0,11252.0,107.4,106.2,180,1,2,22,7,False,False,False,1920060.0,2025360.0
+sale,Hssaine,10443.0,11121.0,107.4,106.2,95,3,2,3,8,False,False,False,992085.0,1056495.0
+sale,Tabriquet,9945.0,,107.4,106.2,172,1,1,24,1,False,False,False,1710540.0,
+sale,Bettana,8876.0,10460.0,107.4,106.2,172,1,1,4,2,False,False,False,1526672.0,1799120.0
+sale,Shoul,7682.0,,107.4,106.2,176,2,2,2,0,False,False,False,1352032.0,
+sale,Layayda,7476.0,,107.4,106.2,79,3,2,27,8,False,False,False,590604.0,
+sale,Ameur,6205.0,6997.0,107.4,106.2,195,2,2,23,9,False,False,False,1209975.0,1364415.0
+sale,Sidi Bouknadel,5293.0,,107.4,106.2,133,3,2,23,4,False,False,False,703969.0,
+sale,Plage des nations,16427.0,,107.4,106.2,140,2,2,23,1,False,False,False,2299780.0,
+sale,Salé El Jadiia,9345.0,11461.0,107.4,106.2,91,2,1,14,1,False,False,False,850395.0,1042951.0
+sale,Hssaine,9122.0,,107.4,106.2,151,1,2,13,5,False,False,False,1377422.0,
+sale,Al Mouahidine.,8910.0,,107.4,106.2,86,2,1,2,8,True,False,False,766260.0,
+sale,Said hajji,8730.0,9758.0,107.4,106.2,60,3,1,8,6,False,False,False,523800.0,585480.0
+sale,Btana,8705.0,11259.0,107.4,106.2,143,2,1,15,1,False,False,False,1244815.0,1610037.0
+sale,Hay Salam,8668.0,,107.4,106.2,92,2,1,0,0,False,False,False,797456.0,
+sale,Assonboula,8489.0,,107.4,106.2,197,3,1,5,0,False,False,False,1672333.0,
+sale,Karia,8485.0,,107.4,106.2,183,1,2,25,1,False,False,False,1552755.0,
+sale,Bab lakhmiss,8370.0,9701.0,107.4,106.2,102,1,2,18,2,True,False,False,853740.0,989502.0
+sale,Plage des nations,16427.0,,107.4,106.2,171,3,2,11,0,True,False,False,2809017.0,
+sale,Salé El Jadiia,9345.0,11461.0,107.4,106.2,70,2,2,21,4,False,False,False,654150.0,802270.0
+sale,Hssaine,9122.0,,107.4,106.2,50,3,1,2,4,True,False,False,456100.0,
+sale,Al Mouahidine.,8910.0,,107.4,106.2,98,1,1,3,6,False,False,False,873180.0,
+sale,Said hajji,8730.0,9758.0,107.4,106.2,149,2,2,11,0,False,True,False,1300770.0,1453942.0
+sale,Btana,8705.0,11259.0,107.4,106.2,55,3,1,6,9,False,True,False,478775.0,619245.0
+sale,Hay Salam,8668.0,,107.4,106.2,122,2,2,9,4,False,False,False,1057496.0,
+sale,Assonboula,8489.0,,107.4,106.2,142,2,2,26,4,True,False,False,1205438.0,
+sale,Karia,8485.0,,107.4,106.2,106,2,2,6,4,False,False,False,899410.0,
+sale,Bab lakhmiss,8370.0,9701.0,107.4,106.2,147,2,1,13,5,False,False,False,1230390.0,1426047.0
+nador,Bni Ansar,10463.0,,107.4,106.2,149,2,1,26,1,False,False,False,1558987.0,
+nador,Al Barkanyene,7024.0,,107.4,106.2,194,1,1,27,8,False,False,False,1362656.0,
+nador,Iaazzanene,6550.0,,107.4,106.2,181,3,2,27,9,False,False,False,1185550.0,
+nador,Ihaddadene,6485.0,,107.4,106.2,177,2,1,21,7,True,False,False,1147845.0,
+nador,Oulad Settout,6456.0,,107.4,106.2,118,1,2,29,2,False,False,False,761808.0,
+nador,Bouarg,6086.0,,107.4,106.2,150,2,1,10,3,False,True,False,912900.0,
+nador,Ras El Ma,6003.0,,107.4,106.2,133,3,1,14,9,False,False,False,798399.0,
+nador,Nador,5908.0,7517.0,107.4,106.2,63,1,2,15,8,False,False,False,372204.0,473571.0
+nador,Al Aaroui,5796.0,,107.4,106.2,149,2,1,25,6,True,False,False,863604.0,
+nador,Selouane,5511.0,,107.4,106.2,166,3,2,11,0,True,False,False,914826.0,
+nador,Wad Benouserdoune,7559.0,,107.4,106.2,64,3,1,1,0,False,False,False,483776.0,
+nador,Wad Benouserdoune,6408.0,,107.4,106.2,92,1,1,16,2,True,False,False,589536.0,
+nador,Hay Al Matar,6260.0,,107.4,106.2,93,2,2,16,0,False,False,False,582180.0,
+nador,Al Boustane,6180.0,,107.4,106.2,152,2,2,21,4,False,True,False,939360.0,
+nador,Nador,6102.0,,107.4,106.2,169,3,1,0,8,False,False,False,1031238.0,
+nador,HayAlMatar,6011.0,,107.4,106.2,80,3,2,8,4,True,False,False,480880.0,
+nador,Mediterranée,5564.0,,107.4,106.2,165,2,1,23,7,True,False,False,918060.0,
+nador,Bni Ansar,10463.0,,107.4,106.2,157,2,1,26,3,False,False,False,1642691.0,
+nador,Al Barkanyene,7024.0,,107.4,106.2,114,1,2,11,2,False,False,False,800736.0,
+nador,Iaazzanene,6550.0,,107.4,106.2,141,1,2,8,2,False,False,True,923550.0,
+nador,Ihaddadene,6485.0,,107.4,106.2,192,3,2,14,4,False,False,False,1245120.0,
+nador,Oulad Settout,6456.0,,107.4,106.2,141,2,1,19,2,True,False,False,910296.0,
+nador,Bouarg,6086.0,,107.4,106.2,112,2,2,2,1,True,False,False,681632.0,
+nador,Ras El Ma,6003.0,,107.4,106.2,166,2,2,22,6,True,False,False,996498.0,
+nador,Nador,5908.0,7517.0,107.4,106.2,158,3,2,19,3,False,False,False,933464.0,1187686.0
+nador,Al Aaroui,5796.0,,107.4,106.2,174,3,1,18,3,False,False,False,1008504.0,
+nador,Selouane,5511.0,,107.4,106.2,97,1,2,0,0,False,False,False,534567.0,
+nador,Wad Benouserdoune,7559.0,,107.4,106.2,124,1,2,17,5,False,False,False,937316.0,
+nador,Wad Benouserdoune,6408.0,,107.4,106.2,124,3,1,29,6,False,False,False,794592.0,
+nador,Hay Al Matar,6260.0,,107.4,106.2,152,2,1,20,4,False,True,False,951520.0,
+nador,Al Boustane,6180.0,,107.4,106.2,75,1,2,19,5,False,True,False,463500.0,
+nador,Nador,6102.0,,107.4,106.2,133,2,1,28,0,False,False,False,811566.0,
+nador,HayAlMatar,6011.0,,107.4,106.2,157,3,2,9,5,False,False,False,943727.0,
+nador,Mediterranée,5564.0,,107.4,106.2,159,2,1,13,3,False,True,False,884676.0,
+nador,Bni Ansar,10463.0,,107.4,106.2,55,3,1,18,0,True,True,False,575465.0,
+nador,Al Barkanyene,7024.0,,107.4,106.2,101,2,1,22,3,False,False,False,709424.0,
+nador,Iaazzanene,6550.0,,107.4,106.2,75,1,1,4,9,False,False,False,491250.0,
+nador,Ihaddadene,6485.0,,107.4,106.2,65,2,1,9,2,False,False,False,421525.0,
+nador,Oulad Settout,6456.0,,107.4,106.2,65,3,1,26,4,False,False,False,419640.0,
+nador,Bouarg,6086.0,,107.4,106.2,138,3,2,9,0,False,False,False,839868.0,
+nador,Ras El Ma,6003.0,,107.4,106.2,64,3,2,18,8,False,False,False,384192.0,
+nador,Nador,5908.0,7517.0,107.4,106.2,181,1,1,1,1,True,False,False,1069348.0,1360577.0
+nador,Al Aaroui,5796.0,,107.4,106.2,168,1,1,16,2,True,False,False,973728.0,
+nador,Selouane,5511.0,,107.4,106.2,197,2,2,0,7,False,False,False,1085667.0,
+nador,Wad Benouserdoune,7559.0,,107.4,106.2,65,2,2,4,7,False,False,False,491335.0,
+nador,Wad Benouserdoune,6408.0,,107.4,106.2,179,3,1,10,8,True,True,False,1147032.0,
+nador,Hay Al Matar,6260.0,,107.4,106.2,77,2,2,13,9,True,False,False,482020.0,
+nador,Al Boustane,6180.0,,107.4,106.2,159,1,2,7,7,False,False,False,982620.0,
+nador,Nador,6102.0,,107.4,106.2,143,2,1,4,8,False,False,False,872586.0,
+nador,HayAlMatar,6011.0,,107.4,106.2,121,1,2,12,5,False,False,False,727331.0,
+nador,Mediterranée,5564.0,,107.4,106.2,95,3,2,4,7,True,False,False,528580.0,
+nador,Bni Ansar,10463.0,,107.4,106.2,159,3,2,19,9,False,False,False,1663617.0,
+nador,Al Barkanyene,7024.0,,107.4,106.2,123,3,1,15,0,False,False,False,863952.0,
+nador,Iaazzanene,6550.0,,107.4,106.2,122,1,2,14,4,False,False,True,799100.0,
+nador,Ihaddadene,6485.0,,107.4,106.2,155,1,2,17,2,False,False,False,1005175.0,
+nador,Oulad Settout,6456.0,,107.4,106.2,172,1,1,23,7,False,False,False,1110432.0,
+nador,Bouarg,6086.0,,107.4,106.2,146,1,1,28,1,False,False,False,888556.0,
+nador,Ras El Ma,6003.0,,107.4,106.2,126,1,2,4,0,False,False,False,756378.0,
+nador,Nador,5908.0,7517.0,107.4,106.2,96,3,1,4,4,True,False,False,567168.0,721632.0
+nador,Al Aaroui,5796.0,,107.4,106.2,186,1,2,13,3,False,False,False,1078056.0,
+nador,Selouane,5511.0,,107.4,106.2,153,3,1,10,9,False,False,True,843183.0,
+nador,Bni Ansar,10463.0,,107.4,106.2,80,3,2,27,8,False,False,False,837040.0,
+nador,Al Barkanyene,7024.0,,107.4,106.2,174,1,1,15,3,False,False,False,1222176.0,
+nador,Iaazzanene,6550.0,,107.4,106.2,116,2,1,10,2,False,False,False,759800.0,
+nador,Ihaddadene,6485.0,,107.4,106.2,162,1,2,27,2,False,False,False,1050570.0,
+nador,Oulad Settout,6456.0,,107.4,106.2,102,3,1,10,6,False,False,False,658512.0,
+nador,Bouarg,6086.0,,107.4,106.2,171,1,1,6,1,False,False,False,1040706.0,
+nador,Ras El Ma,6003.0,,107.4,106.2,77,3,2,29,1,False,False,False,462231.0,
+nador,Nador,5908.0,7517.0,107.4,106.2,77,1,1,11,5,False,True,False,454916.0,578809.0
+nador,Al Aaroui,5796.0,,107.4,106.2,178,3,2,10,3,False,False,False,1031688.0,
+nador,Selouane,5511.0,,107.4,106.2,165,3,1,5,9,False,False,False,909315.0,
+nador,Wad Benouserdoune,7559.0,,107.4,106.2,191,1,1,13,1,False,False,False,1443769.0,
+nador,Wad Benouserdoune,6408.0,,107.4,106.2,96,3,1,8,6,False,False,False,615168.0,
+nador,Hay Al Matar,6260.0,,107.4,106.2,55,2,2,21,8,False,False,False,344300.0,
+nador,Al Boustane,6180.0,,107.4,106.2,197,2,2,29,5,False,False,False,1217460.0,
+nador,Nador,6102.0,,107.4,106.2,118,1,1,12,7,True,False,False,720036.0,
+nador,HayAlMatar,6011.0,,107.4,106.2,62,2,2,2,2,False,True,False,372682.0,
+nador,Mediterranée,5564.0,,107.4,106.2,86,3,2,23,3,False,False,False,478504.0,
+nador,Wad Benouserdoune,7559.0,,107.4,106.2,106,3,1,26,7,False,True,False,801254.0,
+nador,Wad Benouserdoune,6408.0,,107.4,106.2,91,2,1,3,7,False,False,False,583128.0,
+nador,Hay Al Matar,6260.0,,107.4,106.2,139,2,2,19,0,True,False,False,870140.0,
+nador,Al Boustane,6180.0,,107.4,106.2,138,3,1,21,1,True,False,False,852840.0,
+nador,Nador,6102.0,,107.4,106.2,131,3,2,17,0,False,False,False,799362.0,
+nador,HayAlMatar,6011.0,,107.4,106.2,140,1,2,18,5,False,False,True,841540.0,
+nador,Mediterranée,5564.0,,107.4,106.2,112,1,1,27,6,False,False,False,623168.0,
+temara,El Menzeh,14432.0,12954.0,107.4,106.2,51,2,2,21,6,False,False,False,736032.0,660654.0
+temara,Harhoura,13950.0,12144.0,107.4,106.2,151,1,1,2,9,False,False,False,2106450.0,1833744.0
+temara,Témara,10988.0,12169.0,107.4,106.2,158,2,1,17,8,False,False,False,1736104.0,1922702.0
+temara,Skhirate,10830.0,14431.0,107.4,106.2,107,3,1,5,7,False,False,False,1158810.0,1544117.0
+temara,Oumazza,6542.0,,107.4,106.2,107,1,2,20,7,False,True,False,699994.0,
+temara,Ain Attig,6395.0,7333.0,107.4,106.2,166,1,2,29,8,False,False,False,1061570.0,1217278.0
+temara,Mers El Kheir,6146.0,,107.4,106.2,82,2,2,10,2,True,False,False,503972.0,
+temara,Ain El Aouda,6011.0,7617.0,107.4,106.2,171,2,1,28,1,False,False,False,1027881.0,1302507.0
+temara,Sidi Yahya Zaer,5533.0,7617.0,107.4,106.2,54,3,2,9,2,False,False,False,298782.0,411318.0
+temara,Harhoura,14627.0,11680.0,107.4,106.2,93,1,2,20,0,False,False,False,1360311.0,1086240.0
+temara,Riyad,14256.0,,107.4,106.2,84,1,1,10,4,False,False,True,1197504.0,
+temara,Les Roches Blanches,13803.0,,107.4,106.2,113,2,1,18,0,False,False,False,1559739.0,
+temara,Sidi Abed,13231.0,,107.4,106.2,124,2,1,14,0,True,False,False,1640644.0,
+temara,Guich Oudaya,12572.0,13483.0,107.4,106.2,106,1,1,24,9,False,False,False,1332632.0,1429198.0
+temara,Bassatine El Menzeh,12442.0,,107.4,106.2,117,2,2,19,2,False,False,False,1455714.0,
+temara,Temara,11626.0,,107.4,106.2,86,1,2,19,6,False,True,False,999836.0,
+temara,Andalousse,11571.0,6793.0,107.4,106.2,60,1,1,0,4,False,False,False,694260.0,407580.0
+temara,Centre ville,10365.0,,107.4,106.2,195,3,1,6,6,False,False,False,2021175.0,
+temara,Hay Nahda,9212.0,,107.4,106.2,167,2,1,8,0,False,False,False,1538404.0,
+temara,El Menzeh,14432.0,12954.0,107.4,106.2,177,1,2,13,6,True,False,False,2554464.0,2292858.0
+temara,Harhoura,13950.0,12144.0,107.4,106.2,154,3,2,13,3,False,False,False,2148300.0,1870176.0
+temara,Témara,10988.0,12169.0,107.4,106.2,56,1,1,8,7,False,False,False,615328.0,681464.0
+temara,Skhirate,10830.0,14431.0,107.4,106.2,101,3,1,27,9,False,True,False,1093830.0,1457531.0
+temara,Oumazza,6542.0,,107.4,106.2,199,1,1,7,1,False,False,False,1301858.0,
+temara,Ain Attig,6395.0,7333.0,107.4,106.2,166,2,1,16,0,False,False,False,1061570.0,1217278.0
+temara,Mers El Kheir,6146.0,,107.4,106.2,160,3,1,25,8,False,False,False,983360.0,
+temara,Ain El Aouda,6011.0,7617.0,107.4,106.2,69,2,2,23,8,False,False,False,414759.0,525573.0
+temara,Sidi Yahya Zaer,5533.0,7617.0,107.4,106.2,114,1,1,6,1,True,False,False,630762.0,868338.0
+temara,Harhoura,14627.0,11680.0,107.4,106.2,68,2,2,14,1,False,False,False,994636.0,794240.0
+temara,Riyad,14256.0,,107.4,106.2,115,3,2,1,0,False,False,False,1639440.0,
+temara,Les Roches Blanches,13803.0,,107.4,106.2,63,2,2,18,7,True,False,False,869589.0,
+temara,Sidi Abed,13231.0,,107.4,106.2,83,3,1,6,5,False,False,False,1098173.0,
+temara,Guich Oudaya,12572.0,13483.0,107.4,106.2,116,1,2,22,3,False,False,False,1458352.0,1564028.0
+temara,Bassatine El Menzeh,12442.0,,107.4,106.2,120,1,1,1,5,False,False,False,1493040.0,
+temara,Temara,11626.0,,107.4,106.2,187,3,1,6,6,False,False,False,2174062.0,
+temara,Andalousse,11571.0,6793.0,107.4,106.2,120,1,1,27,2,False,False,False,1388520.0,815160.0
+temara,Centre ville,10365.0,,107.4,106.2,71,1,2,4,5,False,False,False,735915.0,
+temara,Hay Nahda,9212.0,,107.4,106.2,186,3,2,27,1,True,False,False,1713432.0,
+temara,El Menzeh,14432.0,12954.0,107.4,106.2,172,3,1,10,9,False,False,False,2482304.0,2228088.0
+temara,Harhoura,13950.0,12144.0,107.4,106.2,107,1,2,24,6,True,False,False,1492650.0,1299408.0
+temara,Témara,10988.0,12169.0,107.4,106.2,139,2,1,15,6,False,False,False,1527332.0,1691491.0
+temara,Skhirate,10830.0,14431.0,107.4,106.2,140,1,1,7,7,False,False,False,1516200.0,2020340.0
+temara,Oumazza,6542.0,,107.4,106.2,185,3,2,2,6,False,False,False,1210270.0,
+temara,Ain Attig,6395.0,7333.0,107.4,106.2,108,1,2,8,7,False,False,False,690660.0,791964.0
+temara,Mers El Kheir,6146.0,,107.4,106.2,160,3,2,4,8,True,False,False,983360.0,
+temara,Ain El Aouda,6011.0,7617.0,107.4,106.2,106,2,2,24,2,False,False,False,637166.0,807402.0
+temara,Sidi Yahya Zaer,5533.0,7617.0,107.4,106.2,148,3,2,26,3,True,True,False,818884.0,1127316.0
+temara,Harhoura,14627.0,11680.0,107.4,106.2,138,2,1,12,3,False,False,False,2018526.0,1611840.0
+temara,Riyad,14256.0,,107.4,106.2,156,3,2,17,7,False,False,False,2223936.0,
+temara,Les Roches Blanches,13803.0,,107.4,106.2,109,2,2,15,9,False,True,False,1504527.0,
+temara,Sidi Abed,13231.0,,107.4,106.2,98,2,1,17,7,False,False,False,1296638.0,
+temara,Guich Oudaya,12572.0,13483.0,107.4,106.2,160,3,1,21,3,False,False,False,2011520.0,2157280.0
+temara,Bassatine El Menzeh,12442.0,,107.4,106.2,125,3,2,29,0,False,False,False,1555250.0,
+temara,Temara,11626.0,,107.4,106.2,165,1,1,25,1,False,False,False,1918290.0,
+temara,Andalousse,11571.0,6793.0,107.4,106.2,128,1,1,6,5,True,False,False,1481088.0,869504.0
+temara,Centre ville,10365.0,,107.4,106.2,104,2,1,15,4,False,False,False,1077960.0,
+temara,Hay Nahda,9212.0,,107.4,106.2,185,3,1,16,8,True,False,False,1704220.0,
+temara,El Menzeh,14432.0,12954.0,107.4,106.2,188,2,1,2,8,False,False,False,2713216.0,2435352.0
+temara,Harhoura,13950.0,12144.0,107.4,106.2,160,3,1,1,6,False,False,False,2232000.0,1943040.0
+temara,Témara,10988.0,12169.0,107.4,106.2,187,2,2,0,0,False,False,False,2054756.0,2275603.0
+temara,Skhirate,10830.0,14431.0,107.4,106.2,127,3,1,15,0,False,False,False,1375410.0,1832737.0
+temara,Oumazza,6542.0,,107.4,106.2,115,2,2,6,5,False,False,False,752330.0,
+temara,Ain Attig,6395.0,7333.0,107.4,106.2,112,2,1,13,5,False,False,False,716240.0,821296.0
+temara,Mers El Kheir,6146.0,,107.4,106.2,134,3,1,21,8,False,False,False,823564.0,
+temara,Ain El Aouda,6011.0,7617.0,107.4,106.2,156,3,2,21,2,False,False,False,937716.0,1188252.0
+temara,Sidi Yahya Zaer,5533.0,7617.0,107.4,106.2,79,1,2,27,1,True,False,False,437107.0,601743.0
+temara,El Menzeh,14432.0,12954.0,107.4,106.2,124,3,1,22,2,False,False,False,1789568.0,1606296.0
+temara,Harhoura,13950.0,12144.0,107.4,106.2,73,2,1,23,1,False,False,False,1018350.0,886512.0
+temara,Témara,10988.0,12169.0,107.4,106.2,51,1,2,5,2,False,False,True,560388.0,620619.0
+temara,Skhirate,10830.0,14431.0,107.4,106.2,99,1,1,24,3,False,True,False,1072170.0,1428669.0
+temara,Oumazza,6542.0,,107.4,106.2,174,3,1,11,8,False,True,False,1138308.0,
+temara,Ain Attig,6395.0,7333.0,107.4,106.2,163,1,1,9,5,False,True,False,1042385.0,1195279.0
+temara,Mers El Kheir,6146.0,,107.4,106.2,117,2,2,11,6,False,False,True,719082.0,
+temara,Ain El Aouda,6011.0,7617.0,107.4,106.2,81,1,1,0,5,False,False,False,486891.0,616977.0
+temara,Sidi Yahya Zaer,5533.0,7617.0,107.4,106.2,194,1,2,19,5,False,False,False,1073402.0,1477698.0
+temara,Harhoura,14627.0,11680.0,107.4,106.2,74,2,1,8,7,False,False,False,1082398.0,864320.0
+temara,Riyad,14256.0,,107.4,106.2,92,3,2,13,3,False,False,False,1311552.0,
+temara,Les Roches Blanches,13803.0,,107.4,106.2,78,3,1,9,0,False,True,False,1076634.0,
+temara,Sidi Abed,13231.0,,107.4,106.2,181,3,2,6,0,False,False,False,2394811.0,
+temara,Guich Oudaya,12572.0,13483.0,107.4,106.2,106,2,2,28,9,False,False,False,1332632.0,1429198.0
+temara,Bassatine El Menzeh,12442.0,,107.4,106.2,60,1,1,3,9,True,False,False,746520.0,
+temara,Temara,11626.0,,107.4,106.2,71,3,1,29,7,True,False,False,825446.0,
+temara,Andalousse,11571.0,6793.0,107.4,106.2,180,3,1,17,5,False,False,False,2082780.0,1222740.0
+temara,Centre ville,10365.0,,107.4,106.2,171,2,1,1,7,False,False,False,1772415.0,
+temara,Hay Nahda,9212.0,,107.4,106.2,166,1,1,15,0,False,False,False,1529192.0,
+temara,Harhoura,14627.0,11680.0,107.4,106.2,187,2,1,18,6,False,False,False,2735249.0,2184160.0
+temara,Riyad,14256.0,,107.4,106.2,104,1,1,27,8,False,False,False,1482624.0,
+temara,Les Roches Blanches,13803.0,,107.4,106.2,143,2,2,9,1,False,False,False,1973829.0,
+temara,Sidi Abed,13231.0,,107.4,106.2,199,3,1,6,2,True,False,False,2632969.0,
+temara,Guich Oudaya,12572.0,13483.0,107.4,106.2,54,2,1,2,4,False,False,False,678888.0,728082.0
+temara,Bassatine El Menzeh,12442.0,,107.4,106.2,78,3,1,18,8,False,False,False,970476.0,
+temara,Temara,11626.0,,107.4,106.2,185,1,2,20,9,True,False,False,2150810.0,
+temara,Andalousse,11571.0,6793.0,107.4,106.2,124,2,2,11,9,True,False,False,1434804.0,842332.0
+temara,Centre ville,10365.0,,107.4,106.2,104,3,1,16,3,False,False,False,1077960.0,
+temara,Hay Nahda,9212.0,,107.4,106.2,108,2,2,29,3,True,False,False,994896.0,
+safi,Bouguedra,6645.0,,107.4,106.2,142,2,2,22,1,False,False,False,943590.0,
+safi,El Beddouza,6253.0,,107.4,106.2,185,2,2,10,9,False,False,False,1156805.0,
+safi,Saadla,6042.0,,107.4,106.2,198,1,1,28,6,False,False,False,1196316.0,
+safi,Safi,5950.0,6386.0,107.4,106.2,57,3,2,8,9,False,False,False,339150.0,364002.0
+safi,Ouled Salmane,5803.0,,107.4,106.2,167,3,2,25,9,False,False,False,969101.0,
+safi,Lamaachate,5577.0,,107.4,106.2,60,2,2,4,8,False,False,False,334620.0,
+safi,Hrara,5576.0,,107.4,106.2,104,3,2,2,1,False,False,False,579904.0,
+safi,Sidi Ettiji,5444.0,,107.4,106.2,61,3,2,3,2,False,False,False,332084.0,
+safi,Labkhati,5215.0,,107.4,106.2,169,1,1,29,5,False,False,False,881335.0,
+safi,Mstari,8240.0,,107.4,106.2,130,2,1,9,9,False,False,False,1071200.0,
+safi,Oued Abdellah Ben Moussa,7671.0,,107.4,106.2,175,3,2,27,0,False,False,False,1342425.0,
+safi,Saada,7323.0,,107.4,106.2,133,2,1,20,9,False,False,False,973959.0,
+safi,Tantaoui,7245.0,,107.4,106.2,147,3,1,10,2,True,False,False,1065015.0,
+safi,Sania Al Abidinie,6260.0,,107.4,106.2,155,2,2,7,5,False,False,True,970300.0,
+safi,Miftah El Khir,6250.0,,107.4,106.2,116,1,2,2,4,True,False,False,725000.0,
+safi,Wiam,6238.0,,107.4,106.2,113,3,1,21,7,False,True,False,704894.0,
+safi,Hay Al Matar,5777.0,,107.4,106.2,102,2,2,16,5,False,False,False,589254.0,
+safi,Boudis,5746.0,,107.4,106.2,146,3,2,0,3,True,False,False,838916.0,
+safi,Al Hamd,5728.0,,107.4,106.2,60,2,1,26,5,False,False,False,343680.0,
+safi,Bouguedra,6645.0,,107.4,106.2,60,1,1,6,4,False,False,False,398700.0,
+safi,El Beddouza,6253.0,,107.4,106.2,77,1,2,11,6,False,False,False,481481.0,
+safi,Saadla,6042.0,,107.4,106.2,166,2,1,11,4,False,False,False,1002972.0,
+safi,Safi,5950.0,6386.0,107.4,106.2,123,3,1,8,9,False,False,False,731850.0,785478.0
+safi,Ouled Salmane,5803.0,,107.4,106.2,198,2,2,1,2,False,True,False,1148994.0,
+safi,Lamaachate,5577.0,,107.4,106.2,114,1,1,25,2,False,False,False,635778.0,
+safi,Hrara,5576.0,,107.4,106.2,102,3,2,8,9,False,False,False,568752.0,
+safi,Sidi Ettiji,5444.0,,107.4,106.2,74,2,1,22,1,False,False,False,402856.0,
+safi,Labkhati,5215.0,,107.4,106.2,154,3,2,27,2,False,False,False,803110.0,
+safi,Mstari,8240.0,,107.4,106.2,88,3,2,8,0,False,False,True,725120.0,
+safi,Oued Abdellah Ben Moussa,7671.0,,107.4,106.2,111,3,1,5,4,False,False,False,851481.0,
+safi,Saada,7323.0,,107.4,106.2,166,1,2,26,1,True,False,False,1215618.0,
+safi,Tantaoui,7245.0,,107.4,106.2,90,3,1,4,3,False,False,False,652050.0,
+safi,Sania Al Abidinie,6260.0,,107.4,106.2,91,1,1,19,1,True,False,False,569660.0,
+safi,Miftah El Khir,6250.0,,107.4,106.2,151,2,2,19,0,False,False,False,943750.0,
+safi,Wiam,6238.0,,107.4,106.2,118,3,1,14,6,False,False,False,736084.0,
+safi,Hay Al Matar,5777.0,,107.4,106.2,175,1,2,23,2,False,True,False,1010975.0,
+safi,Boudis,5746.0,,107.4,106.2,161,3,2,15,2,False,False,False,925106.0,
+safi,Al Hamd,5728.0,,107.4,106.2,68,1,1,28,5,False,False,False,389504.0,
+safi,Bouguedra,6645.0,,107.4,106.2,64,1,1,11,8,False,False,False,425280.0,
+safi,El Beddouza,6253.0,,107.4,106.2,156,1,1,9,9,False,False,False,975468.0,
+safi,Saadla,6042.0,,107.4,106.2,191,3,1,29,0,False,True,False,1154022.0,
+safi,Safi,5950.0,6386.0,107.4,106.2,89,3,2,14,7,False,False,False,529550.0,568354.0
+safi,Ouled Salmane,5803.0,,107.4,106.2,133,2,2,13,6,False,False,False,771799.0,
+safi,Lamaachate,5577.0,,107.4,106.2,166,1,2,16,3,False,False,False,925782.0,
+safi,Hrara,5576.0,,107.4,106.2,113,1,1,1,9,False,False,False,630088.0,
+safi,Sidi Ettiji,5444.0,,107.4,106.2,185,3,1,26,7,False,False,False,1007140.0,
+safi,Labkhati,5215.0,,107.4,106.2,184,1,2,7,5,True,False,False,959560.0,
+safi,Mstari,8240.0,,107.4,106.2,174,1,1,25,1,False,False,False,1433760.0,
+safi,Oued Abdellah Ben Moussa,7671.0,,107.4,106.2,104,3,1,7,2,False,False,True,797784.0,
+safi,Saada,7323.0,,107.4,106.2,124,2,2,17,6,False,False,False,908052.0,
+safi,Tantaoui,7245.0,,107.4,106.2,182,1,2,29,1,False,False,False,1318590.0,
+safi,Sania Al Abidinie,6260.0,,107.4,106.2,101,3,2,25,1,True,True,False,632260.0,
+safi,Miftah El Khir,6250.0,,107.4,106.2,165,1,2,27,9,False,False,False,1031250.0,
+safi,Wiam,6238.0,,107.4,106.2,98,1,2,4,1,True,False,False,611324.0,
+safi,Hay Al Matar,5777.0,,107.4,106.2,164,1,2,21,5,False,False,False,947428.0,
+safi,Boudis,5746.0,,107.4,106.2,77,2,1,14,2,False,False,False,442442.0,
+safi,Al Hamd,5728.0,,107.4,106.2,194,2,1,2,0,False,False,False,1111232.0,
+safi,Bouguedra,6645.0,,107.4,106.2,128,1,1,7,0,False,False,False,850560.0,
+safi,El Beddouza,6253.0,,107.4,106.2,65,3,1,10,3,False,False,False,406445.0,
+safi,Saadla,6042.0,,107.4,106.2,99,3,1,29,4,False,False,False,598158.0,
+safi,Safi,5950.0,6386.0,107.4,106.2,184,1,2,2,3,True,False,False,1094800.0,1175024.0
+safi,Ouled Salmane,5803.0,,107.4,106.2,147,3,1,28,6,False,False,False,853041.0,
+safi,Lamaachate,5577.0,,107.4,106.2,54,3,1,11,7,False,False,False,301158.0,
+safi,Hrara,5576.0,,107.4,106.2,174,3,1,5,9,False,True,False,970224.0,
+safi,Sidi Ettiji,5444.0,,107.4,106.2,179,3,1,24,0,False,True,False,974476.0,
+safi,Labkhati,5215.0,,107.4,106.2,86,3,2,1,5,False,False,False,448490.0,
+safi,Bouguedra,6645.0,,107.4,106.2,133,1,2,7,1,False,False,False,883785.0,
+safi,El Beddouza,6253.0,,107.4,106.2,108,1,2,22,7,False,False,False,675324.0,
+safi,Saadla,6042.0,,107.4,106.2,161,2,2,8,3,False,False,False,972762.0,
+safi,Safi,5950.0,6386.0,107.4,106.2,129,1,1,10,5,False,False,False,767550.0,823794.0
+safi,Ouled Salmane,5803.0,,107.4,106.2,126,1,1,28,9,False,True,False,731178.0,
+safi,Lamaachate,5577.0,,107.4,106.2,186,2,1,4,9,False,True,False,1037322.0,
+safi,Hrara,5576.0,,107.4,106.2,173,3,2,16,1,True,False,False,964648.0,
+safi,Sidi Ettiji,5444.0,,107.4,106.2,153,2,2,0,4,False,True,False,832932.0,
+safi,Labkhati,5215.0,,107.4,106.2,170,2,1,27,3,False,False,False,886550.0,
+safi,Mstari,8240.0,,107.4,106.2,52,2,2,16,4,False,False,False,428480.0,
+safi,Oued Abdellah Ben Moussa,7671.0,,107.4,106.2,84,1,2,2,7,False,False,False,644364.0,
+safi,Saada,7323.0,,107.4,106.2,99,2,1,7,0,False,False,False,724977.0,
+safi,Tantaoui,7245.0,,107.4,106.2,94,1,2,0,2,False,False,False,681030.0,
+safi,Sania Al Abidinie,6260.0,,107.4,106.2,164,1,1,21,1,False,False,False,1026640.0,
+safi,Miftah El Khir,6250.0,,107.4,106.2,139,2,2,17,2,False,False,False,868750.0,
+safi,Wiam,6238.0,,107.4,106.2,160,2,2,25,2,False,False,False,998080.0,
+safi,Hay Al Matar,5777.0,,107.4,106.2,168,1,2,4,2,True,False,False,970536.0,
+safi,Boudis,5746.0,,107.4,106.2,105,3,1,0,5,False,False,False,603330.0,
+safi,Al Hamd,5728.0,,107.4,106.2,97,3,1,25,0,False,False,False,555616.0,
+safi,Mstari,8240.0,,107.4,106.2,177,2,2,28,6,False,False,False,1458480.0,
+safi,Oued Abdellah Ben Moussa,7671.0,,107.4,106.2,115,3,1,21,8,False,False,False,882165.0,
+safi,Saada,7323.0,,107.4,106.2,102,2,1,28,1,False,True,False,746946.0,
+safi,Tantaoui,7245.0,,107.4,106.2,96,1,1,7,8,False,False,False,695520.0,
+safi,Sania Al Abidinie,6260.0,,107.4,106.2,110,1,1,24,7,False,False,False,688600.0,
+safi,Miftah El Khir,6250.0,,107.4,106.2,79,1,1,3,9,False,False,False,493750.0,
+safi,Wiam,6238.0,,107.4,106.2,76,2,1,4,7,True,False,False,474088.0,
+safi,Hay Al Matar,5777.0,,107.4,106.2,198,2,2,14,5,False,False,False,1143846.0,
+safi,Boudis,5746.0,,107.4,106.2,169,3,1,8,4,False,False,False,971074.0,
+safi,Al Hamd,5728.0,,107.4,106.2,98,2,2,19,8,True,False,False,561344.0,
+khouribga,Oued Zem,7930.0,5405.0,107.4,106.2,165,3,1,22,2,False,False,False,1308450.0,891825.0
+khouribga,Oulad Abdoune,7572.0,,107.4,106.2,105,3,2,25,0,False,False,True,795060.0,
+khouribga,Braksa,7059.0,,107.4,106.2,151,1,1,25,8,False,False,False,1065909.0,
+khouribga,Maadna,6298.0,,107.4,106.2,106,2,1,2,7,False,False,False,667588.0,
+khouribga,Khouribga,5867.0,7938.0,107.4,106.2,165,2,1,24,2,False,False,False,968055.0,1309770.0
+khouribga,Oued Zem,7930.0,5405.0,107.4,106.2,108,1,2,19,7,False,False,False,856440.0,583740.0
+khouribga,Oulad Abdoune,7572.0,,107.4,106.2,105,2,1,11,9,False,False,False,795060.0,
+khouribga,Braksa,7059.0,,107.4,106.2,106,2,2,5,8,False,False,False,748254.0,
+khouribga,Maadna,6298.0,,107.4,106.2,154,1,2,22,6,True,False,False,969892.0,
+khouribga,Khouribga,5867.0,7938.0,107.4,106.2,105,1,2,3,5,True,False,False,616035.0,833490.0
+khouribga,Oued Zem,7930.0,5405.0,107.4,106.2,172,2,2,25,3,False,False,False,1363960.0,929660.0
+khouribga,Oulad Abdoune,7572.0,,107.4,106.2,134,2,1,9,5,False,False,False,1014648.0,
+khouribga,Braksa,7059.0,,107.4,106.2,99,3,2,18,0,False,False,False,698841.0,
+khouribga,Maadna,6298.0,,107.4,106.2,134,2,2,20,3,False,False,False,843932.0,
+khouribga,Khouribga,5867.0,7938.0,107.4,106.2,157,3,2,13,6,False,False,False,921119.0,1246266.0
+khouribga,Oued Zem,7930.0,5405.0,107.4,106.2,155,3,2,28,9,False,False,False,1229150.0,837775.0
+khouribga,Oulad Abdoune,7572.0,,107.4,106.2,150,1,2,15,7,True,False,False,1135800.0,
+khouribga,Braksa,7059.0,,107.4,106.2,80,3,1,19,3,False,False,False,564720.0,
+khouribga,Maadna,6298.0,,107.4,106.2,150,2,2,19,6,True,False,False,944700.0,
+khouribga,Khouribga,5867.0,7938.0,107.4,106.2,122,3,2,27,7,False,False,False,715774.0,968436.0
+khouribga,Oued Zem,7930.0,5405.0,107.4,106.2,102,1,2,29,5,False,False,False,808860.0,551310.0
+khouribga,Oulad Abdoune,7572.0,,107.4,106.2,147,3,2,15,3,False,False,False,1113084.0,
+khouribga,Braksa,7059.0,,107.4,106.2,133,1,1,9,8,False,False,False,938847.0,
+khouribga,Maadna,6298.0,,107.4,106.2,68,1,1,13,3,False,False,False,428264.0,
+khouribga,Khouribga,5867.0,7938.0,107.4,106.2,177,2,1,17,3,False,False,False,1038459.0,1405026.0
+beni-mellal,Kasba Tadla,5629.0,,107.4,106.2,80,1,2,13,6,False,False,False,450320.0,
+beni-mellal,Béni Mellal,5146.0,6984.0,107.4,106.2,88,1,1,21,2,False,True,False,452848.0,614592.0
+beni-mellal,Kasba Tadla,5629.0,,107.4,106.2,95,1,2,19,7,False,False,False,534755.0,
+beni-mellal,Béni Mellal,5146.0,6984.0,107.4,106.2,149,2,2,5,6,False,False,False,766754.0,1040616.0
+beni-mellal,Kasba Tadla,5629.0,,107.4,106.2,141,1,2,13,2,True,False,False,793689.0,
+beni-mellal,Béni Mellal,5146.0,6984.0,107.4,106.2,102,2,1,12,6,True,False,False,524892.0,712368.0
+beni-mellal,Kasba Tadla,5629.0,,107.4,106.2,116,3,2,11,7,False,False,False,652964.0,
+beni-mellal,Béni Mellal,5146.0,6984.0,107.4,106.2,121,3,2,1,1,False,False,False,622666.0,845064.0
+beni-mellal,Kasba Tadla,5629.0,,107.4,106.2,136,2,1,23,7,False,False,False,765544.0,
+beni-mellal,Béni Mellal,5146.0,6984.0,107.4,106.2,130,1,2,21,4,False,True,False,668980.0,907920.0
+taza,Taza,6365.0,,107.4,106.2,85,3,1,24,5,True,False,False,541025.0,
+taza,Taza,6365.0,,107.4,106.2,77,1,2,16,5,False,False,False,490105.0,
+taza,Taza,6365.0,,107.4,106.2,146,3,2,29,8,False,False,False,929290.0,
+taza,Taza,6365.0,,107.4,106.2,100,2,1,4,6,False,True,False,636500.0,
+taza,Taza,6365.0,,107.4,106.2,74,2,2,1,8,False,False,True,471010.0,
+berkane,Ahfir,5919.0,,107.4,106.2,82,3,1,25,9,False,False,False,485358.0,
+berkane,Zegzel,5873.0,,107.4,106.2,150,2,1,28,2,False,False,True,880950.0,
+berkane,Saidia,5847.0,7205.0,107.4,106.2,54,1,1,11,8,False,False,False,315738.0,389070.0
+berkane,Sidi Slimane Echcharraa,5691.0,,107.4,106.2,64,3,2,22,1,True,False,False,364224.0,
+berkane,Madagh,5655.0,,107.4,106.2,159,1,1,22,5,False,False,False,899145.0,
+berkane,Berkane,5254.0,,107.4,106.2,137,2,1,22,9,False,False,False,719798.0,
+berkane,Cité Balnéaire,8356.0,,107.4,106.2,75,1,2,27,6,True,False,False,626700.0,
+berkane,Saidia Ouest,8320.0,,107.4,106.2,66,1,1,21,9,False,False,False,549120.0,
+berkane,Les Golfs,7486.0,,107.4,106.2,65,3,2,29,6,True,False,False,486590.0,
+berkane,Hay Trifa,6751.0,,107.4,106.2,183,1,1,9,5,False,False,False,1235433.0,
+berkane,Hay Dallas,6721.0,,107.4,106.2,193,3,1,10,6,False,True,False,1297153.0,
+berkane,Angad,6484.0,,107.4,106.2,64,3,2,15,9,True,False,False,414976.0,
+berkane,Talhaoui,6446.0,,107.4,106.2,134,2,1,28,3,False,False,False,863764.0,
+berkane,Ibn Tachfine,6419.0,5843.0,107.4,106.2,120,3,2,25,1,True,False,False,770280.0,701160.0
+berkane,Hay Safaa,6291.0,,107.4,106.2,59,1,2,13,1,True,False,False,371169.0,
+berkane,Al Amal,6032.0,,107.4,106.2,153,2,2,6,6,False,False,False,922896.0,
+berkane,Ahfir,5919.0,,107.4,106.2,107,3,1,22,9,False,True,False,633333.0,
+berkane,Zegzel,5873.0,,107.4,106.2,76,1,2,28,3,True,False,False,446348.0,
+berkane,Saidia,5847.0,7205.0,107.4,106.2,168,1,1,16,5,False,False,False,982296.0,1210440.0
+berkane,Sidi Slimane Echcharraa,5691.0,,107.4,106.2,162,2,1,17,6,False,False,False,921942.0,
+berkane,Madagh,5655.0,,107.4,106.2,146,3,2,24,3,True,False,False,825630.0,
+berkane,Berkane,5254.0,,107.4,106.2,146,3,2,6,4,False,False,False,767084.0,
+berkane,Cité Balnéaire,8356.0,,107.4,106.2,84,1,2,15,4,False,True,False,701904.0,
+berkane,Saidia Ouest,8320.0,,107.4,106.2,88,2,2,7,0,False,False,False,732160.0,
+berkane,Les Golfs,7486.0,,107.4,106.2,179,3,2,16,0,False,False,False,1339994.0,
+berkane,Hay Trifa,6751.0,,107.4,106.2,144,2,2,21,3,False,False,False,972144.0,
+berkane,Hay Dallas,6721.0,,107.4,106.2,146,3,2,20,5,True,False,False,981266.0,
+berkane,Angad,6484.0,,107.4,106.2,118,3,1,24,7,False,False,False,765112.0,
+berkane,Talhaoui,6446.0,,107.4,106.2,156,3,1,22,4,False,False,False,1005576.0,
+berkane,Ibn Tachfine,6419.0,5843.0,107.4,106.2,150,1,1,10,1,False,False,False,962850.0,876450.0
+berkane,Hay Safaa,6291.0,,107.4,106.2,166,1,2,26,2,False,False,False,1044306.0,
+berkane,Al Amal,6032.0,,107.4,106.2,56,3,2,12,2,False,False,False,337792.0,
+berkane,Ahfir,5919.0,,107.4,106.2,167,3,2,1,6,False,False,False,988473.0,
+berkane,Zegzel,5873.0,,107.4,106.2,63,3,1,22,8,False,True,False,369999.0,
+berkane,Saidia,5847.0,7205.0,107.4,106.2,113,3,1,25,3,False,False,False,660711.0,814165.0
+berkane,Sidi Slimane Echcharraa,5691.0,,107.4,106.2,118,3,1,4,6,False,False,False,671538.0,
+berkane,Madagh,5655.0,,107.4,106.2,113,1,2,9,4,False,False,False,639015.0,
+berkane,Berkane,5254.0,,107.4,106.2,194,2,1,27,6,False,False,False,1019276.0,
+berkane,Cité Balnéaire,8356.0,,107.4,106.2,180,1,1,26,1,False,False,False,1504080.0,
+berkane,Saidia Ouest,8320.0,,107.4,106.2,89,3,2,26,1,False,False,False,740480.0,
+berkane,Les Golfs,7486.0,,107.4,106.2,155,3,2,16,6,True,False,False,1160330.0,
+berkane,Hay Trifa,6751.0,,107.4,106.2,56,1,2,25,3,False,True,False,378056.0,
+berkane,Hay Dallas,6721.0,,107.4,106.2,155,3,2,24,3,True,False,False,1041755.0,
+berkane,Angad,6484.0,,107.4,106.2,50,3,1,14,4,True,False,False,324200.0,
+berkane,Talhaoui,6446.0,,107.4,106.2,69,2,1,19,0,False,False,False,444774.0,
+berkane,Ibn Tachfine,6419.0,5843.0,107.4,106.2,143,3,1,9,2,False,False,False,917917.0,835549.0
+berkane,Hay Safaa,6291.0,,107.4,106.2,151,2,1,13,9,True,False,False,949941.0,
+berkane,Al Amal,6032.0,,107.4,106.2,148,3,1,21,6,False,False,False,892736.0,
+berkane,Ahfir,5919.0,,107.4,106.2,185,2,2,13,8,False,False,False,1095015.0,
+berkane,Zegzel,5873.0,,107.4,106.2,58,2,1,13,6,False,False,False,340634.0,
+berkane,Saidia,5847.0,7205.0,107.4,106.2,188,3,2,0,4,False,False,False,1099236.0,1354540.0
+berkane,Sidi Slimane Echcharraa,5691.0,,107.4,106.2,174,1,1,8,4,False,False,False,990234.0,
+berkane,Madagh,5655.0,,107.4,106.2,140,3,1,1,2,False,False,False,791700.0,
+berkane,Berkane,5254.0,,107.4,106.2,56,1,2,2,7,True,False,False,294224.0,
+berkane,Ahfir,5919.0,,107.4,106.2,95,1,1,16,0,False,False,False,562305.0,
+berkane,Zegzel,5873.0,,107.4,106.2,112,3,2,7,8,False,False,False,657776.0,
+berkane,Saidia,5847.0,7205.0,107.4,106.2,143,3,2,19,7,False,False,False,836121.0,1030315.0
+berkane,Sidi Slimane Echcharraa,5691.0,,107.4,106.2,180,3,1,24,0,False,False,False,1024380.0,
+berkane,Madagh,5655.0,,107.4,106.2,123,1,2,28,8,False,False,False,695565.0,
+berkane,Berkane,5254.0,,107.4,106.2,62,3,2,15,1,True,False,False,325748.0,
+berkane,Cité Balnéaire,8356.0,,107.4,106.2,191,3,1,26,2,False,False,False,1595996.0,
+berkane,Saidia Ouest,8320.0,,107.4,106.2,126,1,2,1,1,False,False,False,1048320.0,
+berkane,Les Golfs,7486.0,,107.4,106.2,95,2,2,4,3,True,False,False,711170.0,
+berkane,Hay Trifa,6751.0,,107.4,106.2,166,3,2,22,9,False,False,False,1120666.0,
+berkane,Hay Dallas,6721.0,,107.4,106.2,194,1,2,2,6,False,False,True,1303874.0,
+berkane,Angad,6484.0,,107.4,106.2,195,2,2,1,9,False,False,False,1264380.0,
+berkane,Talhaoui,6446.0,,107.4,106.2,78,1,2,28,4,True,False,True,502788.0,
+berkane,Ibn Tachfine,6419.0,5843.0,107.4,106.2,99,1,1,29,2,False,True,True,635481.0,578457.0
+berkane,Hay Safaa,6291.0,,107.4,106.2,177,2,2,26,7,False,True,False,1113507.0,
+berkane,Al Amal,6032.0,,107.4,106.2,113,1,2,18,1,False,False,False,681616.0,
+berkane,Cité Balnéaire,8356.0,,107.4,106.2,80,3,1,27,8,False,False,False,668480.0,
+berkane,Saidia Ouest,8320.0,,107.4,106.2,83,3,1,13,1,False,False,False,690560.0,
+berkane,Les Golfs,7486.0,,107.4,106.2,114,3,1,9,2,True,False,False,853404.0,
+berkane,Hay Trifa,6751.0,,107.4,106.2,126,1,2,25,8,False,False,False,850626.0,
+berkane,Hay Dallas,6721.0,,107.4,106.2,185,1,1,23,9,True,False,False,1243385.0,
+berkane,Angad,6484.0,,107.4,106.2,117,3,1,17,1,False,False,False,758628.0,
+berkane,Talhaoui,6446.0,,107.4,106.2,163,3,1,25,7,True,False,False,1050698.0,
+berkane,Ibn Tachfine,6419.0,5843.0,107.4,106.2,159,2,1,9,3,False,True,False,1020621.0,929037.0
+berkane,Hay Safaa,6291.0,,107.4,106.2,169,3,2,12,0,False,False,False,1063179.0,
+berkane,Al Amal,6032.0,,107.4,106.2,130,3,2,2,2,True,False,False,784160.0,

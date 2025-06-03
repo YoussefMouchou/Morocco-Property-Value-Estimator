@@ -1,0 +1,297 @@
+city,neighborhood,apartment_price_sqm,villa_price_sqm,ipai_apartment,ipai_villa
+casablanca,Anfa,19114.0,26457.0,127.8,125.9
+casablanca,El Maarif,15969.0,18434.0,124.18,122.24
+casablanca,Sidi Belyout,15807.0,16058.0,124.18,122.24
+casablanca,Hay-Hassani,13646.0,17710.0,124.18,122.24
+casablanca,Aîn-Chock,13507.0,15012.0,124.18,122.24
+casablanca,Mers-Sultan,13171.0,12378.0,124.18,122.24
+casablanca,Assoukhour Assawda,12411.0,10750.0,124.18,122.24
+casablanca,Aîn-Sebaâ,10966.0,10786.0,124.18,122.24
+casablanca,Hay Mohammadi,10885.0,,124.18,122.24
+casablanca,Al-Fida,10116.0,,124.18,122.24
+casablanca,Ain Diab,30706.0,18458.0,126.4,124.7
+casablanca,Casablanca Finance City,25283.0,,124.18,122.24
+casablanca,Derb Abdellah,24321.0,,124.18,122.24
+casablanca,Gauthier,22267.0,26801.0,124.2,122.1
+casablanca,Racine,19534.0,16145.0,125.6,123.4
+casablanca,Marina,19411.0,,124.18,122.24
+casablanca,Oasis,19301.0,18764.0,124.18,122.24
+casablanca,El Manar - El Hank,19233.0,,124.18,122.24
+casablanca,Massira Khadra,18865.0,,124.18,122.24
+casablanca,Ferme Bretonne,18683.0,27128.0,124.18,122.24
+rabat,Agdal Riyad,15944.0,15244.0,118.23,116.6
+rabat,Souissi,12440.0,7905.0,118.23,116.6
+rabat,Hassan,12406.0,18473.0,117.5,115.9
+rabat,El Youssoufia,11650.0,12215.0,118.23,116.6
+rabat,Yacoub El Mansour,10953.0,14585.0,118.23,116.6
+rabat,Souissi,22461.0,9319.0,118.23,116.6
+rabat,Haut Agdal,21235.0,14902.0,118.23,116.6
+rabat,Riyad,18608.0,10950.0,118.23,116.6
+rabat,Hay Riad,17863.0,,119.7,118.1
+rabat,Akkari,16189.0,,118.23,116.6
+rabat,Agdal,15888.0,,118.9,117.2
+rabat,Quartier Administratif,15162.0,12541.0,118.23,116.6
+rabat,Yacoub El Mansour,14887.0,,118.23,116.6
+rabat,Hassan - Centre Ville,14763.0,,118.23,116.6
+rabat,Aviation - Mabella,14369.0,8501.0,118.23,116.6
+fes,Agdal,7573.0,8683.0,107.4,106.2
+fes,Saiss,7512.0,6503.0,107.4,106.2
+fes,El Mariniyine,6715.0,,107.4,106.2
+fes,Zouagha,6184.0,8624.0,107.4,106.2
+fes,Oulad Tayeb,5551.0,,107.4,106.2
+fes,Fes City Center,8049.0,,107.4,106.2
+fes,Hay Moulay El Kamel,7712.0,,107.4,106.2
+fes,Bourmana,7539.0,6107.0,107.4,106.2
+fes,Mourabitine,7180.0,,107.4,106.2
+fes,Riad,6911.0,9012.0,107.4,106.2
+fes,Nouvelle Ville,6871.0,9370.0,107.4,106.2
+fes,Hay Jdid,6404.0,,107.4,106.2
+fes,Oued Fes,6341.0,,107.4,106.2
+fes,Hay Al Azhar,6230.0,,107.4,106.2
+fes,Hay Massira,6216.0,,107.4,106.2
+marrakech,Méchouar-Kasba,14666.0,8101.0,114.43,112.93
+marrakech,Ouahat Sidi Brahim,11247.0,,114.43,112.93
+marrakech,Gueliz,10508.0,10862.0,114.8,113.2
+marrakech,Marrakech-Médina,9573.0,,114.43,112.93
+marrakech,Alouidane,9484.0,14259.0,114.43,112.93
+marrakech,Annakhil,9182.0,8038.0,114.43,112.93
+marrakech,Ménara,9137.0,10249.0,114.43,112.93
+marrakech,Harbil,7720.0,5547.0,114.43,112.93
+marrakech,Tassoultante,6872.0,10779.0,114.43,112.93
+marrakech,Saada,6130.0,8228.0,114.43,112.93
+marrakech,Hivernage,17464.0,11090.0,115.6,114.1
+marrakech,Tassoultante,14340.0,9986.0,114.43,112.93
+marrakech,Agdal,13853.0,,114.43,112.93
+marrakech,Masmoudi,13136.0,8341.0,114.43,112.93
+marrakech,Guéliz,12620.0,16539.0,114.43,112.93
+marrakech,Camp Al Ghoul,11982.0,13468.0,114.43,112.93
+marrakech,Oliva,11323.0,,114.43,112.93
+marrakech,Sidi Bou Amar,11245.0,,114.43,112.93
+marrakech,Majorelle,11224.0,,114.43,112.93
+marrakech,Samlalia,10854.0,12630.0,114.43,112.93
+agadir,Aourir,10042.0,7167.0,107.4,106.2
+agadir,Tamri,10009.0,13598.0,107.4,106.2
+agadir,Taghazout,8325.0,,107.4,106.2
+agadir,Drargua,7059.0,8592.0,107.4,106.2
+agadir,Agadir,6857.0,10538.0,107.4,106.2
+agadir,Aqesri,5754.0,,107.4,106.2
+agadir,Imsouane,,10237.0,107.4,106.2
+agadir,Secteur Touristique,20906.0,,107.4,106.2
+agadir,Founti,18640.0,16219.0,107.4,106.2
+agadir,Talborjt,12691.0,7182.0,107.4,106.2
+agadir,Ville Nouvelle,12539.0,,107.4,106.2
+agadir,Guéliz,12523.0,,107.4,106.2
+agadir,Haut Founty,11311.0,13645.0,107.4,106.2
+agadir,Hay Massira,11151.0,,107.4,106.2
+agadir,Haut Anza,10647.0,,107.4,106.2
+agadir,Taddart,10529.0,11734.0,107.4,106.2
+agadir,Hay Najah,10387.0,10933.0,107.4,106.2
+tanger,Charf-Mghogha,10676.0,8476.0,112.67,111.27
+tanger,Charf-Souani,8536.0,,112.67,111.27
+tanger,Assilah,8042.0,,112.67,111.27
+tanger,Aquouass Briech,7995.0,,112.67,111.27
+tanger,Tanger-Médina,7989.0,12850.0,112.67,111.27
+tanger,HJAR ENNHAL,6714.0,13274.0,112.67,111.27
+tanger,Bni Makada,6692.0,,112.67,111.27
+tanger,Casabarata,17104.0,13392.0,112.67,111.27
+tanger,Mghogha,14530.0,,112.67,111.27
+tanger,Quartier de la plage,13844.0,,112.67,111.27
+tanger,Malabata,13305.0,,113.5,112.1
+tanger,Boulevard Mohammed V,13301.0,,112.67,111.27
+tanger,Iberie,13187.0,,112.67,111.27
+tanger,Castilla,11652.0,7616.0,112.67,111.27
+tanger,Sania,11375.0,,112.67,111.27
+tanger,Administratif,11136.0,,112.67,111.27
+tanger,Rmilat,10991.0,22251.0,112.67,111.27
+meknes,MRhassiyine,10089.0,,107.4,106.2
+meknes,Ain Karma- Oued Rommane,9643.0,,107.4,106.2
+meknes,Sidi Abdallah Al Khayat,9022.0,,107.4,106.2
+meknes,Dkhissa,6865.0,,107.4,106.2
+meknes,Meknès,6327.0,7274.0,107.4,106.2
+meknes,Boufakrane,6047.0,,107.4,106.2
+meknes,Ouislane,5756.0,,107.4,106.2
+meknes,Majjate,5726.0,8780.0,107.4,106.2
+meknes,Ait Ouallal,5578.0,,107.4,106.2
+meknes,Toulal,5483.0,7169.0,107.4,106.2
+meknes,Zahwa,7282.0,,107.4,106.2
+meknes,El Menzeh,7234.0,8362.0,107.4,106.2
+meknes,Avenue des F.A.R,7150.0,,107.4,106.2
+meknes,Résidence Reda,7001.0,,107.4,106.2
+meknes,Hamria,6835.0,,107.4,106.2
+meknes,Bel Air,6744.0,,107.4,106.2
+meknes,Essaadiyine,6647.0,,107.4,106.2
+meknes,El Bassatine,6480.0,,107.4,106.2
+meknes,Al Wifaq,6296.0,,107.4,106.2
+meknes,Lotissement Saramito,6089.0,,107.4,106.2
+oujda,Casablanca,12503.0,16457.0,107.4,106.2
+oujda,Rabat,12392.0,13065.0,107.4,106.2
+oujda,Nouaceur,9257.0,11904.0,107.4,106.2
+oujda,Skhirate- Témara,9003.0,10990.0,107.4,106.2
+oujda,Marrakech,8885.0,10138.0,107.4,106.2
+oujda,Benslimane,8537.0,10684.0,107.4,106.2
+oujda,Salé,8209.0,10351.0,107.4,106.2
+oujda,Tanger-Assilah,8028.0,11762.0,107.4,106.2
+oujda,Agadir,7935.0,10092.0,107.4,106.2
+oujda,Tétouan,7742.0,9831.0,107.4,106.2
+kenitra,Moulay Bousselham,8524.0,6178.0,107.4,106.2
+kenitra,Sidi Mohamed Ben Mansour,7394.0,,107.4,106.2
+kenitra,Souk Tlet El Gharb,7352.0,,107.4,106.2
+kenitra,Beni Malek,6934.0,6482.0,107.4,106.2
+kenitra,Kénitra,6734.0,10771.0,107.4,106.2
+kenitra,Oued El Makhazine,6721.0,,107.4,106.2
+kenitra,Mehdya,5737.0,8474.0,107.4,106.2
+kenitra,Souk El Arbaa,5101.0,,107.4,106.2
+kenitra,Bir Rami Est,8418.0,6758.0,107.4,106.2
+kenitra,Lotissement Nouveau,8311.0,,107.4,106.2
+kenitra,Maamora,8248.0,5860.0,107.4,106.2
+kenitra,Mimosa,8046.0,,107.4,106.2
+kenitra,Moutanabi,8018.0,,107.4,106.2
+kenitra,Ville Haute,7803.0,13437.0,107.4,106.2
+kenitra,Mehdia,7237.0,7555.0,107.4,106.2
+kenitra,El Hadadda,6931.0,7569.0,107.4,106.2
+kenitra,Kasbah Mehdia,6790.0,7600.0,107.4,106.2
+kenitra,Ismalia,6784.0,,107.4,106.2
+tetouan,Souk Kdim,11375.0,,107.4,106.2
+tetouan,Mallalienne,10921.0,8485.0,107.4,106.2
+tetouan,Saddina,9141.0,,107.4,106.2
+tetouan,Tétouan,8389.0,10216.0,107.4,106.2
+tetouan,Oued Laou,7785.0,,107.4,106.2
+tetouan,Zaouiat Sidi Kacem,7474.0,,107.4,106.2
+tetouan,Dar Bni Karrich,6192.0,,107.4,106.2
+tetouan,Azla,5961.0,,107.4,106.2
+tetouan,Sahtryine,5555.0,,107.4,106.2
+tetouan,Hay Hamama,9436.0,,107.4,106.2
+tetouan,Wilaya,8448.0,,107.4,106.2
+tetouan,Tétouan,8212.0,,107.4,106.2
+tetouan,Touilaa,8069.0,,107.4,106.2
+tetouan,Mahannech,7454.0,,107.4,106.2
+tetouan,Oued Martil,6808.0,,107.4,106.2
+tetouan,Hay Boussafou,6346.0,,107.4,106.2
+tetouan,Coelma,6244.0,10517.0,107.4,106.2
+tetouan,Souani,6180.0,,107.4,106.2
+tetouan,Nsasim Nakata,5550.0,,107.4,106.2
+mohammedia,Casablanca,12503.0,16457.0,107.4,106.2
+mohammedia,Rabat,12392.0,13065.0,107.4,106.2
+mohammedia,Nouaceur,9257.0,11904.0,107.4,106.2
+mohammedia,Skhirate- Témara,9003.0,10990.0,107.4,106.2
+mohammedia,Marrakech,8885.0,10138.0,107.4,106.2
+mohammedia,Benslimane,8537.0,10684.0,107.4,106.2
+mohammedia,Salé,8209.0,10351.0,107.4,106.2
+mohammedia,Tanger-Assilah,8028.0,11762.0,107.4,106.2
+mohammedia,Agadir,7935.0,10092.0,107.4,106.2
+mohammedia,Tétouan,7742.0,9831.0,107.4,106.2
+el-jadida,Lamharza Essahel,7953.0,7775.0,107.4,106.2
+el-jadida,El Jadida,7101.0,9461.0,107.4,106.2
+el-jadida,Chaibate,6975.0,7424.0,107.4,106.2
+el-jadida,Zaouiat Lakouacem,6377.0,,107.4,106.2
+el-jadida,Lbir Jdid,6374.0,,107.4,106.2
+el-jadida,Azemmour,5953.0,,107.4,106.2
+el-jadida,Chtouka,5569.0,,107.4,106.2
+el-jadida,My Abdellah,5370.0,6355.0,107.4,106.2
+el-jadida,Dreamland Sahel,14079.0,,107.4,106.2
+el-jadida,Résidence Olablanca,11227.0,,107.4,106.2
+el-jadida,Al Boustane,8437.0,,107.4,106.2
+el-jadida,Haouzia 1,8233.0,,107.4,106.2
+el-jadida,My Abdellah,8152.0,5390.0,107.4,106.2
+el-jadida,Centre Ville,8137.0,10536.0,107.4,106.2
+el-jadida,Hay Riad,7583.0,,107.4,106.2
+el-jadida,Derb Lahouna,7321.0,,107.4,106.2
+el-jadida,Narjiss,7142.0,,107.4,106.2
+el-jadida,Hay Essalam,6887.0,,107.4,106.2
+sale,Bab Lamrissa,10667.0,11252.0,107.4,106.2
+sale,Hssaine,10443.0,11121.0,107.4,106.2
+sale,Tabriquet,9945.0,,107.4,106.2
+sale,Bettana,8876.0,10460.0,107.4,106.2
+sale,Shoul,7682.0,,107.4,106.2
+sale,Layayda,7476.0,,107.4,106.2
+sale,Ameur,6205.0,6997.0,107.4,106.2
+sale,Sidi Bouknadel,5293.0,,107.4,106.2
+sale,Plage des nations,16427.0,,107.4,106.2
+sale,Salé El Jadiia,9345.0,11461.0,107.4,106.2
+sale,Hssaine,9122.0,,107.4,106.2
+sale,Al Mouahidine.,8910.0,,107.4,106.2
+sale,Said hajji,8730.0,9758.0,107.4,106.2
+sale,Btana,8705.0,11259.0,107.4,106.2
+sale,Hay Salam,8668.0,,107.4,106.2
+sale,Assonboula,8489.0,,107.4,106.2
+sale,Karia,8485.0,,107.4,106.2
+sale,Bab lakhmiss,8370.0,9701.0,107.4,106.2
+nador,Bni Ansar,10463.0,,107.4,106.2
+nador,Al Barkanyene,7024.0,,107.4,106.2
+nador,Iaazzanene,6550.0,,107.4,106.2
+nador,Ihaddadene,6485.0,,107.4,106.2
+nador,Oulad Settout,6456.0,,107.4,106.2
+nador,Bouarg,6086.0,,107.4,106.2
+nador,Ras El Ma,6003.0,,107.4,106.2
+nador,Nador,5908.0,7517.0,107.4,106.2
+nador,Al Aaroui,5796.0,,107.4,106.2
+nador,Selouane,5511.0,,107.4,106.2
+nador,Wad Benouserdoune,7559.0,,107.4,106.2
+nador,Wad Benouserdoune,6408.0,,107.4,106.2
+nador,Hay Al Matar,6260.0,,107.4,106.2
+nador,Al Boustane,6180.0,,107.4,106.2
+nador,Nador,6102.0,,107.4,106.2
+nador,HayAlMatar,6011.0,,107.4,106.2
+nador,Mediterranée,5564.0,,107.4,106.2
+temara,El Menzeh,14432.0,12954.0,107.4,106.2
+temara,Harhoura,13950.0,12144.0,107.4,106.2
+temara,Témara,10988.0,12169.0,107.4,106.2
+temara,Skhirate,10830.0,14431.0,107.4,106.2
+temara,Oumazza,6542.0,,107.4,106.2
+temara,Ain Attig,6395.0,7333.0,107.4,106.2
+temara,Mers El Kheir,6146.0,,107.4,106.2
+temara,Ain El Aouda,6011.0,7617.0,107.4,106.2
+temara,Sidi Yahya Zaer,5533.0,7617.0,107.4,106.2
+temara,Harhoura,14627.0,11680.0,107.4,106.2
+temara,Riyad,14256.0,,107.4,106.2
+temara,Les Roches Blanches,13803.0,,107.4,106.2
+temara,Sidi Abed,13231.0,,107.4,106.2
+temara,Guich Oudaya,12572.0,13483.0,107.4,106.2
+temara,Bassatine El Menzeh,12442.0,,107.4,106.2
+temara,Temara,11626.0,,107.4,106.2
+temara,Andalousse,11571.0,6793.0,107.4,106.2
+temara,Centre ville,10365.0,,107.4,106.2
+temara,Hay Nahda,9212.0,,107.4,106.2
+safi,Bouguedra,6645.0,,107.4,106.2
+safi,El Beddouza,6253.0,,107.4,106.2
+safi,Saadla,6042.0,,107.4,106.2
+safi,Safi,5950.0,6386.0,107.4,106.2
+safi,Ouled Salmane,5803.0,,107.4,106.2
+safi,Lamaachate,5577.0,,107.4,106.2
+safi,Hrara,5576.0,,107.4,106.2
+safi,Sidi Ettiji,5444.0,,107.4,106.2
+safi,Labkhati,5215.0,,107.4,106.2
+safi,Mstari,8240.0,,107.4,106.2
+safi,Oued Abdellah Ben Moussa,7671.0,,107.4,106.2
+safi,Saada,7323.0,,107.4,106.2
+safi,Tantaoui,7245.0,,107.4,106.2
+safi,Sania Al Abidinie,6260.0,,107.4,106.2
+safi,Miftah El Khir,6250.0,,107.4,106.2
+safi,Wiam,6238.0,,107.4,106.2
+safi,Hay Al Matar,5777.0,,107.4,106.2
+safi,Boudis,5746.0,,107.4,106.2
+safi,Al Hamd,5728.0,,107.4,106.2
+khouribga,Oued Zem,7930.0,5405.0,107.4,106.2
+khouribga,Oulad Abdoune,7572.0,,107.4,106.2
+khouribga,Braksa,7059.0,,107.4,106.2
+khouribga,Maadna,6298.0,,107.4,106.2
+khouribga,Khouribga,5867.0,7938.0,107.4,106.2
+beni-mellal,Kasba Tadla,5629.0,,107.4,106.2
+beni-mellal,Béni Mellal,5146.0,6984.0,107.4,106.2
+taza,Taza,6365.0,,107.4,106.2
+berkane,Ahfir,5919.0,,107.4,106.2
+berkane,Zegzel,5873.0,,107.4,106.2
+berkane,Saidia,5847.0,7205.0,107.4,106.2
+berkane,Sidi Slimane Echcharraa,5691.0,,107.4,106.2
+berkane,Madagh,5655.0,,107.4,106.2
+berkane,Berkane,5254.0,,107.4,106.2
+berkane,Cité Balnéaire,8356.0,,107.4,106.2
+berkane,Saidia Ouest,8320.0,,107.4,106.2
+berkane,Les Golfs,7486.0,,107.4,106.2
+berkane,Hay Trifa,6751.0,,107.4,106.2
+berkane,Hay Dallas,6721.0,,107.4,106.2
+berkane,Angad,6484.0,,107.4,106.2
+berkane,Talhaoui,6446.0,,107.4,106.2
+berkane,Ibn Tachfine,6419.0,5843.0,107.4,106.2
+berkane,Hay Safaa,6291.0,,107.4,106.2
+berkane,Al Amal,6032.0,,107.4,106.2

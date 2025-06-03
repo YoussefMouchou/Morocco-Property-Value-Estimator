@@ -1,0 +1,273 @@
+{
+  "total_neighborhoods": 1480,
+  "neighborhoods_by_city": {
+    "casablanca": 100,
+    "marrakech": 100,
+    "meknes": 100,
+    "tetouan": 95,
+    "temara": 95,
+    "safi": 95,
+    "kenitra": 90,
+    "sale": 90,
+    "el-jadida": 90,
+    "nador": 85,
+    "tanger": 85,
+    "agadir": 85,
+    "berkane": 80,
+    "rabat": 75,
+    "fes": 75,
+    "oujda": 50,
+    "mohammedia": 50,
+    "khouribga": 25,
+    "beni-mellal": 10,
+    "taza": 5
+  },
+  "price_statistics": {
+    "apartment": {
+      "min": 5101.0,
+      "max": 30706.0,
+      "mean": 9389.49152542373,
+      "median": 8028.0
+    },
+    "villa": {
+      "min": 5390.0,
+      "max": 27128.0,
+      "mean": 11008.818897637795,
+      "median": 10460.0
+    },
+    "ipai": {
+      "min": 102.9,
+      "max": 123.4,
+      "mean": 108.65962837837837,
+      "median": 107.4
+    }
+  },
+  "highest_ipai_neighborhoods": [
+    {
+      "city": "casablanca",
+      "neighborhood": "Hay Mohammadi",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Al-Fida",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Casablanca Finance City",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Derb Abdellah",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Marina",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "El Manar - El Hank",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Massira Khadra",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Hay Mohammadi",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Al-Fida",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Casablanca Finance City",
+      "ipai": 123.4,
+      "ipai_normalized": 100.0
+    }
+  ],
+  "lowest_ipai_neighborhoods": [
+    {
+      "city": "agadir",
+      "neighborhood": "Imsouane",
+      "ipai": 102.9,
+      "ipai_normalized": 0.0
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Imsouane",
+      "ipai": 102.9,
+      "ipai_normalized": 0.0
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Imsouane",
+      "ipai": 102.9,
+      "ipai_normalized": 0.0
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Imsouane",
+      "ipai": 102.9,
+      "ipai_normalized": 0.0
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Imsouane",
+      "ipai": 102.9,
+      "ipai_normalized": 0.0
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Aourir",
+      "ipai": 103.81,
+      "ipai_normalized": 4.44
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Tamri",
+      "ipai": 103.81,
+      "ipai_normalized": 4.44
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Drargua",
+      "ipai": 103.81,
+      "ipai_normalized": 4.44
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Agadir",
+      "ipai": 103.81,
+      "ipai_normalized": 4.44
+    },
+    {
+      "city": "agadir",
+      "neighborhood": "Founti",
+      "ipai": 103.81,
+      "ipai_normalized": 4.44
+    }
+  ],
+  "most_expensive_neighborhoods": [
+    {
+      "city": "casablanca",
+      "neighborhood": "Ain Diab",
+      "apartment_price_sqm": 30706.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Ain Diab",
+      "apartment_price_sqm": 30706.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Ain Diab",
+      "apartment_price_sqm": 30706.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Ain Diab",
+      "apartment_price_sqm": 30706.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Ain Diab",
+      "apartment_price_sqm": 30706.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Casablanca Finance City",
+      "apartment_price_sqm": 25283.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Casablanca Finance City",
+      "apartment_price_sqm": 25283.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Casablanca Finance City",
+      "apartment_price_sqm": 25283.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Casablanca Finance City",
+      "apartment_price_sqm": 25283.0
+    },
+    {
+      "city": "casablanca",
+      "neighborhood": "Casablanca Finance City",
+      "apartment_price_sqm": 25283.0
+    }
+  ],
+  "least_expensive_neighborhoods": [
+    {
+      "city": "kenitra",
+      "neighborhood": "Souk El Arbaa",
+      "apartment_price_sqm": 5101.0
+    },
+    {
+      "city": "kenitra",
+      "neighborhood": "Souk El Arbaa",
+      "apartment_price_sqm": 5101.0
+    },
+    {
+      "city": "kenitra",
+      "neighborhood": "Souk El Arbaa",
+      "apartment_price_sqm": 5101.0
+    },
+    {
+      "city": "kenitra",
+      "neighborhood": "Souk El Arbaa",
+      "apartment_price_sqm": 5101.0
+    },
+    {
+      "city": "kenitra",
+      "neighborhood": "Souk El Arbaa",
+      "apartment_price_sqm": 5101.0
+    },
+    {
+      "city": "beni-mellal",
+      "neighborhood": "Béni Mellal",
+      "apartment_price_sqm": 5146.0
+    },
+    {
+      "city": "beni-mellal",
+      "neighborhood": "Béni Mellal",
+      "apartment_price_sqm": 5146.0
+    },
+    {
+      "city": "beni-mellal",
+      "neighborhood": "Béni Mellal",
+      "apartment_price_sqm": 5146.0
+    },
+    {
+      "city": "beni-mellal",
+      "neighborhood": "Béni Mellal",
+      "apartment_price_sqm": 5146.0
+    },
+    {
+      "city": "beni-mellal",
+      "neighborhood": "Béni Mellal",
+      "apartment_price_sqm": 5146.0
+    }
+  ]
+}
