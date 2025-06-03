@@ -65,7 +65,7 @@ ml_dataset/                    # Training data for the models
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/morocco-price-estimator.git
+   git clone https://github.com/YoussefMouchou/morocco-price-estimator.git
    cd morocco-price-estimator
    ```
 
