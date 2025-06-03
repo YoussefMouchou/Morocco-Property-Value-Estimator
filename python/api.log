@@ -1,0 +1,132 @@
+2025-06-02 15:24:04,559 - INFO - Apartment model loaded successfully
+2025-06-02 15:24:04,689 - INFO - Villa model loaded successfully
+2025-06-02 15:24:04,690 - INFO - Application initialized successfully
+2025-06-02 15:24:04,693 - INFO - Starting Flask application on port 5000
+2025-06-02 15:24:04,748 - WARNING -  * Debugger is active!
+2025-06-02 15:24:04,771 - INFO -  * Debugger PIN: 306-430-937
+2025-06-02 15:24:04,983 - INFO - 127.0.0.1 - - [02/Jun/2025 15:24:04] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-02 15:24:53,971 - INFO - 127.0.0.1 - - [02/Jun/2025 15:24:53] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-06-02 15:24:57,177 - INFO - 127.0.0.1 - - [02/Jun/2025 15:24:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-02 15:25:30,571 - INFO - 127.0.0.1 - - [02/Jun/2025 15:25:30] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-06-02 15:25:50,194 - INFO -  * Detected change in 'D:\\price est\\python\\app.py', reloading
+2025-06-02 15:25:50,195 - INFO -  * Detected change in 'D:\\price est\\python\\app.py', reloading
+2025-06-02 15:25:52,821 - INFO - Apartment model loaded successfully
+2025-06-02 15:25:52,901 - INFO - Villa model loaded successfully
+2025-06-02 15:25:52,902 - INFO - Application initialized successfully
+2025-06-02 15:25:52,903 - INFO - Starting Flask application on port 5000
+2025-06-02 15:25:52,933 - WARNING -  * Debugger is active!
+2025-06-02 15:25:52,946 - INFO -  * Debugger PIN: 306-430-937
+2025-06-02 15:26:38,519 - INFO - Apartment model loaded successfully
+2025-06-02 15:26:38,586 - INFO - Villa model loaded successfully
+2025-06-02 15:26:38,586 - INFO - Application initialized successfully
+2025-06-02 15:26:38,587 - INFO - Starting Flask application on port 5000
+2025-06-02 15:26:39,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.15:5001
+2025-06-02 15:26:39,529 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-02 15:26:39,542 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-02 15:26:41,193 - INFO - Apartment model loaded successfully
+2025-06-02 15:26:41,260 - INFO - Villa model loaded successfully
+2025-06-02 15:26:41,260 - INFO - Application initialized successfully
+2025-06-02 15:26:41,261 - INFO - Starting Flask application on port 5000
+2025-06-02 15:26:41,288 - WARNING -  * Debugger is active!
+2025-06-02 15:26:41,297 - INFO -  * Debugger PIN: 306-430-937
+2025-06-02 15:26:51,169 - INFO - 127.0.0.1 - - [02/Jun/2025 15:26:51] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-02 15:26:53,764 - INFO - 127.0.0.1 - - [02/Jun/2025 15:26:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-02 15:26:56,108 - INFO - 127.0.0.1 - - [02/Jun/2025 15:26:56] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-02 15:27:58,263 - INFO - 127.0.0.1 - - [02/Jun/2025 15:27:58] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-06-02 15:28:13,722 - INFO - 127.0.0.1 - - [02/Jun/2025 15:28:13] "GET /health HTTP/1.1" 200 -
+2025-06-02 15:28:33,403 - INFO - 127.0.0.1 - - [02/Jun/2025 15:28:33] "[33mGET /model-inf HTTP/1.1[0m" 404 -
+2025-06-02 15:28:36,136 - INFO - 127.0.0.1 - - [02/Jun/2025 15:28:36] "GET /model-info HTTP/1.1" 200 -
+2025-06-02 15:31:14,552 - INFO - 127.0.0.1 - - [02/Jun/2025 15:31:14] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-02 15:31:21,726 - INFO - 127.0.0.1 - - [02/Jun/2025 15:31:21] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-06-02 15:32:24,454 - INFO -  * Detected change in 'D:\\price est\\python\\app.py', reloading
+2025-06-02 15:32:24,466 - INFO -  * Detected change in 'D:\\price est\\python\\app.py', reloading
+2025-06-02 15:33:08,928 - INFO - Apartment model loaded successfully
+2025-06-02 15:33:09,033 - INFO - Villa model loaded successfully
+2025-06-02 15:33:09,033 - INFO - Application initialized successfully
+2025-06-02 15:33:09,033 - INFO - Starting Flask application on port 5000
+2025-06-02 15:33:09,991 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.15:5001
+2025-06-02 15:33:09,993 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-02 15:33:10,014 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-02 15:33:12,778 - INFO - Apartment model loaded successfully
+2025-06-02 15:33:12,874 - INFO - Villa model loaded successfully
+2025-06-02 15:33:12,875 - INFO - Application initialized successfully
+2025-06-02 15:33:12,876 - INFO - Starting Flask application on port 5000
+2025-06-02 15:33:12,911 - WARNING -  * Debugger is active!
+2025-06-02 15:33:12,928 - INFO -  * Debugger PIN: 306-430-937
+2025-06-02 15:33:17,513 - INFO - 127.0.0.1 - - [02/Jun/2025 15:33:17] "GET / HTTP/1.1" 200 -
+2025-06-02 15:33:35,555 - INFO - 127.0.0.1 - - [02/Jun/2025 15:33:35] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-06-02 15:34:26,118 - INFO -  * Detected change in 'D:\\price est\\python\\app.py', reloading
+2025-06-02 15:34:26,120 - INFO -  * Detected change in 'D:\\price est\\python\\app.py', reloading
+2025-06-02 15:34:26,120 - INFO -  * Detected change in 'D:\\price est\\python\\app.py', reloading
+2025-06-02 15:34:27,317 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-02 15:34:30,694 - INFO - Apartment model loaded successfully
+2025-06-02 15:34:30,788 - INFO - Villa model loaded successfully
+2025-06-02 15:34:30,795 - INFO - Application initialized successfully
+2025-06-02 15:34:30,795 - INFO - Starting Flask application on port 5000
+2025-06-02 15:34:30,838 - WARNING -  * Debugger is active!
+2025-06-02 15:34:30,854 - INFO -  * Debugger PIN: 306-430-937
+2025-06-02 15:34:37,831 - INFO - 127.0.0.1 - - [02/Jun/2025 15:34:37] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-02 15:34:38,084 - INFO - 127.0.0.1 - - [02/Jun/2025 15:34:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-02 15:36:18,414 - INFO - Apartment model loaded successfully
+2025-06-02 15:36:18,499 - INFO - Villa model loaded successfully
+2025-06-02 15:36:18,499 - INFO - Application initialized successfully
+2025-06-02 15:36:18,500 - INFO - Starting Flask application on port 5000
+2025-06-02 15:36:19,442 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.15:5001
+2025-06-02 15:36:19,445 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-02 15:36:19,466 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-02 15:36:21,932 - INFO - Apartment model loaded successfully
+2025-06-02 15:36:22,029 - INFO - Villa model loaded successfully
+2025-06-02 15:36:22,029 - INFO - Application initialized successfully
+2025-06-02 15:36:22,029 - INFO - Starting Flask application on port 5000
+2025-06-02 15:36:22,068 - WARNING -  * Debugger is active!
+2025-06-02 15:36:22,084 - INFO -  * Debugger PIN: 306-430-937
+2025-06-02 15:37:39,303 - INFO - Prediction request received: apartment property
+2025-06-02 15:37:39,401 - INFO - Prediction successful: 9708.20 for apartment
+2025-06-02 15:37:39,402 - ERROR - Unexpected error in prediction: Object of type int64 is not JSON serializable
+2025-06-02 15:37:39,405 - INFO - 127.0.0.1 - - [02/Jun/2025 15:37:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-06-02 15:38:47,691 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\__init__.py', reloading
+2025-06-02 15:38:47,692 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\aliases.py', reloading
+2025-06-02 15:38:47,696 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_8.py', reloading
+2025-06-02 15:38:47,698 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp1252.py', reloading
+2025-06-02 15:38:47,715 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\__init__.py', reloading
+2025-06-02 15:38:47,718 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\enum.py', reloading
+2025-06-02 15:38:47,720 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\types.py', reloading
+2025-06-02 15:38:47,723 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\operator.py', reloading
+2025-06-02 15:38:47,723 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\functools.py', reloading
+2025-06-02 15:38:47,725 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py', reloading
+2025-06-02 15:38:47,727 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py', reloading
+2025-06-02 15:38:47,728 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\reprlib.py', reloading
+2025-06-02 15:38:47,733 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_compiler.py', reloading
+2025-06-02 15:38:47,735 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_parser.py', reloading
+2025-06-02 15:38:47,737 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_constants.py', reloading
+2025-06-02 15:38:47,738 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_casefix.py', reloading
+2025-06-02 15:38:47,740 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py', reloading
+2025-06-02 15:38:47,741 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\warnings.py', reloading
+2025-06-02 15:38:47,743 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\gettext.py', reloading
+2025-06-02 15:38:47,747 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\__init__.py', reloading
+2025-06-02 15:38:47,749 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\decoder.py', reloading
+2025-06-02 15:38:47,750 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\scanner.py', reloading
+2025-06-02 15:38:47,754 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\json\\encoder.py', reloading
+2025-06-02 15:38:47,757 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pathlib.py', reloading
+2025-06-02 15:38:47,758 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py', reloading
+2025-06-02 15:38:47,765 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py', reloading
+2025-06-02 15:38:47,767 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py', reloading
+2025-06-02 15:38:47,772 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\typing.py', reloading
+2025-06-02 15:38:47,775 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\collections\\abc.py', reloading
+2025-06-02 15:38:47,777 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py', reloading
+2025-06-02 15:38:48,647 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-02 15:38:51,687 - INFO - Apartment model loaded successfully
+2025-06-02 15:38:51,760 - INFO - Villa model loaded successfully
+2025-06-02 15:38:51,761 - INFO - Application initialized successfully
+2025-06-02 15:38:51,761 - INFO - Starting Flask application on port 5000
+2025-06-02 15:38:51,793 - WARNING -  * Debugger is active!
+2025-06-02 15:38:51,806 - INFO -  * Debugger PIN: 306-430-937
